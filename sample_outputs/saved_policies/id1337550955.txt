@@ -1,0 +1,194 @@
+
+
+
+
+   Privacy Policy 
+ In WebComics, we pay great attention to your private information. We hope you will understand how WebComics uses your information while using WebComics services. Therefore, I hope you will take the time to read the following policy carefully.
+
+   Information collected or received from you 
+ We collect and process basic information for running our business and provide our service to you. You can usually choose what information you want to provide, but in some cases we need to require some certain information which help not only you use but also us provide service.
+ We collect or receive information in a few different ways, depending on what services you use and how you use them:
+
+   1. Information provided by you
+ We collect information you provide when you create a WebComics account, upload content, or otherwise use the service, including: 
+
+a. Identification information. For example, your email address, username, and authentication credentials used to sign up or log in. If you choose to add a photo, location, or other optional details to your profile, you should be aware that such information is public, and therefore visible to anyone who visits your profile page. And in the future, we will launch the online personal home page. It may also be visible to anyone who visits your personal home page, although we will provide the invisible setting option.
+
+b. Information about trading in WebComics. If you purchase or carry out other transactions (such as exchanging commodities in real) in WebComics, we will collect information about these purchases or transactions. This information includes your payment information, such as order information of Google play and Apple store, and distribution and contact information, such as Full name, Country, State, Province, Region, City, Address line, Email address, Zip code and Phone number. We use this information to check your consumption and logistics distribution.
+
+c. The using situation of you. We collect how you use the information of our product, such as the content and type of activities, the functions used, the operation of the execution, the accounts interacting with others and your online time, frequency, and length of your online time. This information enables us to optimize our product services and allow you to recognize products.
+
+   2. Information collected from the service you use
+ We collect information about you and the devices you use to access the service, such as your computer, mobile phone, or tablet.
+
+The information that we collect includes:
+
+a. Device information. We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number). WebComics Media may associate your device identifiers or phone number with your WebComics user account.
+
+b. Log information. When you use our services or view content provided on the service, we may automatically collect and store certain information in server logs. This may include:
+
+Details of how you used our service, such as your search queries, reading history, bookmarks, and transaction history;
+Internet protocol (IP) address;
+Device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL;
+Cookies that may uniquely identify your browser or your WebComics user account.
+
+
+c. Location information. When you use a location-enabled device, we may collect and process information about your approximate location, like the GPS signals sent by a mobile device. We may also use various technologies to determine approximate location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers, for advertising, analytics, or to protect access to content that is geo-locked due to regional licensing restrictions.
+
+d. Unique application numbers. Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to WebComics Media when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic or required updates.
+
+e. Local storage. We may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches.
+
+f. Cookies and anonymous identifiers. We use various technologies to collect and store information when you visit our services, and this may include sending one or more cookies or anonymous identifiers to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as advertising services or WebComics Media features that may appear on other sites.
+
+   3. Information from Third Parties
+ Some members or visitors may choose to connect to WebComics or register a WebComics account by using an external third-party application, such as Facebook, Twitter and Google. Connecting your WebComics account to third-party applications or services is optional. If you choose to connect your account to a third-party application, WebComics may receive information from that application and use it as part of providing our Services to you.
+For example:
+
+a. Account creation and authentication. If you sign up for a WebComics account using Facebook, Twitter or Google, we receive your email address, photo, and other public profile information, which is then used to create your WebComics profile and subsequent log in authentication.
+
+   4. Instructions of permissions we acquired
+
+ a. Permission instructions of phone device
+
+Read and write system settings: We can adjust the screen brightness for you when you are reading.
+Get mobile phone configuration: Collecting your device number, so that we can synchronous data after your log-in.
+Get location information: Collecting your location, so that we can recommend the local content to you. 
+
+
+
+  How we use your information
+ We rely on a number of legal bases to collect, use, or process your information in the ways described in this policy. These bases include where:
+
+necessary to provide the services to you or perform the contractual obligations in our Terms of Service;
+necessary to satisfy legal obligation, to exercise or defend legal claims, or to comply with a court order;
+you have consented to the processing, which you can revoke at any time;
+you have expressly made the information public.
+
+ We may use information about you for a number of purposes, including:
+
+   1. Providing and improving our services
+ Providing, maintaining, and improving our services, including the specific WebComics features you choose to use;
+a. Personalizing your use of the services;
+b. Developing new products, services, and features;
+c. Determining whether the services or specific content are available in your country;
+d. Recording and displaying your historical transaction information;
+e. Measuring, tracking, and analyzing trends in usage in connection with your use or the performance of our services.
+
+   2. Communicating with you about our services
+a. Sending you information you have requested from us or that we think you may find useful, such as updates or changes to our services;
+b. Collecting feedbacks about our services;
+c. Contacting you to resolve disputes, provide assistance, or notify you of changes to our polices or terms.
+
+  3. Keeping our services and community safe and secure.
+a. Detecting, investigating, preventing or reporting intellectual property infringement, spam, harassment, fraud, security breaches, other potentially prohibited or illegal activities, or to otherwise help protect your account and the WebComics community;
+b. Enforcing our Terms of Service or other applicable contracts, agreements, or policies;
+c. Complying with any applicable laws or regulations, or in response to lawful requests for information from the government or other third party.
+
+  4. Service providers
+a. WebComics engages with third-party companies and service providers (such as payment processors and analytics providers) to help us provide or improve our Services. These third parties have limited access to your information, and may only use the information provided to perform specific tasks on our behalf. 
+
+  5. Aggregated information
+a. Aggregated information may be used to analyze performance or otherwise improve our Services, but it will be aggregated and anonymized so that personal information is not revealed.
+
+  When and with whom we share information
+ We may share information about you as follows:
+
+  1. With your consent
+ We will share personal information with companies, organizations or individuals outside of WebComics Media when we have your consent to do so, for example at your direction or when you authorize a third party application to access your information.
+
+  2. With our affiliates
+ We provide information to our affiliates or other trusted businesses or persons to process it for us, such as accounting for the Ad Revenue Program, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
+
+  3. With third parties
+ In connection with providing, maintaining, or improving our services, including service providers who access information about you to perform services on our behalf, such as transaction processing and fraud prevention, or third parties that run advertising campaigns, provide special offers, or other activities on our behalf or in connection with our services. Please be aware that when you use third-party sites or services, their own terms and privacy policies will govern your use of those sites or services
+
+  4. Safety and compliance with the law
+ If we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
+a. Meet any applicable law, regulation, legal process or enforceable governmental request.
+b. Enforce applicable Terms of Service, including investigation of potential violations.
+c. Detect, prevent, or otherwise address fraud, security or technical issues.
+d. Protect against harm to the rights, property or safety of WebComics Media, our users, or the public as required or permitted by law.
+
+  5. Aggregated and anonymized information
+ We may share aggregated, non-personally identifiable information publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services.
+
+  6. Business transfers and corporate changes
+ If WebComics Media is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy
+
+  How long we retain your information
+ We retain data until it is no longer necessary to provide our services to you, or until your account is deleted - whichever comes first. If you no longer want WebComics to use your information to provide the Services to you, you can contact us by Email. We will delete your account information. Our Email address: WebComics@sidewalkgroup.com.
+ Information we receive from you, including transaction data related to purchases made using iTunes, Google Play will be retained and used to the extent necessary to comply with legal obligations, such as investigations or applicable tax/revenue laws, or to resolve disputes, enforce our agreements, or as otherwise described in this policy.
+ We also retain log files for internal analysis purposes. These log files are generally stored for a brief period of time, except in cases where they are used to improve service functionality or security, or where we are legally obligated to retain them for longer periods. We also retain information from accounts disabled for terms violations for at least a year to prevent repeat abuse or violations.
+
+  Backup your data records by yourself
+ We allow you to backup your personal account records. If you need, please contact us by Email (Email address: webcomics@sidewalkgroup.com. When we receive your request, we will complete the backup within 15 working days and submit it to you.
+
+  Third party service providers
+ Our Privacy Policy applies to all of the services offered by WebComics Media, but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. We use third-party service providers primarily for advertising and analytics services. 
+ Additionally, some members or visitors may choose to connect to an external third-party site or service, such as Facebook, Google and Twitter, to register a WebComics account facilitate specific activities such as sharing. Connecting your WebComics account to third-party applications or services is optional. 
+ Examples of our third-party service providers include:
+
+1. Google. We use the Google Sign-in SDK to allow you to sign up for a WebComics account and log in. We use Google Analytics to understand how our Services perform, and how you use them. We also use Google AdMob to serve some of the ads on WebComics. Learn how Google processes your _ data. You can also opt-out of Google Analytics.
+
+2. Facebook. We use the Facebook Login SDK to allow you to sign up for a WebComics account and log in. We sometimes use Facebook to market our services. We also use the Facebook Audience Network to serve some of the ads on WebComics. Learn how Facebook uses your information. You can also learn more about Facebook advertising .
+
+3. Twitter. We use the Twitter Login SDK to allow you to sign up for a WebComics account and log in. We sometimes use Twitter to market our services. Learn how Twitter uses your information.
+
+4. Firebase. The Invites function of Firebase helps us track information your shared in order to record your reward records. The Auth function access Google login module, allowing you to register or login account through Google. The Crashlytics function track the BUG information generated during you using the APP so that we can improve our services and products. Learn how Firebase uses your information .
+
+5. Flurry. We collect log events of your behaviors by Flurry so that we can improve our services and products. Learn how Flurry processes your information .
+
+6. Adjust. We track the data of advertisement installation by using Adjust to understand the specific situation of advertising service. Learn how Adjust uses your information.
+
+7. Google-Service-Places. We analyze your geographical location information by using Google-Service-Places so that we can launch personalized services according to your current geographic location. The service content currently provided is to automatically fill your receiving information. Learn how Google-Service-Places uses your information.
+ This Privacy Policy does not apply to, nor are we responsible for, third-party cookies, pixel tags, web beacons, or other tracking technologies, which are covered by such third parties’ privacy policies. For more information, we encourage you to check the privacy policies of these third parties to learn about their privacy practices.
+ This Policy also does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in advertisements, sites that may include WebComics Media services, or other sites linked from our services, nor companies or organizations who advertise our services. Learn more about targeted advertising and your choices.
+8. Mopub.We send some ads to users via Mopub.Tap here to know how your data to be processed by Mopub.
+9. Applovin.We send some ads to users via Applovin. Tap here to know how your data to be processed by Applovin.
+10. Ironsource. We send some ads to users via Ironsource.Tap here to know how your data to be processed by Ironsource.
+11. Unity-ads. We send some ads to users via Unity-ads.Tap here to know how your data to be processed by Unity-ads.
+12. Appsflyer. We send some ads to users via Appsflyer.Tap here to know how your data to be processed by Appsflyer.
+13. Adcolony. We send some ads to users via Adcolony. Tap here to know how your data to be processed by Adcolony.
+14. Inmobi. We send some ads to users via Inmobi. Tap here to know how your data to be processed by Inmobi.
+
+
+  Your choices
+ People have different personal privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used.
+ Here are some of your choices related to personal privacy:
+1. You can provide, edit, or remove certain information from your public profile by editing your profile. You may also change or correct your private WebComics account information through your account settings.
+2. Many of our Services let you choose to share information with others. Remember that when you share information publicly, it may be indexable by search engines such as Google or Bing.
+3. We partner with third parties to manage our advertising. Our third-party partners may use cookies or similar technologies in order to provide you with advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising, please visit https://www.mobvista.com/en/. We still have to remind you that you might continue to receive generic ads.
+4. If you no longer wish to use the Services or receive service-related communications (except for legally required notices), then you may delete your account. You can contact us by Email to delete your account. Our Email address: WebComics@sidewalkgroup.com.
+5. Be aware that any personal information that you choose to share in public spaces such as comments or profile walls can be read, collected, or used by others, or could be used to send unsolicited messages to you. WebComics generally does not remove content from public spaces, so some of your posts or comments may remain public even after your account is deleted, though your name and profile photo will no longer be displayed alongside any posts. You are responsible for the personal information that you choose to post in public spaces through the Services.
+6. If your personal information is wrong, we strive to give you ways to update it quickly or to remove it — unless we are required to retain that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
+7. Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. Please note that we may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes).
+
+  Withdrawing consent
+ You have the right to withdraw your consent to our processing of your information and your use of our Services. For example:
+1. You can withdraw consent from email marketing or notifications by using the unsubscribe link in such communications.
+2. You can choose to withdraw your consent to our processing of your data and your use of the Services by closing your account, by using the "Delete account" option in your WebComics settings.
+3. you can also email WebComics@sidewalkgroup.com.io to request that your personal information be deleted, excluding information we are legally required to retain.
+
+  Security
+ Your personal information is important to you, and protecting that information is important to us. We take reasonable measures to protect WebComics Media and our users from unauthorized access, alteration, disclosure, or loss of information we hold, including administrative, technical, and physical safeguards. 
+ Your account information is protected by a password. It is important that you protect against unauthorized access to your account and information by choosing your password carefully and by keeping your password and device secure, such as by logging out after using the Services.
+ We follow generally accepted standards to protect the personal information submitted to us, both during transmission and after it is received. Here are some of the security measures we take:
+1. We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.
+2. We restrict access to personal information to WebComics Media employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+Unfortunately, no method of transmission over the internet or method electronic storage is 100% secure, and we cannot guarantee absolute security of the transmission or storage of your information.
+
+  About children
+ Our service is not applicable to anyone under 13 years of age. We have graded our application according to the Iarcservices grading system standard. Children under 13 years of age please do not use WebComics. In addition, for users younger than 18 years old, we will restrict your access to some content through Mature Content Filter. If your country or district requires parental consent to be able to use this service, we will ask for parental consent and authorization.
+ Changes to this policy
+ Our Privacy Policy may change from time to time, at any time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes).
+
+  Contact
+ Please contact us at Webcomics@sidewalkgroup.com with any questions or concerns regarding this Privacy Policy.
+ We regularly review our compliance with our Privacy Policy. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
+ Latest updated: May 24, 2018
+
+  WebSite: http://h5.webcomicsapp.com/public/app/disclaimer/privacy_ios.html
+
+
+

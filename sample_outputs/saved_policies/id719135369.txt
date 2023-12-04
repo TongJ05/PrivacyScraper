@@ -1,0 +1,382 @@
+
+
+
+Skip to content
+
+
+
+Ovia Health Apps Privacy Policy
+Notice of Collection
+Full Privacy Policy
+
+Introduction and scope
+This Ovia Health Apps Privacy Policy (“Policy”) describes how Ovuline, Inc., doing business as Ovia Health (“Ovia”) collects, uses and shares personal data collected through the Ovia apps, health coaching services, surveys, and related social media and marketing activities (the “Services”). Ovia Health is a subsidiary of Labcorp, a global life-sciences leader.
+Some parts of this Policy only apply to Ovia’s free consumer version of the Services, while others only apply to the enhanced paid versions provided as a benefit by employers, health plans and health care providers. In this Policy, we refer to these different versions as the “Consumer” and “Enterprise” versions of the Services. To view the full version of this Policy, click “Full Privacy Policy” above; the “Notice of Collection” is a shorter version required for California law.
+
+
+
+
+
+
+
+
+
+This Policy does not apply to personal data collected outside the scope of the Services.  For Ovia’s non-app Privacy Policy, which covers personal data collected by Ovia from business contacts or through our corporate website, please see our Non-App Privacy Policy.
+“Personal data” means information about you that identifies you, like a name, telephone number or other bit of information that is used to tell us who you are. Personal data includes “direct identifiers” such as your email address and also “indirect identifiers” that could be used to identify you such as the IP address and the Advertising ID of your mobile device.
+
+Personal Data We Collect
+We collect the following categories of personal data in connection with our Services:
+CategoryExamples of Data We Collect In this CategoryIdentifiersName, email address, postal addressDevice identifiers such as IP address, AdID, IDFAFor Enterprise members, employer IDGeneral personal information including health informationDate of birth, date of last period, due date, and other fertility, pregnancy, health, sex life and life circumstances information you input into the apps or discuss as part of health coaching servicesIn the Parenting app, health and milestone information for your childFor Enterprise members, health insurance informationLegally protected classifications such as race, gender, disability or pregnancy statusRace, gender, gender identity, age, ethnic group, nationality, sexual orientation, pregnancy status, disability, medical conditionPurchase histories or interestsProduct usage or interests based on your app usage or browsing historyBiometric informationSleep, health and exercise data that you sync from a wearable device, Apple Health or Google Fit to your Ovia account. Ovia does not collect biometric identifiers such as fingerprints or voiceprints.Internet and app activity informationApp usage, browsing history, email opens and viewsDevice type, operating system, other device parametersGeolocationApproximate location by country, state, city, zipcode and regional areaAudio and visual informationPhotos and videos that you upload to your Ovia accountProfessional and employment relatedEmployment status, name of employer (for Enterprise membership)InferencesPregnancy trimester, fertile window, product interests based on browsing history, health issues that may be relevant to youSensitive informationracial or ethnic origin, health information, sex life and sexual orientation information
+
+
+
+
+
+
+
+
+
+Where Do We Get the Information We Collect?
+
+
+
+Categories of Sources
+Examples of Our Use of These Sources
+
+
+From direct input into our apps
+We collect the data you input into your Ovia apps and store it in our cloud computing environment
+
+
+From wearable devices, Apple Health and Google Fit
+If you sync a device, Apple Health or Google Fit with Ovia, we collect the data you choose to share
+Ovia’s use of information received from Google APIs will adhere to Google API Services User Data Policy, including the Limited Use requirements.
+
+
+From our coaching services and communications
+We collect your communications with our care advocates, health coaches and in our Community feature
+
+
+From our Enterprise customers – employers, employer health plans, health insurers, providers
+To verify your eligibility for Enterprise services, we receive identity information (such name, date of birth, employee ID numbers) from your organization
+
+
+From your mobile device or computer and through tracking technologies
+We automatically collect from your device information such as IP address and technical identifiers
+We, and third party analytics providers, advertising platforms and adtech providers, also use cookies, tags, pixels and other tracking technologies to collect information about your interaction with ads, content and the Services generally
+
+
+From social networks and social media
+
+If you download an Ovia app after clicking on an ad, we collect device information to show how you found Ovia
+
+
+From surveys and promotions
+We collect data you submit to us through surveys and promotions
+
+
+From friends referrals and lists purchases
+We may receive email addresses and contact information from referrals, co-promotions and list purchases
+
+
+
+
+Purpose of Collection and Use of Personal Data
+We use your personal data to:
+
+Provide the Services to you
+Understand how you use the Services, including what content and ads you view
+Personalize the Services by showing you content relevant to your health, interests and fertility, pregnancy and parenting journey – for example, if you provide us with personal data indicating you have a certain health condition, we may provide you with editorial content relevant to that condition
+Show you relevant ads and sponsored content, only in the free Consumer version of the Services, using an advertising profile we create based on a limited selection of your personal data, subject to your opt-in consent when required by law
+Send you advertising and marketing communications, subject to your opt-in consent when required by law
+Provide support and troubleshooting
+Provide you with health coaching if you are an Enterprise member
+Send you email communications about the Services
+Solicit your participation in surveys and run surveys
+Provide security for the Services and obtain analytics about app and ad performance
+Market, develop and improve our products and services
+Conduct clinical and scientific research, subject to your informed consent where required by law
+Create deidentified data and aggregated data and statistics, as described further here
+Comply with law, for security management and investigation, in connection with litigation, or to protect the rights or property of Ovia or third parties
+
+Lawful Processing. Our processing of your personal data is based on one or more of the following:
+
+The consent you provide to us at the point of collection of your personal information;
+The performance of the contract we have with you;
+The compliance of a legal obligation to which we are subject;
+The performance of scientific research, preparation of statistics or public health activities;
+The legitimate interests of Ovia, you or a third party, where not overridden by your interests, fundamental rights or freedoms. Ovia’s legitimate interests include the lawful conduct of its business.
+
+The table below describes the purposes for our use and collection by category.
+CategoryPurpose of Collection and UseIdentifiersAll purposes listed under “Purpose of Collection and Use of Personal Data” above (“Comprehensive Use”), other than creation of deidentified dataGeneral personal information including health informationComprehensive Use, other than uses not permitted by law. We do not use sensitive information for advertising if the law requires consent for the use and we haven’t collected consent.Legally protected classifications such as race, gender, disability or pregnancy statusComprehensive Use, other than uses not permitted by lawPurchase histories or interestsShow you relevant ads and sponsored content, only in the free Consumer version of the ServicesBiometric informationComprehensive Use, but excluding showing ads and sponsored contentInternet and app activity informationComprehensive UseGeolocationComprehensive UseAudio and visual informationStore and display the photos and videos you upload to your Ovia accountProfessional and employment relatedTo provide you with Enterprise servicesInferencesComprehensive Use, other than uses not permitted by law. Our primary use of inferences is to provide you with content relevant to your fertility, pregnancy, parenting and health.Sensitive informationComprehensive Use, other than uses not permitted by law. We do not use sensitive information for advertising if the law requires consent for the use and we haven’t collected consent.We do not use or disclose sensitive information of California users for advertising or for any purposes not permitted by the CPRA Regulations, s. 7027(m).
+
+
+
+
+
+
+
+
+
+When We Share Personal Information, What Categories of Recipients Do We Share With?
+
+
+
+Categories of Recipients
+Examples of Recipients We Share With
+
+
+Service Providers and Contractors
+Ovia’s data is processed and stored by service providers and contractors working on Ovia’s behalf, including our cloud services provider Amazon Web Services, Helpshift (support services platform), Salesforce.com (coaching platform) and Alchemer (survey platform).
+
+
+Enterprise Customers and their Business Associates and Health Benefit Providers
+If you are an Enterprise user, we may share data with your health insurer, health plan, employer, or their business associates and benefits management providers, as described below under the heading “Enterprise Data Sharing”, provided that we share information with your employer only for specific uses and only if you expressly consent.
+
+
+Sponsors of Competitions and Giveaways
+If you enter a competition or giveaway that includes an opt-in to share data with the sponsor, we share the data you agree to share.
+
+
+Advertisers and Advertising Technology Providers
+Our ads may contain tracking technologies which allow Ovia,  advertisers and adtech companies to collect technical information from your mobile device (such as IP address, AdID). We also use adtech companies to help us deliver and optimize ads. Advertisers and adtech companies may re-use this information to show you personalized ads outside Ovia.
+
+
+Analytics providers
+We share technical information from your mobile device with analytics companies to understand the performance of the Services, including what content and ads you view and how you found Ovia.
+
+
+Social media platforms and networks
+
+We may share device data with social media networks to measure the effectiveness of advertising on those networks.
+
+
+From surveys and promotions
+We collect data you submit to us through surveys and promotions
+
+
+People You Invite
+The Ovia apps may allow you to invite others, such as your partner, to share your Ovia fertility, pregnancy and parenting journey. If you invite someone, they will be able to see all of your personal data in the Ovia apps. The people you invite are also able to add others to your account. If you add personal data or other content to an Ovia account, everyone who is following that Ovia account will see it.
+
+
+You and Your Requested Followers
+If you enroll in Ovia, Ovia may send you regular email updates relevant to your Ovia journey. These emails are subject to opt-in consent where required by law. If you include a profile image or name for yourself or a child in your care, this profile image and name will be shared in emails to you and everyone who has been invited to follow your account. The name and image will be visible even before the invitation is accepted. If you do not want the image or name to be shared, you should not enter a profile picture or a profile name.
+
+
+Affiliates and Successors
+We may share data with our parent company Labcorp and with companies under common control, and with any successors in the event of merger, acquisition, asset sale, or similar transaction.
+
+
+Government Authorities and Recipients of Compelled Disclosures
+Ovia may provide personal data to courts, law enforcement, and governmental authorities and other third parties if required by law, subpoena, directive from a regulatory authority or as otherwise necessary to comply with legal requirements or to protect the rights or property of Ovia or third parties.Please also see How Does Ovia Respond to Data Requests
+
+
+
+Enterprise Data Sharing
+If you receive the premium “Enterprise” version of Ovia through your health insurer, employer or employer health plan, we may share data with your insurer, employer health plan, employer,  or vendors working on their behalf in accordance with HIPAA and other privacy laws.
+Data sharing does not occur for all Enterprise clients. If you would like definitive information on the data sharing for your Enterprise account, please contact support@oviahealth.com. Our Enterprise data sharing policy is as follows:
+
+If you receive Ovia as a benefit from your health insurer or health care provider, Ovia is part of your care package and we share your personal data with your health insurer or provider, or their business associates, under HIPAA, for care and benefits management.
+If you receive Ovia as a benefit from your employer or your employer health plan:
+
+we do not share your health data with your employer unless you expressly consent for a specific purpose; this may occur, for example, if your employer offers you access to expense reimbursement or access to an in-house care management team. If this occurs, we limit the sharing as necessary for the specific purpose to which you have given consent. To understand more about the consent we request, see Why do we ask for this?
+However, we may share personal data with your employer health plan and their business associates (including your health insurer), and with employee benefits management vendors, consistent with HIPAA or other privacy laws.
+
+
+When we share your data with your health insurer, nurse care managers from your health plan may also have access to your personal data and may contact you as a result for care management purposes.
+If you seek to register for Ovia premium services provided by a health plan or employer, we may share limited identity information (such as name and date of birth) with the health plan or employer to confirm your eligibility for premium Enterprise benefits.
+When we share health data for care and benefits management as described in this section, we share a summary snapshot of your health data. We do not share any information you have recorded in the Ovia apps about sexual activity, any answers you have given to MyQ questions, or any submissions you make to our Community feature.
+
+
+What Categories of Personal Information Do We Sell or Share for Advertising?
+Category of Personal InformationCategories of RecipientsPurpose of Sale or Ad SharingIdentifiersIf you separately opt-in to share data as part of a giveaway or promotion, we share the data you agree to share, which may include name, email address, and physical address, with the advertisers and sponsors of that promotion.With advertising networks, advertising platforms,  advertising technology providers and advertisers, we share online identifiers and IP addresses.For marketing and promotion.To sell, administer, serve and purchase ads.General personal information including health informationIf you separately opt-in to share data as part of a giveaway or promotion, we share the data you agree to share, which may include name, email address, physical address and month/year due, with the advertisers and sponsors of that promotion.For marketing and promotion.To sell, administer, serve and purchase ads.Legally protected classifications such as race, gender, disability or pregnancy statusIf you separately opt-in to share as part of a giveaway or promotion, we share the data you agree to share, which may include month/year due, with the advertisers and sponsors of that promotion.For marketing and promotion.To sell, administer, serve and purchase ads.Purchase histories or interestsIf you separately opt-in to share a purchase interest as part of a giveaway or promotion, we will share that information with the relevant advertisers or sponsors.For marketing and promotion.To sell, administer, serve and purchase ads.Internet and app activity informationWith advertising networks, advertising platforms, analytics providers, advertising technology providers and advertisers, we share online identifiers, IP addresses and ad engagement and activity information.For marketing and promotion.To sell, administer, serve and purchase ads.GeolocationNot sold or shared for advertising.Not applicableProfessional and employment relatedNot sold or shared for advertising.Not applicableInferencesIf you separately opt-in to share data as part of a giveaway or promotion, we share your pregnancy month/year due with advertisers and sponsors.Unless you separately opt in to share specific data as part of a promotion, we do not share any inferences with advertisers or sponsors.For marketing and promotion.To sell, administer, serve and purchase ads.Sensitive informationIf you separately opt-in to share data as part of a giveaway or promotion, we share your pregnancy month/year due with advertisers and sponsors.Unless you separately opt in to share specific data as part of a promotion, we do not share any health data you track in Ovia apps with advertisers or sponsors.For marketing and promotion.To sell, administer, serve and purchase ads.
+No Selling or Sharing for Advertising of Personal Data of Consumers Under 16
+To its knowledge, Ovia does not sell or share any personal data of Ovia users under 16. Ovia does not show advertising to users under 16.
+
+
+
+
+
+
+
+
+
+Categories of Personal Information Disclosed for Business Purposes
+
+
+
+Category
+Categories of Recipients
+Business Purpose for Sharing
+
+
+Identifiers
+Cloud computing providers, data analytics providers, vendors who provide email, support, marketing, survey and scheduling systems, advertising sales platform, advertising networks, advertising platforms, and advertising technology providers.
+For internal operations (hosting, support, marketing, analytics), and to sell, administer, serve and purchase ads.
+
+
+General personal information including health information
+Cloud computing providers, data analytics providers, vendors who provide email, support, marketing, survey and scheduling systems.Enterprise customers and their vendors as described under the “Enterprise Data Sharing” heading above.
+For internal operations (hosting, support, marketing, analytics), and to sell, administer, serve and purchase ads.To provide our digital health solutions to Enterprise customers.
+
+
+Legally protected classifications including race, gender, pregnancy status
+Cloud computing providers, data analytics providers, and vendors who provide email, support, marketing, survey and scheduling systems.Enterprise customers and their vendors as described under the “Enterprise Data Sharing” heading above.
+For internal operations (hosting, support, marketing, analytics), and to sell, administer, serve and purchase ads.To provide our digital health solutions to Enterprise customers.
+
+
+Purchase histories or interests
+Cloud computing providers, data analytics providers, and vendors who provide email, support, marketing, survey and scheduling systems.
+For internal operations (hosting, support, marketing, analytics) and to sell, administer, serve and purchase ads.
+
+
+Biometric information
+Cloud computing providers, and vendors who provide email, support, marketing, survey and scheduling systems.If you elect to share your Ovia data with a device provider (such as Apple or Google), we share the data you elect to share.Enterprise customers and their vendors as described under the “Enterprise Data Sharing” heading above.
+For internal operations (hosting, support, marketing, analytics) and to provide our digital health solutions to Enterprise customers.If you elect to share your Ovia data with a device provider (such as Apple or Google), to provide that sharing service to you.
+
+
+
+Internet and app activity information
+Cloud computing providers, data analytics providers, and vendors who provide email, support, marketing, survey and scheduling systems.Advertising networks, advertising platforms, advertising technology providers and advertisers may collect this data from you due to your interaction with Ovia.Enterprise customers and their vendors as described under the “Enterprise Data Sharing” heading above.
+For internal operations (hosting, support, marketing, analytics), to provide our digital health solutions to Enterprise customers,  and to sell, administer, serve and purchase ads.
+
+
+Geolocation
+Cloud computing providers, data analytics providers, and vendors who provide email, support, marketing, survey and scheduling systems.
+For internal operations (hosting, support, marketing, analytics) and to sell, administer, serve and purchase ads.
+
+
+Audio and visual information
+Cloud computing providers.
+For internal operations (hosting and support).
+
+
+Professional and employment related
+Cloud computing providers, data analytics providers, and vendors who provide email, support, marketing, survey and scheduling systems.
+For internal operations (hosting, support, marketing, analytics).
+
+
+Inferences
+Cloud computing providers, data analytics providers, and vendors who provide email, support, marketing, survey and scheduling systems.Enterprise customers and their vendors as described under the “Enterprise Data Sharing” heading above.Other than purchase interests, we do not disclose this data to our advertising sales platform, advertising networks, advertising platforms, or advertising technology providers.
+For internal operations (hosting, support, marketing, analytics), to provide our digital health solutions to Enterprise customers,  and to sell, administer, serve and purchase ads.
+
+
+Sensitive information
+Cloud computing providers, data analytics providers, and vendors who provide email, support, marketing, survey and scheduling systems.Enterprise customers and their vendors as described under the “Enterprise Data Sharing” heading above.
+For internal operations (hosting, support, marketing, analytics) and to sell, administer, serve and purchase ads.To provide our digital health solutions to Enterprise customers.
+
+
+
+Ovia may also share personal data for business purposes in all of the above categories, as described in the table “When We Share Personal Information, What Categories of Recipients Do We Share With?”, with the following categories listed in that table:
+People You Invite, You and Your Requested Followers, Affiliates and Successors, and Government Authorities and Recipients of Compelled Disclosures.
+Third Parties Controlling the Collection of Personal Information
+When Ovia discloses personal data to third parties, we may disclose to processors who act on Ovia’s behalf (our principal processors are listed on our Subprocessors Page) and to controllers, third parties who act on their own behalf even if they also provide services to Ovia. The controllers to whom we disclose personal data are:
+
+Google: We use Google technology and services to obtain analytics and provide you with ads and tailored Ovia content. As a result of this, Google obtains and uses certain of your personal data as described here.
+Third Party Advertising Platforms such as Pinterest or TikTok: We may advertise on third party platforms. As a result, the platform may acquire data showing you have downloaded an Ovia app, which it may use for its own personalized advertising purposes.
+Advertisers and AdTech Vendors: Some ads shown by Ovia include tracking technologies (tags or pixels, in particular) that allow the advertiser or adtech vendors working on the advertiser’s behalf to measure ad performance. An advertiser, adtech vendor, or third party platform may receive information that you or your device have received a particular ad within Ovia, and they may reuse that information to make inferences about your interests and to show you other advertising outside the Services.
+
+Some of the controllers listed above may not act as controllers in all instances, in particular when Ovia has implemented a “limited service provider” or “processor” level of service offered by the controller for compliance purposes in some jurisdictions.
+Data Security
+Ovia protects personal data with security measures that are consistent with industry standards, including background checks on all employees and data encryption in transit and at rest. Ovia’s Enterprise product has achieved certification to the HITRUST Common Security Framework. Our principal database is hosted by Amazon Web Services, which maintains multiple security certifications. We will notify you of security incidents as required by law.
+
+Data Retention
+If you are a Consumer user, we store your data (all categories) for the period that your account is active and then for 7 years after that. After this period, we automatically delete your data. 
+If you are an Enterprise user, we store your data (all categories) during the period that you are receiving Enterprise benefits. Ovia is generally required to delete your data after your Enterprise benefits end. We will notify you before your data is deleted and, where possible, offer you the opportunity to convert your account to a Consumer account and retain your data.
+While these are our standard retention periods, you can delete your data at any time as described in the next section.
+What Are Your Choices?
+Within the Ovia Apps
+You can use self-service controls within the Ovia apps to exercise your data subject rights to:
+
+Correct your data:
+
+Go to the “More” page of your Ovia app to the “Account” section to modify your profile and health information
+
+
+Opt-out of marketing emails and push-notifications
+
+Go to the “More” page of your Ovia app, then choose “Settings”, to edit email subscriptions and opt out of email and push notifications
+You can also opt out of marketing emails by using the unsubscribe link in the emails
+
+
+Opt-out of sale or sharing of your data for personalized advertising, when the law requires us to offer you this option
+
+Go to “”More” then Settings” and choose “Do Not Sell or Share My Personal Information”
+
+
+Delete your data and account, subject to certain exceptions
+
+Go to “More” then “Settings” and choose “reset or delete my account”, and then “delete my account”
+
+
+Obtain a copy of your data
+
+Go to “More” then “Settings” and then “export my data”
+
+
+Obtain a summary statement of Ovia’s data processing
+
+Go to “More” then “Settings” and choose “how is my data used?”
+
+
+Withdraw your consent to Ovia’s data processing by deleting your data
+
+Go to “More” then “Settings” and choose “reset or delete my account”, and then “delete my account”
+
+
+For non-US users, manage your cookies and opt out of personalized advertising
+
+Go to “More”, “Settings”, then “Manage My Privacy Settings”
+
+
+
+US users who do not have a “Do Not Sell or Share My Personal Information” option within their Settings menu may opt out of third party personalized advertising as follows:
+
+You can use your device’s “Limit Ad Tracking” settings. The Network Advertising Initiative provides useful information here.
+You can download and use the AppChoices app at https://youradchoices.com/ .
+To opt out in your mobile browser, please visit https://optout.aboutads.info/#/ or https://optout.networkadvertising.org/# on each of your devices and browsers..
+
+Opting Out Through Browser-Based Global Privacy Controls
+Ovia does not receive a “do not sell” Global Privacy Control (GPC) signal when you are using Ovia’s mobile applications or viewing content through in-app webviews. Ovia respects “do not sell” GPC signals that we receive on the Ovia Health corporate website at www.oviahealth.com, which is governed by Ovia’s Non-App Privacy Policy.
+Contacting Our Helpdesk, and Use of Authorized Agents
+You may email Ovia at support@oviahealth.com to exercise any of the rights listed above and any other data subject rights provided by law. Any authorized agents seeking to exercise data subject rights on behalf of any Ovia users should contact support@oviahealth.com with their request. Ovia may require you to verify your identity by entering your username and password in order to exercise data subject rights.
+You have the right not to be discriminated against for exercising your privacy rights. Contact our helpdesk if you are concerned that this has happened to you.
+Appeal Rights
+If your request to exercise any of your rights is refused, you may send your notice of appeal by email to legal@oviahealth.com, for review by Ovia’s Legal Department. We will resolve your appeal within 30 days of the date of receipt of your email.
+Exceptions to Deletion
+Even if you exercise your rights described above, Ovia may retain personal data to maintain proper business records, to comply with and as permitted by law, for security management and investigation, in connection with litigation, or to protect the rights or property of Ovia or third parties. Please see also How Does Ovia Respond to Data Requests.
+Other Relevant Information
+If you opt-out of marketing emails and push notifications, you will still receive account management notices. To stop all emails and push notifications, you must delete your account and data. If we delete your data, we will not delete the posts or comments you have shared publicly on Ovia’s social media, community or chat features. If you have consented to participate in a research study and subsequently request deletion of your data, we may delay deletion until completion of the study. Even if you exercise your rights described above, Ovia may retain personal data to maintain proper business records, to comply with and as permitted by law, for security management and investigation, in connection with litigation, or to protect the rights or property of Ovia or third parties. Please see also How Does Ovia Respond to Data Requests.
+Your mobile device may include options where you can choose to opt-out of third party personalized advertising. Please note that this does not opt you out of Ovia’s personalization of the ads and content you see within our apps.
+How to Contact Ovia with Comments or Complaints?
+To contact Ovia to exercise your privacy choices, please see “What Are Your Choices?” above.
+Ovia has designated a Data Protection Officer. To contact our Data Protection Officer or for questions or complaints about Ovia’s processing of personal data, contact us at:
+Data Protection OfficerOvuline, Inc., dba Ovia Health263 Summer Street, Floor 6,Boston, MA 02210legal@oviahealth.com
+Data subjects located in the EEA may contact the Data Protection Officer at the address above or Ovia’s EU representative at the address below:
+DP-Dock GmbHOvuline, Inc., doing business as Ovia HealthBallindamm 3920095 Hamburg, GermanyE-Mail: oviahealth@gdpr-rep.com
+Data Subjects located in the UK may contact the Data Protection Officer at the address above or Ovia’s UK representative at the address below:
+DP Data Protection Services UK Ltd.Attn: Ovia Health16 Great Queen StreetCovent Garden, London, WC2B 5AHUnited KingdomEmail: oviahealth@gdpr-rep.com
+You may also have the legal right to lodge a complaint about Ovia’s data processing with your local consumer protection or data protection authority.
+Additional Information
+Third Party Websites or Apps: Some ads or links within the Services may interface with or take you to websites or apps that are operated by other companies. Ovia is not responsible for the privacy practices of its advertisers or others. You should review the privacy policies of those sites and apps.
+US Location: The data we collect is transferred to servers located in the US of our cloud computing provider, Amazon Web Services (AWS); some personal data may be transferred to other US-based vendors who provide services to Ovia, including the principal vendors listed here. If you are resident outside the US, your data may as a result become subject to US jurisdiction which may provide you with weaker data protection safeguards and rights than you would enjoy in your home jurisdiction. By accepting this Privacy Policy, using the Services or providing us with your personal data you acknowledge and consent to your personal data being transferred and/or processed as described in this Policy.
+Children: The Services are not available to children under 13 or who otherwise require parental consent under applicable law to use the Services or provide personal information to Ovia. Ovia does not collect personal data from children under 13. Ovia does not show advertising to any user under the age of 16. Parents and guardians may include personal data about their baby or child in their Ovia account; the parent or guardian is responsible for ensuring they have the legal right to do so.
+Deidentified Data and Aggregated Data: Ovia may use personal data to create deidentified data for research and development purposes. Deidentified data is not personal data as it is no longer linked or linkable to you. If we create a deidentified dataset we maintain it as such and will not re-identify it. We may provide deidentified data to our research partners, such as universities and medical research institutions for research, and to other businesses who have engaged us to provide research services on deidentified or aggregated data. Ovia may disclose or sell deidentified data derived from patient information (as defined by the California Consumer Privacy Act); if so, such patient information is deidentified in accordance with HIPAA safe harbor or expert determination deidentification requirements. We may use personal data to create aggregated analytic data and statistics, which we may use for Ovia’s internal purposes or share with third parties. Ovia may receive compensation for sharing deidentified or aggregate data.
+Social Media: Some Ovia content may appear on Ovia’s social media channels such as Instagram, Twitter, and LinkedIn. Ovia does not collect personal data through those channels, and the respective privacy policies of the social media provider will apply to your usage of those channels. An exception to this is if we ask you to submit personal data (for example, your Instagram handle, email address or name) to us through social media messaging, which may occur as part of a giveaway or competition, in which case this Privacy Policy will apply.
+Changes to this Policy
+Ovia may modify this Policy from time to time by posting an updated version of the Policy. When we make material changes this Policy, we will notify users by email or in-app notification.
+Last updated: August 14, 2023
+The principal changes in this update were:
+
+We removed references to Facebook as Ovia no longer allows users to sign-in using Facebook.
+
+
+
+
+
+
+
+
+
+
+Notice and ConsentWe use cookies and tracking technologies to enable certain functions and tools on this website, to track resources, traffic, use and performance, and to promote our products and services. We also share information with third parties as described in our Non-App Privacy Policy. By closing this notice or using our website, you consent to our  Terms of Use and to our information collection and sharing practices as described in ourNon-App Privacy Policy.Cookies Settings Reject Cookies Accept All CookiesYour Opt Out Preference Signal is HonoredPrivacy Preference CenterWhen you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.Allow All Cookies Manage Consent PreferencesStrictly Necessary CookiesAlways ActiveThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.Cookies Details‎Functional Cookies Functional Cookies These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.Cookies Details‎Performance Cookies Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.Cookies Details‎Targeting Cookies Targeting Cookies These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.Cookies Details‎Analytic Cookies Analytic Cookies These cookies allow us to count visits and traffic sources, so we can measure and improve the performance of our site. They help us know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies, we will not know when you have visited our site.Cookies Details‎Back ButtonCookie List Search IconFilter IconClear checkbox label labelApply CancelConsent Leg.Interest checkbox label label checkbox label label checkbox label labelReject All Non-Essential Cookies Confirm My Choices 

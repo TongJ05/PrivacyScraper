@@ -1,0 +1,404 @@
+
+Powered by CookiebotConsentDetails[#IABV2SETTINGS#]AboutWe use cookies on this Site to enhance your user experienceBy clicking the Accept button, you agree to us doing so.To learn more about our cookie categories, click Cookie Details. Consent SelectionStrictly Necessary Functional  Analytical/Performance Targeting Cookie Details 18 These are required for the operation of our Sites. (erased when you close your browser)Amazon2Learn more about this providerak_bmscThis cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.Expiry: 1 dayType: HTTPJSESSIONIDPreserves users states across page requests.Expiry: SessionType: HTTPCookiebot1Learn more about this providerCookieConsentStores the user's cookie consent state for the current domainExpiry: 1 yearType: HTTPGoogle1Learn more about this provider_GRECAPTCHAThis cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.Expiry: 180 daysType: HTTPLinkedIn2Learn more about this providerli_gcStores the user's cookie consent state for the current domainExpiry: 180 daysType: HTTPbscookieThis cookie is used to identify the visitor through an application. This allows the visitor to login to a website through their LinkedIn application for example.Expiry: 1 yearType: HTTPQ44Learn more about this providerrc::aThis cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.Expiry: PersistentType: HTMLrc::bThis cookie is used to distinguish between humans and bots. Expiry: SessionType: HTMLrc::cThis cookie is used to distinguish between humans and bots. Expiry: SessionType: HTMLdid_compatEnsures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor.   Expiry: 1 yearType: HTTPThe Defense Visual Information Distribution Service1Learn more about this providerPHPSESSIDPreserves user session state across page requests.Expiry: SessionType: HTTPVimeo1Learn more about this provider__cf_bmThis cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.Expiry: 1 dayType: HTTPYouTube1Learn more about this providerCONSENTUsed to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.  Expiry: 2 yearsType: HTTPlogin.q4inc.comnutrien2019tf.q4web.com2did [x2]Unique id that identifies the user's session.Expiry: 1 yearType: HTTPnutrien.com3incap_ses_#Preserves users states across page requests.Expiry: SessionType: HTTPnlbi_#Used to ensure website security and fraud detection.Expiry: SessionType: HTTPvisid_incap_#Preserves users states across page requests.Expiry: 1 yearType: HTTP 1 These improve the functional performance of our Sites and make them easier for you to use. (you can delete these cookies via your browser settings) LinkedIn1Learn more about this providerlidcRegisters which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.  Expiry: 1 dayType: HTTP 20 These allow us to recognize and count the number of users of our Sites and understand how such users navigate through our Site. (erased when you close your browser)Google14Learn more about this provider_ga [x5]Registers a unique ID that is used to generate statistical data on how the visitor uses the website.Expiry: 2 yearsType: HTTP_ga_# [x3]Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit. Expiry: 2 yearsType: HTTPcollectUsed to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.Expiry: SessionType: Pixel_dc_gtm_UA-#Used by Google Tag Manager to control the loading of a Google Analytics script tag.Expiry: 1 dayType: HTTP_gid [x3]Registers a unique ID that is used to generate statistical data on how the visitor uses the website.Expiry: 1 dayType: HTTPtdRegisters statistical data on users' behaviour on the website. Used for internal analytics by the website operator. Expiry: SessionType: PixelLinkedIn1Learn more about this providerAnalyticsSyncHistoryUsed in connection with data-synchronization with third-party analysis service. Expiry: 30 daysType: HTTPQ43Learn more about this providersnowplowOutQueue_#_post2Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. Expiry: PersistentType: HTMLsnowplowOutQueue_#_post2.expiresRegisters statistical data on users' behaviour on the website. Used for internal analytics by the website operator. Expiry: PersistentType: HTMLspRegisters statistical data on users' behaviour on the website. Used for internal analytics by the website operator. Expiry: 1 yearType: HTTPTwitter Inc.1Learn more about this providerpersonalization_idThis cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile. Expiry: 400 daysType: HTTPVimeo1Learn more about this providervuidCollects data on the user's visits to the website, such as which pages have been read.Expiry: 2 yearsType: HTTP 36 These record your visit to our Sites, the pages you have visited and the links you have followed to recognize you as a previous visitor and to track your activity on the Sites and other websites you visit. (you can delete these cookies via your browser settings)  Meta Platforms, Inc.3Learn more about this providerlastExternalReferrerDetects how the user reached the website by registering their last URL-address.Expiry: PersistentType: HTMLlastExternalReferrerTimeDetects how the user reached the website by registering their last URL-address.Expiry: PersistentType: HTML_fbpUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.Expiry: 3 monthsType: HTTPGoogle1Learn more about this providerads/ga-audiencesUsed by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.Expiry: SessionType: PixelLinkedIn3Learn more about this providerbcookieUsed by the social networking service, LinkedIn, for tracking the use of embedded services.Expiry: 1 yearType: HTTPli_sugrCollects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant. Expiry: 3 monthsType: HTTPUserMatchHistoryEnsures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor.   Expiry: 30 daysType: HTTPQ41Learn more about this providerrc::fThis cookie is used to distinguish between humans and bots. Expiry: PersistentType: HTMLSitescout.com1Learn more about this providerup/f0dd13914c37ec12PendingExpiry: SessionType: PixelTwitter Inc.3Learn more about this provideri/adsct [x2]The cookie is used by Twitter.com in order to determine the number of visitors accessing the website through Twitter advertisement content. Expiry: SessionType: Pixelmuc_adsCollects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant. Expiry: 400 daysType: HTTPYouTube22Learn more about this provider-5a2a5f274f29d144PendingExpiry: SessionType: HTMLiU5q-!O9@$Registers a unique ID to keep statistics of what videos from YouTube the user has seen.Expiry: SessionType: HTMLLAST_RESULT_ENTRY_KEYUsed to track user’s interaction with embedded content.Expiry: SessionType: HTTPLogsDatabaseV2:V#||LogsRequestsStorePendingExpiry: PersistentType: IDBnextIdUsed to track user’s interaction with embedded content.Expiry: SessionType: HTTPremote_sidNecessary for the implementation and functionality of YouTube video-content on the website.  Expiry: SessionType: HTTPrequestsUsed to track user’s interaction with embedded content.Expiry: SessionType: HTTPServiceWorkerLogsDatabase#SWHealthLogNecessary for the implementation and functionality of YouTube video-content on the website.  Expiry: PersistentType: IDBTESTCOOKIESENABLEDUsed to track user’s interaction with embedded content.Expiry: 1 dayType: HTTPVISITOR_INFO1_LIVETries to estimate the users' bandwidth on pages with integrated YouTube videos.Expiry: 180 daysType: HTTPVISITOR_PRIVACY_METADATAStores the user's cookie consent state for the current domainExpiry: 180 daysType: HTTPYSCRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Expiry: SessionType: HTTPyt.innertube::nextIdRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Expiry: PersistentType: HTMLytidb::LAST_RESULT_ENTRY_KEYStores the user's video player preferences using embedded YouTube videoExpiry: PersistentType: HTMLYtIdbMeta#databasesUsed to track user’s interaction with embedded content.Expiry: PersistentType: IDByt-remote-cast-availableStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-cast-installedStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-connected-devicesStores the user's video player preferences using embedded YouTube videoExpiry: PersistentType: HTMLyt-remote-device-idStores the user's video player preferences using embedded YouTube videoExpiry: PersistentType: HTMLyt-remote-fast-check-periodStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-session-appStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-session-nameStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLup.pixel.ad1cntr_attrCollects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant. Expiry: PersistentType: HTMLwww.nutrien.com1___utmvcCollects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.Expiry: 1 dayType: HTTPUnclassified  12Amazon2Learn more about this provider_cache_0_t__1_i__10_N__11_Y__12_S__13_E__2_c__3_k__4_e__5_r__6_D__7_a__8_t__9_aPendingExpiry: PersistentType: HTML_cache_0_t__1_i__10_T__11_S__12_X__2_c__3_k__4_e__5_r__6_D__7_a__8_t__9_aPendingExpiry: PersistentType: HTMLQ46Learn more about this provider__uxq412__id.a536PendingExpiry: 2 yearsType: HTTP__uxq412__ses.a536PendingExpiry: 1 dayType: HTTPipApiInfoPendingExpiry: SessionType: HTMLq4l_token_fetch_attemptedPendingExpiry: SessionType: HTMLq4spispPendingExpiry: PersistentType: HTMLq4-trackerPendingExpiry: PersistentType: HTMLnutrien.comwww.nutrien.com4ticker-SessionNYSE [x2]PendingExpiry: SessionType: HTTPticker-SessionTSX [x2]PendingExpiry: SessionType: HTTPCross-domain consent[#BULK_CONSENT_DOMAINS_COUNT#] [#BULK_CONSENT_TITLE#]List of domains your consent applies to: [#BULK_CONSENT_DOMAINS#]Cookie declaration last updated on 11/10/23 by Cookiebot[#IABV2_TITLE#][#IABV2_BODY_INTRO#][#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#][#IABV2_BODY_PREFERENCE_INTRO#][#IABV2_LABEL_PURPOSES#][#IABV2_BODY_PURPOSES_INTRO#][#IABV2_BODY_PURPOSES#][#IABV2_LABEL_FEATURES#][#IABV2_BODY_FEATURES_INTRO#][#IABV2_BODY_FEATURES#][#IABV2_LABEL_PARTNERS#][#IABV2_BODY_PARTNERS_INTRO#][#IABV2_BODY_PARTNERS#]Privacy & Cookies StatementEffective Date: September 26, 2022This Privacy & Cookies Statement ("Statement") describes how Nutrien Ltd. and its affiliates and subsidiaries (collectively, "Company" or "Nutrien" or “We”) collect, use, share, and otherwise process information about certain identified or identifiable individuals ("Personal Data"). Specifically, this Statement applies to Personal Data that we obtain in connection with the provision of products and services and/or the operation of our business ("Services") about:Visitors to our websites, mobile apps, or other online properties ("Sites");        Our individual customers and prospects; Business contacts for our customers, prospects, business partners, distributors, vendors, customer’s guarantors, and suppliers or their representatives.References to Company or Nutrien indicates that we may share Personal Data between our affiliates and subsidiaries subject to applicable laws.For the avoidance of doubt, this Statement does not apply to the Company's collection or processing of information related to job applicants, employees, or contractors. Privacy Notices for such practices are made available through other Company policies.Nutrien endeavors to comply with the privacy legislation within each jurisdiction in which we operate. Sometimes the privacy legislation and / or an individual's right to privacy are different from one jurisdiction to another.  Practices relating to Personal Data will be guided by what is permitted or required under applicable law.Summary of Key Points1. CollectionWe collect names, contact details, and other Personal Data related to our Site’s visitors and commercial relationships.2. UseWe use Personal Data to provide our Services, which includes, for example, responding to inquiries, maintaining business operations, providing relevant marketing, and fulfilling other business and compliance purposes. 3. SharingWe share Personal Data to provide our Services.4. Marketing choicesYou have certain options over the Company's use of certain Personal Data for marketing purposes.5. CookiesWe use cookies on our Site and in our electronic communications, and provide choices on use of cookies, including for third party targeting and advertising.6. Data subject rights  Based on the jurisdiction you reside in and the laws governing Personal Data in your jurisdiction, you may have rights related to your Personal Data, such as access, rectification, and deletion.7. Data securityWe maintain technical and organizational measures to protect Personal Data from loss, misuse, alteration, or unintentional destruction.8. Cross-border data transfersWe provide appropriate protections for cross-border transfers as required by law.9. Other issuesWe provide other information in this Statement about: (i) the legal basis for collecting and processing Personal Data, (ii) the consequences for not providing Personal Data, (iii) automated decision-making, (iv) do-not-track (DNT) signals, (v) data retention, (vi) links to third-party websites, (vii) employee and contractor issues; and (viii) changes to this Statement.10. Contact usPlease contact us as detailed below with any questions.Annex for jurisdiction-specific provisionsWe have included supplemental provisions to address jurisdiction-specific requirements that may apply depending on your residence and our locations where we do business with you.1. Collection of Personal DataWe collect the following categories of Personal Data:Basic Data: Name, date of birth, title, company, job responsibilities, phone number, address, email address, location or geographic data, and other contact details.Device Data: Computer Internet Protocol (IP) address, unique device identifier (UDID), cookies and other data linked to a device, and data about usage of our Sites and communications, data generated or collected by our or third party equipment or devices owned and operated by us or third parties, including location, land boundaries, images, and any data provided by you or your agents.Financial Data: Revenue history, expenditure records, credit related information, and other purchasing or usage histories or tendencies, payment information,- and transaction history.Government Identifiers: tax file numbers, government issued business numbers, and license numbers.Marketing Data: Data about individual participation (whether in-person or virtual) at industry gatherings, Company sponsored events (including in the stores/experience centers), credentials, associations, Services you are interested in, and other preferences.Registration Data: Newsletter requests, subscriptions, downloads, and username/passwords.2. Use of Personal DataWe use the above categories of Personal Data for the following purposes:Purpose of UseCategories of Personal DataProvide the Services as requested and ancillary services in connection with them (e.g., credit applications, assessing and investigating insurance risks/claims) respond to your inquiries, assess credit worthiness, allow Nutrien to contact you, and fulfill incentive or stewardship programs.Basic Data, Device Data, Financial Data, Government Identifiers, and Registration DataManage your accounts, maintain our business operations, and allow you access to our proprietary systems.Basic Data, Device Data, Financial Data, Government Identifiers and Registration DataMake our Services more personal, intuitive, and easy to use.Basic Data, Device Data, Financial Data, Government Identifiers, and Marketing DataProtect the security and effective functioning of our Site and information technology systems.Basic Data, Device Data, and Registration DataProvide relevant marketing about our or our business partners’ Services, or promotions that we or they are developing, and opportunities that may be available to you, or in connection with other business purposes.Basic Data, Registration Data, Device Data, Financial Data, Government Identifiers, and Marketing DataAddress our compliance and legal obligations and exercise our legal rights.Basic Data, Commercial Data, Device Data, Financial Data Government Identifiers, and Registration Data3. Sharing of Personal DataWe share Personal Data with the following categories of recipients:Service providers: We may share Personal Data with third party companies and service providers to enable such parties to perform functions on our behalf and under our instructions in order to carry out the purposes identified above. We require such third party companies and service providers to provide reasonable security for Personal Data and to use and process such Personal Data only on our behalf.Auditors and advisors: We may share Personal Data with auditors for the performance of audit functions and advisors for the provision of legal and other advice.Business reorganization parties: We may share Personal Data with any corporate seller, acquirer, or prospect to the extent permitted by law as part of a proposed or actual merger, acquisition, sale of company assets, or transition of service to another provider, as well as in the event of insolvency, bankruptcy, or receivership in which Personal Data would be transferred as an asset of the Company.Government agencies or private parties to legal proceedings: We may share Personal Data in order to comply with any subpoena, court order or other legal process, or other governmental request.  We also share Personal Data to establish or protect our legal rights, property, or safety, or the rights, property, or safety of others.Business partners: We may share Personal Data with third party independent business partners in connection with incentive and rebate programs or other activities. Such third party independent business partners may send you information promoting the products or services of those partners.If you have questions about the recipients with which we share Personal Data, please contact us as specified below.4. Marketing ChoicesYou have choices with respect to our use of your Personal Data for direct marketing purposes. If you no longer wish to receive any marketing communications, remain on a mailing list to which you previously subscribed, or receive any other marketing communication, you can choose to not receive such communications at any time. Please follow the unsubscribe link in the relevant communication or contact us as detailed in Section 10 below.5. CookiesWe use and allow certain trusted third party companies to use cookies, web beacons, and similar tracking technologies (collectively, "cookies") on third party sites and our Site.What are cookies?Cookies are small amounts of data that are stored on your browser, device, communication, or the page you are viewing. Some cookies are deleted once you close your browser, while other cookies are retained even after you close your browser so that you can be recognized when you return to a website. More information about cookies and how they work is available at www.allaboutcookies.org.How do we use cookies?We use cookies to provide our Services, gather information about your usage patterns when you navigate our Site in order to enhance your personalized experience, and understand usage patterns to improve our Site and Services. We also allow certain trusted third party companies to place cookies on our Sites in order to collect information about your online activities on our Sites and across different websites you visit. This information is used to provide advertising tailored to your interests and to analyze the effectiveness of such advertising.Cookies on our Sites are generally divided into the following categories:Strictly Necessary Cookies: These are required for the operation of our Sites. They include, for example, cookies that enable you to log into secure areas. These cookies are session cookies that are erased when you close your browser.Analytical/Performance Cookies: These allow us to recognize and count the number of users of our Sites and understand how such users navigate through our Site. This helps to improve how our Sites work, for example, by ensuring that users can easily find what they are looking for. These cookies are session cookies, which are erased when you close your browser.Functional Cookies: These improve the functional performance of our Sites and make them easier for you to use. For example, cookies are used to remember that you have previously visited the Sites and asked to remain logged into them. These cookies qualify as persistent cookies, because they remain on your device for us to use during a next visit to our Sites. You can delete these cookies via your browser settings.Targeting Cookies: These record your visit to our Sites, the pages you have visited and the links you have followed to recognize you as a previous visitor and to track your activity on the Sites and other websites you visit. These cookies qualify as persistent cookies, because they remain on your device for us to use during a next visit to our Sites. You can delete these cookies via your browser settings. See below for further details on how you can control third party targeting cookies.What are your options if you do not want cookies on your computer?You may block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including strictly necessary cookies) it may limit your use of certain features or functions on our Sites. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon as you visit our Site. Please note, as further described in Section 9, we currently do not alter our practices when we receive a “Do Not Track” signal from a visitor’s browser.  Internet browsers allow you to change your cookie settings. These settings are usually found in the 'options' or 'preferences' menu of your internet browser. In order to understand these settings, the following links may be helpful. Otherwise you should use the 'Help' option in your internet browser for more details. Cookie settings in Internet Explorer Cookie Settings for Microsoft Edge Cookie settings in Firefox Cookie settings in Chrome Cookie settings in Safari If you wish to withdraw your consent at any time, you will need to delete your cookies using your internet browser settings.  To learn more about certain cookies used for Interest based advertising by third parties, including through cross-device tracking, and to exercise certain choices regarding such cookies, please visit the Digital Advertising Alliance, Network Advertising Initiative, Digital Advertising Alliance-Canada, European Interactive Digital Advertising Alliance or your device settings. 6. Data Subject RightsWhere required by applicable law, you have the right to obtain confirmation that we maintain certain Personal Data relating to you, to verify its content, origin, and accuracy, as well as the right to access, review, port, delete, or to block or withdraw consent (when your consent is legally required) to the processing of certain Personal Data (without affecting the lawfulness of us having processed based on consent before its withdrawal), by contacting us as provided in Section 10 below.In particular, you have the right to object to our use of Personal Data for direct marketing at any time. Please note that we may retain certain Personal Data as required or permitted by applicable law.  When requesting the exercise of any of your rights, we may request specific information from you to confirm your identity and, accordingly, verify and respond to such requests.7. Data SecurityWe maintain technical and organizational measures to protect Personal Data from loss, misuse, alteration, or unintentional destruction. However, no security measure can guarantee against compromise. You also have an important role in protecting your Personal Data. You should not share your username and password with anyone, and you should not re-use passwords across more than one website. If you have any reason to believe that your username or password has been compromised, please contact us as soon as practicable using the information provided in Section 10 below.8. Cross-Border Data TransfersWe transfer Personal Data to various jurisdictions as necessary for the purposes described above, including to jurisdictions that may not provide the same level of data protection as your home country. For example, Personal Data collected from jurisdictions outside North America will typically be transferred to the United States or Canada for processing. We provide appropriate protection for cross-border transfers as required by law for international data transfers. With respect to transfers originating from the European Economic Area ("EEA"), we implement standard contractual clauses approved by the European Commission, and other appropriate solutions to address cross-border transfers as required by applicable law. Where permitted by such laws, you may request a copy of the suitable mechanisms we have in place by contacting us as detailed below.9. Other Information(i) What is the legal basis of processing?Some jurisdictions require an explanation of the legal basis for the collection and processing of Personal Data. We have several different legal grounds on which we collect and process Personal Data, including: (a) as necessary to perform a transaction (such as in order to provide the Services you requested); (b) as necessary to comply with a legal obligation (such as when we use Personal Data for record keeping to support compliance with tax laws); (c) consent (where you have provided consent as appropriate under applicable law, such as for direct marketing or certain cookies); and (d) as necessary for legitimate interests (such as when we act to maintain our business generally, including maintaining the safety and security of our Sites). With respect to legitimate interests, given that we are a Business-to-Business (B2B) company, we typically collect and process limited Personal Data about commercial contacts and other individuals acting in their business capacities, as part of our overall effort to reduce the privacy impact on individuals.(ii) What are the consequences of not providing Personal Data?You are not required to provide all Personal Data identified in this Statement to use our Sites or to interact with us offline, but certain functionalities will not be available if you do not provide certain Personal Data. If you do not provide certain Personal Data, we may not be able to respond to your request, perform a transaction with you, provide certain incentives or rebates, or provide you with marketing that we believe you would find valuable.(iii) Do we engage in automated decision-making without human intervention?With the exception of in the provision of financial services, we do not use automated decision-making without human intervention, including profiling, in a way that produces legal effects concerning you or otherwise significantly affects you.(iv) Do our Sites honor do not track ("DNT") signals sent via browsers?Given the divergent practices of companies that offer browsers and the lack of a standard in the marketplace, we do not respond to DNT signals at this time.(v) How long do we retain Personal Data?We typically retain Personal Data related to marketing activities for as long as you accept marketing communications from us, and upon request we will securely delete such data in accordance with applicable law. For Personal Data that we collect and process for other purposes described above, we typically retain such Personal Data for no longer than for the period necessary to fulfill the purposes outlined in this Statement and as otherwise needed to address tax, corporate, compliance, litigation, and other legal rights and obligations.(vi) Are third-party websites governed by this Statement?Our Sites may contain links and references to other websites administered by unaffiliated third parties. This Statement does not apply to such third party websites. When you click a link to visit a third party website, you will be subject to that website's privacy practices. We encourage you to familiarize yourself with the privacy and security practices of the linked third party websites before providing any Personal Data on that website.We are active on social media, including Facebook, YouTube, Twitter, Instagram, and LinkedIn (“Social Media”). Our Sites allow you to connect and share data with Social Media. Anything you post on Social Media is public information and will not be treated confidentially. We may post (or re-post) on our Sites and our Social Media pages any comments or content that you post on our Social Media pages. Your use of Social Media is governed by the privacy policies and terms of the third parties that own and operate those Social Media properties and not by this Statement. (vii) How does Nutrien handle employee and contractor privacy issues?As mentioned earlier in this Statement, Personal Data about our job applicants, employees, and contractors are addressed through separate policies accessible to those individuals on other websites and are outside the scope of this Statement.(viii) How will we handle any changes to this Statement?We may update this Statement from time to time as our Services and privacy practices change, or as required by law. The effective date of this Statement is posted above, and we encourage you to visit our Site periodically to stay informed about our privacy practices. We will post the updated version of the Statement on our Sites when applicable.10. Contact UsIf you have questions or comments regarding this Statement or our privacy practices, please contact us using any of the following options:Send an email to privacy@nutrien.comWrite to us at 3005 Rocky Mountain Avenue, Loveland, CO 80538Call us at 970.685.3326You may also have the right to raise a question or concern with the relevant government data protection authority in the jurisdiction in which you reside.ANNEXJurisdiction-Specific RequirementsCaliforniaIf you reside in California and we are subject to California privacy law requirements, we are required to provide you with additional information about how we use and disclose your information, and you may have additional rights with regard to how we use your information, as described below. CA Personal Information. Consistent with the "Collection of Personal Data" section above, we collect certain categories and specific pieces of information about individuals that are considered "Personal Information" in California ("CA Personal Information"). Specifically, we may collect the following types of CA Personal Information:Identifiers: name, address, location or geographic data, telephone number, email address, age, date of birth, username and password for our websites, IP address;Commercial information: Services purchased, revenue generated, expenditure records, other Services obtained or considered, other purchasing or consuming histories or tendencies, payment information, transaction history;Professional or employment-related information;  Internet or other electronic network activity information: computer and connection information, statistics on page views, traffic to and from the websites, ad data and other standard weblog information; andGeolocation information: physical location information through the use of our Services.Sources. We collect certain categories of CA Personal Information from you and other third parties as described in the "Collection of Personal Data" section above. The categories of third parties from whom we collect CA Personal Information include the following:Third-party companies;Third party applications (including blogs, chat rooms, or support centers);Advertising networks;Other companies or organizations, such as market research firms or data aggregators; andPublicly available sources of information.Purposes. We collect the CA Personal Information for the business purposes described in the "Use of Personal Data" section above. We also share and/or disclose your CA Personal Information as follows:Sharing your CA Personal Information for business purposes: As described above in the "Sharing of Personal Data" section, we may share the following categories of your CA Personal Information with affiliates, subsidiaries, auditors, third party companies, public or government authorities and future business partners for our business purposesIdentifiers;Commercial information;Professional or employment-related information;Internet or other electronic network activity; andGeolocation information.            As described above, examples of business purposes include service fulfillment, internal operations, prevention of fraud and other harm, and legal compliance. Sharing your CA Personal Information for other purposes: We may share the following categories of your CA Personal Information with third party companies and in a manner that constitutes a "sale" under California law:Identifiers;Commercial information;Professional or employment-related information; andInternet or other electronic network activity.                        This information may be shared for the following purposes: marketing, analytics, or service performance measurements.We do not knowingly share the CA Personal Information of individuals under 16 years of age, in a manner that constitutes a "sale" under California law.California Consumer Rights. Subject to certain exceptions, as a California resident, visitors have the right to: (i) request access to your CA Personal Information; (ii) request deletion of your CA Personal Information; (iii) request information about the CA Personal Information about you that we have disclosed and/or "sold" (as such term is defined under California law) to third parties within the past 12 months; and (iv) opt-out of the "sale" of your CA Personal Information, as detailed below.Do Not Sell My Information. To opt-out of the "sale" of your CA Personal Information with respect to cookies, please opt-out as described in the “Cookies” section above. To opt-out of other “sales”, please contact us as described below. Exercising other California consumer rights. Should you wish to request the exercise of your other rights as detailed above with regard to your CA Personal Information, we will not discriminate against you by offering you different pricing or Services, or by providing you with a different level or quality of Services, based solely upon this request.Please see the "Contact Us" section above if you have questions or would like to exercise your California Consumer Rights.  You also have the option of designating an authorized agent to exercise your rights on your behalf.  For authorized agents submitting requests on behalf of California residents, please contact us as described above, with any evidence you have that you have been authorized by a California consumer to submit a request on their behalf. For legal purposes and risk management, and identity theft prevention, you may be asked for information to verify your request. Do not sell or share my personal informationDeny Accept Selected Customize AcceptPowered by Cookiebot by Usercentrics
+
+
+
+
+
+Your browser is no longer supported
+To get the best experience with our website, we suggest using a newer version of Internet Explorer/Edge, or using another supported browser such as Google Chrome.
+
+
+
+
+
+
+
+
+
+
+
+Nutrien
+
+Nutrien Ag Solutions - Retail
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Breadcrumb
+
+
+                      nutrien privacy policy                   
+
+
+
+
+
+
+
+
+
+Privacy & Cookies Statement
+Effective Date: June 7, 2022
+ 
+This Privacy & Cookies Statement ("Statement") describes how Nutrien Ltd. and its affiliates and subsidiaries (collectively, "Company" or "Nutrien" or “We”) collect, use, share, and otherwise process information about certain identified or identifiable individuals ("Personal Data"). Specifically, this Statement applies to Personal Data that we obtain in connection with the provision of products and services and/or the operation of our business ("Services") about:
+Visitors to our websites, mobile apps, or other online properties ("Sites");
+Our individual customers and prospects;
+Business contacts for our customers, prospects, business partners, distributors, vendors, customer’s guarantors, and suppliers or their representatives.
+ 
+References to Company or Nutrien indicates that we may share Personal Data between our affiliates and subsidiaries subject to applicable laws.
+ 
+For the avoidance of doubt, this Statement does not apply to the Company's collection or processing of information related to job applicants, employees, or contractors. Privacy Notices for such practices are made available through other Company policies.
+ 
+Nutrien endeavors to comply with the privacy legislation within each jurisdiction in which we operate. Sometimes
+the privacy legislation and / or an individual's right to privacy are different from one jurisdiction to another. Practices relating to Personal Data will be guided by what is permitted or required under applicable law.
+ 
+Summary of Key Points
+ 
+
+1. Collection
+
+We collect names, contact details, and other Personal Data related to our Site’s visitors and
+commercial relationships.
+
+2. Use
+
+We use Personal Data to provide our Services, which includes, for example, responding to inquiries, maintaining business operations, providing relevant marketing, and fulfilling other business and compliance purposes.
+
+3. Sharing
+
+We share Personal Data to provide our Services.
+
+4. Marketing choices
+
+You have certain options over the Company's use of certain Personal Data for marketing purposes.
+
+5. Cookies
+
+We use cookies on our Site and in our electronic communications, and provide choices on use of cookies, including for third party targeting and advertising.
+
+6. Data subject rights
+
+Based on the jurisdiction you reside in and the laws governing Personal Data in your
+jurisdiction, you may have rights related to your Personal Data, such as access, rectification, and deletion.
+
+1. Collection
+
+
+We collect names, contact details, and other Personal Data related to our Site’s visitors and
+commercial relationships.
+
+
+2. Use
+
+
+We use Personal Data to provide our Services, which includes, for example, responding to inquiries, maintaining business operations, providing relevant marketing, and fulfilling other business and compliance purposes.
+
+
+3. Sharing
+
+
+We share Personal Data to provide our Services.
+
+
+4. Marketing choices
+
+
+You have certain options over the Company's use of certain Personal Data for marketing purposes.
+
+
+5. Cookies
+
+
+We use cookies on our Site and in our electronic communications, and provide choices on use of cookies, including for third party targeting and advertising.
+
+
+6. Data subject rights
+
+
+Based on the jurisdiction you reside in and the laws governing Personal Data in your
+jurisdiction, you may have rights related to your Personal Data, such as access, rectification, and deletion.
+
+
+7. Data security
+
+We maintain technical and organizational measures to protect Personal Data from loss, misuse, alteration, or unintentional destruction.
+
+8. Cross-border data transfers
+
+We provide appropriate protections for cross-border transfers as required by law.
+
+9. Other issues
+
+We provide other information in this Statement about: (i) the legal basis for collecting and processing Personal Data, (ii) the consequences for not providing Personal Data, (iii) automated decision-making, (iv) do-not-track (DNT) signals, (v) data retention, (vi) links to third-party websites, (vii) employee and contractor issues; and (viii) changes to this Statement.
+
+10. Contact us
+
+Please contact us as detailed below with any questions.
+
+7. Data security
+
+
+We maintain technical and organizational measures to protect Personal Data from loss, misuse, alteration, or unintentional destruction.
+
+
+8. Cross-border data transfers
+
+
+We provide appropriate protections for cross-border transfers as required by law.
+
+
+9. Other issues
+
+
+We provide other information in this Statement about: (i) the legal basis for collecting and processing Personal Data, (ii) the consequences for not providing Personal Data, (iii) automated decision-making, (iv) do-not-track (DNT) signals, (v) data retention, (vi) links to third-party websites, (vii) employee and contractor issues; and (viii) changes to this Statement.
+
+
+10. Contact us
+
+
+Please contact us as detailed below with any questions.
+
+ 
+Collection of Personal Data
+ 
+We collect the following categories of Personal Data:
+Basic Data: Name, date of birth, title, company, job responsibilities, phone number, address, email address, location or geographic data, and other contact details.
+Device Data: Computer Internet Protocol (IP) address, unique device identifier (UDID), cookies and other data linked to a device, and data about usage of our Sites and communications, data generated or collected by our or third party equipment or devices owned and operated by us or third parties, including location, land boundaries, images, and any data provided by you or your agents.
+Financial Data: Revenue history, expenditure records, credit related information, and other purchasing or usage histories or tendencies, payment information,- and transaction history.
+Government Identifiers: tax file numbers, government issued business numbers, and license numbers.
+Marketing Data: Data about individual participation (whether in-person or virtual) at industry gatherings, Company sponsored events (including in the stores/experience centers), credentials, associations, Services you are interested in, and other preferences.
+Registration Data: Newsletter requests, subscriptions, downloads, and username/passwords.
+Use of Personal Data
+ 
+We use the above categories of Personal Data for the following purposes:
+ 
+ 
+
+Purpose of Use
+
+Categories of Personal Data
+
+Provide the Services as requested and ancillary
+services in connection with them (e.g., credit applications, assessing and investigating insurance risks/claims) respond to your inquiries, assess credit worthiness, allow Nutrien to contact you, and fulfill incentive or stewardship programs.
+
+Basic Data, Device Data, Financial Data, Government
+Identifiers, and Registration Data
+
+Manage your accounts, maintain our business operations, and allow you access to our proprietary systems.
+
+Basic Data, Device Data, Financial Data, Government Identifiers and Registration Data
+
+Purpose of Use
+
+
+Categories of Personal Data
+
+
+Provide the Services as requested and ancillary
+services in connection with them (e.g., credit applications, assessing and investigating insurance risks/claims) respond to your inquiries, assess credit worthiness, allow Nutrien to contact you, and fulfill incentive or stewardship programs.
+
+
+Basic Data, Device Data, Financial Data, Government
+Identifiers, and Registration Data
+
+
+Manage your accounts, maintain our business operations, and allow you access to our proprietary systems.
+
+
+Basic Data, Device Data, Financial Data, Government Identifiers and Registration Data
+
+ 
+ 
+
+Purpose of Use
+
+Categories of Personal Data
+
+Make our Services more personal, intuitive, and easy
+to use.
+
+Basic Data, Device Data, Financial Data, Government
+Identifiers, and Marketing Data
+
+Protect the security and effective functioning of our Site and information technology systems.
+
+Basic Data, Device Data, and Registration Data
+
+Provide relevant marketing about our or our business
+partners’ Services, or promotions that we or they are developing, and opportunities that may be available to you, or in connection with other business purposes.
+
+Basic Data, Registration Data, Device Data, Financial
+Data, Government Identifiers, and Marketing Data
+
+Address our compliance and legal obligations and exercise our legal rights.
+
+Basic Data, Commercial Data, Device Data, Financial Data Government Identifiers, and Registration Data
+
+Purpose of Use
+
+
+Categories of Personal Data
+
+
+Make our Services more personal, intuitive, and easy
+to use.
+
+
+Basic Data, Device Data, Financial Data, Government
+Identifiers, and Marketing Data
+
+
+Protect the security and effective functioning of our Site and information technology systems.
+
+
+Basic Data, Device Data, and Registration Data
+
+
+Provide relevant marketing about our or our business
+partners’ Services, or promotions that we or they are developing, and opportunities that may be available to you, or in connection with other business purposes.
+
+
+Basic Data, Registration Data, Device Data, Financial
+Data, Government Identifiers, and Marketing Data
+
+
+Address our compliance and legal obligations and exercise our legal rights.
+
+
+Basic Data, Commercial Data, Device Data, Financial Data Government Identifiers, and Registration Data
+
+ 
+Sharing of Personal Data
+ 
+We share Personal Data with the following categories of recipients:
+ 
+Service providers: We may share Personal Data with third party companies and service providers to enable such parties to perform functions on our behalf and under our instructions in order to carry out the purposes identified above. We require such third party companies and service providers to provide reasonable security for Personal Data and to use and process such Personal Data only on our behalf.
+Auditors and advisors: We may share Personal Data with auditors for the performance of audit functions and advisors for the provision of legal and other advice.
+Business reorganization parties: We may share Personal Data with any corporate seller, acquirer, or prospect to the extent permitted by law as part of a proposed or actual merger, acquisition, sale of company assets, or transition of service to another provider, as well as in the event of insolvency, bankruptcy, or receivership in which Personal Data would be transferred as an asset of the Company.
+Government agencies or private parties to legal proceedings: We may share Personal Data in order to comply with any subpoena, court order or other legal process, or other governmental request. We also share Personal Data to establish or protect our legal rights, property, or safety, or the rights, property, or safety of others.
+Business partners: We may share Personal Data with third party independent business partners in connection with incentive and rebate programs or other activities. Such third party independent business partners may send you information promoting the products or services of those partners.
+ 
+If you have questions about the recipients with which we share Personal Data, please contact us as specified below.
+ 
+Marketing Choices
+ 
+You have choices with respect to our use of your Personal Data for direct marketing purposes. If you no longer wish to receive any marketing communications, remain on a mailing list to which you previously subscribed, or receive any other marketing communication, you can choose to not receive such communications at any time. Please follow the unsubscribe link in the relevant communication or contact us as detailed in Section 10 below.
+ 
+Cookies
+ 
+We use and allow certain trusted third party companies to use cookies, web beacons, and similar tracking technologies (collectively, "cookies") on third party sites and our Site.
+ 
+What are cookies?
+Cookies are small amounts of data that are stored on your browser, device, communication, or the page you are viewing. Some cookies are deleted once you close your browser, while other cookies are retained even after you close your browser so that you can be recognized when you return to a website. More information about cookies and how they work is available at www.allaboutcookies.org.
+ 
+How do we use cookies?
+We use cookies to provide our Services, gather information about your usage patterns when you navigate our Site in order to enhance your personalized experience, and understand usage patterns to improve our Site and Services. We also allow certain trusted third party companies to place cookies on our Sites in order to collect information about your online activities on our Sites and across different websites you visit. This information is used to provide advertising tailored to your interests and to analyze the effectiveness of such advertising.
+ 
+Cookies on our Sites are generally divided into the following categories:
+Strictly Necessary Cookies: These are required for the operation of our Sites. They include, for example, cookies that enable you to log into secure areas. These cookies are session cookies that are erased when you close your browser.
+Analytical/Performance Cookies: These allow us to recognize and count the number of users of our Sites and understand how such users navigate through our Site. This helps to improve how our Sites work, for example, by ensuring that users can easily find what they are looking for. These cookies are session cookies, which are erased when you close your browser. We use Google Analytics to collect information about the use of our Sites.
+Functional Cookies: These improve the functional performance of our Sites and make them easier for you to use. For example, cookies are used to remember that you have previously visited the Sites and asked to remain logged into them. These cookies qualify as persistent cookies, because they remain on your device for us to use during a next visit to our Sites. You can delete these cookies via your browser settings.
+Targeting Cookies: These record your visit to our Sites, the pages you have visited and the links you have followed to recognize you as a previous visitor and to track your activity on the Sites and other websites you visit. These cookies qualify as persistent cookies, because they remain on your device for us to use during a next visit to our Sites. You can delete these cookies via your browser settings. See below for further details on how you can control third party targeting cookies.
+ 
+What are your options if you do not want cookies on your computer?
+You can review your Internet browser settings, typically under the sections “Settings”, "Help," or "Internet Options," to exercise choices you have for certain cookies. If you disable or delete certain cookies in your Internet browser settings, you might not be able to access or use important functions or features of our Sites, and you may be required to re-enter your log-in details.
+To learn more about the use of cookies [for Google Analytics] and to exercise choice regarding such cookies, please visit https://tools.google.com/dlpage/gaoptout.
+ 
+To learn more about certain cookies used for Interest based advertising by third parties, including through cross- device tracking, and to exercise certain choices regarding such cookies, please visit the Digital Advertising Alliance, Network Advertising Initiative, Digital Advertising Alliance-Canada,European Interactive Digital Advertising Alliance or your device settings.
+ 
+Data Subject Rights
+ 
+Where required by applicable law, you have the right to obtain confirmation that we maintain certain Personal Data relating to you, to verify its content, origin, and accuracy, as well as the right to access, review, port, delete, or to block or withdraw consent (when your consent is legally required) to the processing of certain Personal Data (without affecting the lawfulness of us having processed based on consent before its withdrawal), by contacting us as provided in Section 10 below.
+In particular, you have the right to object to our use of Personal Data for direct marketing at any time. Please note that we may retain certain Personal Data as required or permitted by applicable law. When requesting the exercise of any of your rights, we may request specific information from you to confirm your identity and, accordingly, verify and respond to such requests.
+ 
+Data Security
+ 
+We maintain technical and organizational measures to protect Personal Data from loss, misuse, alteration, or unintentional destruction. However, no security measure can guarantee against compromise. You also have an important role in protecting your Personal Data. You should not share your username and password with anyone, and you should not re-use passwords across more than one website. If you have any reason to believe that your username or password has been compromised, please contact us as soon as practicable using the information provided in Section 10 below.
+ 
+Cross-Border Data Transfers
+ 
+We transfer Personal Data to various jurisdictions as necessary for the purposes described above, including to jurisdictions that may not provide the same level of data protection as your home country. For example, Personal Data collected from jurisdictions outside North America will typically be transferred to the United States or Canada for processing. We provide appropriate protection for cross-border transfers as required by law for international data transfers. With respect to transfers originating from the European Economic Area ("EEA"), we implement standard contractual clauses approved by the European Commission, and other appropriate solutions to address cross- border transfers as required by applicable law. Where permitted by such laws, you may request a copy of the suitable mechanisms we have in place by contacting us as detailed below.
+ 
+Other Information
+ 
+What is the legal basis of processing?
+Some jurisdictions require an explanation of the legal basis for the collection and processing of Personal Data. We have several different legal grounds on which we collect and process Personal Data, including: (a) as necessary to perform a transaction (such as in order to provide the Services you requested); (b) as necessary to comply with a legal obligation (such as when we use Personal Data for record keeping to support compliance with tax laws); (c) consent (where you have provided consent as appropriate under applicable law, such as for direct marketing or certain cookies); and (d) as necessary for legitimate interests (such as when we act to maintain our business
+ 
+generally, including maintaining the safety and security of our Sites). With respect to legitimate interests, given that we are a Business-to-Business (B2B) company, we typically collect and process limited Personal Data about commercial contacts and other individuals acting in their business capacities, as part of our overall effort to reduce the privacy impact on individuals.
+ 
+What are the consequences of not providing Personal Data?
+You are not required to provide all Personal Data identified in this Statement to use our Sites or to interact with us offline, but certain functionalities will not be available if you do not provide certain Personal Data. If you do not provide certain Personal Data, we may not be able to respond to your request, perform a transaction with you, provide certain incentives or rebates, or provide you with marketing that we believe you would find valuable.
+ 
+Do we engage in automated decision-making without human intervention?
+With the exception of in the provision of financial services, we do not use automated decision-making without human intervention, including profiling, in a way that produces legal effects concerning you or otherwise significantly affects you.
+ 
+Do our Sites honor do not track ("DNT") signals sent via browsers?
+Given the divergent practices of companies that offer browsers and the lack of a standard in the marketplace, we do not respond to DNT signals at this time.
+ 
+How long do we retain Personal Data?
+We typically retain Personal Data related to marketing activities for as long as you accept marketing communications from us, and upon request we will securely delete such data in accordance with applicable law. For Personal Data that we collect and process for other purposes described above, we typically retain such Personal Data for no longer than for the period necessary to fulfill the purposes outlined in this Statement and as otherwise needed to address tax, corporate, compliance, litigation, and other legal rights and obligations.
+ 
+Are third-party websites governed by this Statement?
+Our Sites may contain links and references to other websites administered by unaffiliated third parties. This Statement does not apply to such third party websites. When you click a link to visit a third party website, you will be subject to that website's privacy practices. We encourage you to familiarize yourself with the privacy and security practices of the linked third party websites before providing any Personal Data on that website.
+We are active on social media, including Facebook, YouTube, Twitter, Instagram, and LinkedIn (“Social Media”).
+Our Sites allow you to connect and share data with Social Media. Anything you post on Social Media is public information and will not be treated confidentially. We may post (or re-post) on our Sites and our Social Media pages any comments or content that you post on our Social Media pages. Your use of Social Media is governed by the privacy policies and terms of the third parties that own and operate those Social Media properties and not by this Statement.
+ 
+How does Nutrien handle employee and contractor privacy issues?
+As mentioned earlier in this Statement, Personal Data about our job applicants, employees, and contractors are addressed through separate policies accessible to those individuals on other websites and are outside the scope of this Statement.
+ 
+How will we handle any changes to this Statement?
+We may update this Statement from time to time as our Services and privacy practices change, or as required by law. The effective date of this Statement is posted above, and we encourage you to visit our Site periodically to stay informed about our privacy practices. We will post the updated version of the Statement on our Sites when applicable.
+ 
+Contact Us
+If you have questions or comments regarding this Statement or our privacy practices, please contact: privacy@nutrien.com
+(403) 225-7542 Direct
+1-877-247-4866 Toll Free
+ 
+You may also have the right to raise a question or concern with the relevant government data protection authority in the jurisdiction in which you reside.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

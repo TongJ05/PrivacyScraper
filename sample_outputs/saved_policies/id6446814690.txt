@@ -1,0 +1,67 @@
+
+
+
+
+
+
+
+
+
+
+Privacy Policy
+The V2Box app, as provided by the company techliam Co. Ltd, is intended for use as is. If you choose to use V2Box, then you agree to the collection and use of information in relation to this policy. We are committed to               protecting the privacy interests of our users. We do not sell, use, or disclose to third parties any user data for any purpose.
+            
+
+
+
+
+
+
+
+
+
+
+VPN DATA
+What doesn’t V2Box do with your data?
+
+              We DO NOT collect or store any VPN data.
+              
+              We DO NOT modify the contents of your VPN data.
+              
+              We DO NOT share any sensitive or user-specific data with third parties.
+              
+              V2Box is a non-centralized VPN app with users connecting to their own custom configured servers and doesn’t provide any centrally controlled servers for now. This means you as a user connecting to your own server do have               complete control and liability over your VPN data. The app itself will not in any way modify any VPN data as it leaves the device to your configured VPN server.
+            
+
+
+DATA COLLECTION
+V2Box only collects and shares the app's crash logs and diagnostics. Crash log data may for example be, the number of times that your app has crashed, stack traces or other information directly related to a crash. Analytics data               may include; how long a user spent on a certain screen in the app. This information is collected and shared by/with Google's own Firebase crashlytics and analytics. This helps in improving the app quality by ensuring any crashes and               bugs are fixed. No individually/personally identifying information is collected/shared.
+            
+
+
+DEVICE IDENTIFIERS
+Users may share VPN server configuration files that are locked to specific devices. This requires the collection of device identifiers. However, your device ID isn’t collected and shared with any third parties and will be entirely used               on the device itself. Moreso, this is optional and collection and usage of the device identifier isn’t a requirement to use the app.
+            
+
+
+CHILDREN’S PRIVACY
+V2Box does not collect any personally identifiable information from any one be it child or adult. This thus implies that no personally identifiable information is collected from children under 13.
+            
+
+
+ADVERTISING NETWORKS
+V2Box is monetized using mobile app ads. This is achieved with the Google Admob advertising platform. Advertising is achieved with adherence to the privacy policy that can be accessed               here.
+
+
+
+CHANGES TO THIS PRIVACY POLICY
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective               immediately after they are posted on this page.
+            
+
+
+
+
+
+
+
+

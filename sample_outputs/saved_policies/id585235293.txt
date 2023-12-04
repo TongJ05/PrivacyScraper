@@ -1,0 +1,335 @@
+
+
+
+
+
+Hacknicity
+
+
+
+
+
+
+
+About
+My name is Geoff Hackworth. I develop software for iPhone, iPad and Mac.
+
+
+
+Contact
+
+
+
+support@hacknicity.com
+
+
+
+@geoffhackworth on Mastodon
+
+
+@geoffhackworth on Twitter
+
+
+Upwork Freelancer Profile
+
+
+
+
+
+My Apps
+My own personal iOS and Mac apps.
+
+Productivity
+
+
+Pommie
+
+
+Pommie for Mac
+
+
+Meeting Cost Timers
+
+
+Meeting Cost Timers for Mac
+
+
+Developer Tools
+
+
+Adaptivity
+
+
+Adaptivity for Mac
+
+
+SF Menu Bar for Mac
+
+
+XcLauncher for Mac
+
+
+Medical
+
+
+Medical ID Records
+
+
+Lifestyle
+
+
+Bin Day Alert
+
+
+Group Star Charts
+
+
+Health & Fitness
+
+
+FTP Zones
+
+
+Food & Drink
+
+
+Easy Cooking Timer
+
+
+Shopping
+
+
+Easy Shopping List
+
+
+Easy Price Compare
+
+
+Games
+
+
+Tile Slider
+
+
+Tile Slider for Mac
+
+
+Matching Pairs
+
+
+Snap! Deluxe
+
+
+
+
+
+Client Apps
+Some of the apps that I have wholly developed or contributed significant updates for freelance clients.
+
+Education
+
+
+Word Hippo
+
+
+Reference
+
+
+Bird ID Hawaii
+
+
+House Reef Fish
+
+
+Oman Fish ID
+
+
+Scuba Fish Hawaii
+
+
+Snorkel Fish Hawaii
+
+
+Red Sea Fish ID
+
+
+Easy Fish ID Caribbean
+
+
+Tetiaroa Fish Guide
+
+
+Deep Blue Divers Fish Guide
+
+
+Palmyra Atoll Nature Guide
+
+
+Productivity
+
+
+Brainsparker
+
+
+QuikKast
+
+
+Food & Drink
+
+
+Any Timer
+
+
+
+
+
+Medium Articles
+Articles I have written about iOS and Mac development.
+
+2022
+
+
+SF Symbols Changes in iOS 16.4
+
+
+SF Symbols Changes in iOS 16.1
+
+
+External Display Support versus Stage Manager on iPadOS 16.
+
+
+How iOS Apps Adapt to the various iPhone 14 Screen Sizes.
+
+
+View Controller Presentation Changes in iOS and iPadOS 16.
+
+
+SF Symbols Changes in iOS 16.0
+
+
+SF Symbols Changes in iOS 15.4
+
+
+2021
+
+
+Xcode Build Times with Custom SF Symbols
+
+
+SF Symbols Changes in iOS 15.2
+
+
+SF Symbols Changes in iOS 15.1
+
+
+How iPad Apps Adapt to the New 8.3" iPad Mini
+
+
+SF Symbols Changes in iOS 15.0
+
+
+SF Symbols Changes in iOS 14.5
+
+
+A Simple, Smart Search Algorithm for iOS in Swift
+
+
+2020
+
+
+SF Symbols Changes in iOS 14.2
+
+
+How iOS Apps Adapt to the various iPhone 12 Screen Sizes
+
+
+SF Symbols Changes in iOS 14.0
+
+
+Bringing Adaptivity to Mac Catalyst
+
+
+Hide Sensitive Information in the iOS App Switcher Snapshot Image
+
+
+How to Switch Your iOS App and Scene Delegates for Improved Testing
+
+
+2019
+
+
+How iPad Apps Adapt to the New 10.2" iPad
+
+
+View Controller Presentation Changes in iOS 13
+
+
+Fixing Xcode’s iPhone Xs, Xs Max and Xʀ Simulator Names and iOS Versions
+
+
+How iPhone-only Apps Appear on iPad
+
+
+2018
+
+
+External Display Support on iOS
+
+
+How iPad Apps Adapt to the New 11" and 12.9" iPads Pro
+
+
+How Apps Adapt to the Series 4 Apple Watch Screen Sizes
+
+
+How iOS Apps Adapt to the iPhone XS Max and iPhone XR Screen Sizes
+
+
+iPad Navigation Bar and Toolbar Height Changes in iOS 12
+
+
+2017
+
+
+How iOS Apps Adapt to the iPhone X Screen Size
+
+
+Working with Multiple Versions of Xcode
+
+
+
+
+
+
+
+
+
+
+Easy Price CompareGet the best value for your money with Easy Price Compare.  Privacy PolicyInformation CollectedEasy Price Compare does not collect any personal information or app usage metrics. Your item configuration is stored locally on your device and is not analysed or shared.Links in the Settings screen to my web site include information about the app version, iOS version and iOS device type being used.Changes to this PolicyIf I decide to change this privacy policy, I will post those changes on this page. Summary of changes so far:June 27, 2018: First published.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2011-2023 Hacknicity. Tumblr theme based on Simple Bold Borders by Stanley Diaz
+
+
+
+
+
+

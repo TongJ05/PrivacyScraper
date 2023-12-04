@@ -1,0 +1,59 @@
+
+
+
+
+
+
+
+
+Privacy Policy of Flow Apps
+
+        This Application collects some Personal Data from its Users.
+      
+ 
+Personal Data processed for the following purposes and using the following services:
+
+
+
+
+
+Infrastructure monitoring
+
+
+Crashlytics
+Personal Data: crash data; device information; Universally unique identifier (UUID)
+
+
+
+
+
+
+
+Contact information
+
+
+
+
+
+Owner and Data Controller
+Flow Apps
+Owner contact email: hello@flowapps.xyz
+
+
+
+
+
+
+
+    Latest update: June 26, 2023   
+
+iubenda hosts this content and only collects the Personal Data strictly necessary for it to be provided.
+  
+Show the complete Privacy Policy
+ 
+
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,1104 @@
+
+
+
+
+
+
+
+
+We have updated our User Terms, effective February 2, 2021
+
+
+I understand
+
+
+
+
+
+
+
+
+
+
+
+
+
+For Users
+
+
+
+User Terms
+
+
+User Privacy Policy
+
+
+User California Notice
+
+
+
+For Merchants and Developers
+
+
+
+Merchant Terms
+
+
+Broadcast™ Terms
+
+
+Developer Terms
+
+
+PSA Terms
+
+
+LevelUp User Privacy Policy
+
+
+SCVNGR, Inc., doing business as LevelUp and a wholly owned subsidiary of Grubhub Holdings Inc. (“LevelUp,” “we,” “our,” or “us”), develops and supports mobile applications and websites that enable Restaurants to provide Services to its customers, including, without limitation, mobile payment, ordering, Loyalty Programs, and customer support services. If you see any undefined term in this Privacy Policy, it has the definition specified in our User Terms of Service.
+
+
+This LevelUp User Privacy Policy (“Privacy Policy”) applies to all the websites and mobile applications offered by LevelUp (including those offered by third parties integrated to the LevelUp platform), and all related features, functionality, and services now or in the future that reference this Privacy Policy.
+
+
+This Privacy Policy explains how LevelUp collects, uses, and discloses your personal information when you create a LevelUp User Account or otherwise use the Services we provide on behalf of a Restaurant. If you are interacting with a Restaurant that uses LevelUp to power its App, including its websites, and has linked to this Privacy Policy, it applies to you.
+
+
+
+Please note: This Privacy Policy does not cover or address the privacy practices of Restaurants. Restaurants are independent third parties that maintain their own business practices and policies outside of their relationship with LevelUp and their use of the Services. Accordingly, we are not responsible for the Restaurant’s independent collection, use or disclosure of your personal information outside of the Services we provide. For more information, please contact the Restaurant directly or refer to the Restaurant’s own privacy policy.
+
+
+
+This Privacy Policy also does not cover or address the data collection and use practices of (i) the LevelUp-branded website or its business-to-business marketing activities, which are described under our Merchant Terms, (ii) our affiliates under the brand names: Grubhub, Grubhub for Work, Seamless, Menupages, and Allmenus, or (iii) the privacy practices relating to the personal information of job applicants, employees and other personnel. Please refer to those separate websites for applicable privacy policies.
+
+
+By accessing or using the Services, you agree that you have read, understood and agree to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy and our User Terms of Service.
+
+
+
+1. Personal Information We Collect
+
+
+1.1. Data Provided Directly By You:
+
+
+
+
+
+Contact and Profile Information.
+When you create a LevelUp User Account, pay using LevelUp, join a Loyalty Program, or otherwise communicate or interact with us, we may collect information from you, such as your name, birthday, gender, age, dietary preferences, phone number, location, payment information, and email address. We use this contact and profile information to: (i) create, verify, and personalize your LevelUp User Account; (ii) communicate with you directly about the Services as well as about any questions, issues, or concerns you or other Users may have; (iii) fulfill your order; and (iv) send you marketing communications in accordance with the preferences you elect in setting up your User Account
+
+
+
+
+Payment Information.
+When you submit an order, you are required to provide payment information, such as your credit card, debit card, gift card details, or any other Payment Instrument. We use this information to fulfill your order, complete the transaction, and detect and prevent fraud or abuse.
+
+
+
+
+Transaction Information.
+When you submit an order, we collect information, including the items purchased, date, time, and location of your transaction, special instructions, and points you accrue or User Credit or promotions you redeem as part of a Loyalty Program. We also generate a QR code based on the payment information you provide. We use this transaction information to fulfill your order, update your User Credits, detect and prevent fraud, personalize your experience, perform analytics/identify usage trends, and inform our advertising and marketing campaigns.
+
+
+
+
+Communications, Participation and Other Content.
+We maintain all communications resulting from your interactions with us by email, phone, mail, or chat. We also record comments and opinions you express when responding to surveys, entering a sweepstakes, or taking part in promotions we help to run. We use all of the foregoing communications to address your questions, issues, and concerns, and to improve our Services.
+
+
+
+
+Other Information You Provide.
+From time to time, you may provide other personal information not contemplated by this Privacy Policy. In such an event, we will use that data to address your questions, issues, and concerns, to improve our Services or for another reason disclosed to you at the time of collection.
+
+
+
+
+
+1.2. Personal Information Generated and/or Automatically Collected During Your Use of The Platform:
+
+
+
+
+
+Information About Your Device and Its Software.
+Information about your device and its software includes your IP address, browser type, Internet service provider, device type/model/manufacturer, operating system, date and time stamp, and a unique ID that allows us to identify your browser, mobile device, or your User Account (including, for example, a persistent device identifier or an Ad ID), identifiers of beacons communicated to LevelUp, and other similar information. We may use this device and software information to diagnose and fix technology problems, serve you personalized advertising, personalize your experience, perform analytics/identify usage trends, and improve our products and Services.
+
+
+
+
+Information About The Way You Access and Use Our Services.
+For example, information about the way you access and use our Services include the site from which you came and the site to which you are going when you leave. In addition, we track the pages you visit on our Apps, the links you click on our Apps, whether you open emails or click the links contained in emails that we send, and other actions you take on the Services. We may also use the information about the way you access and use our Services to determine products and services that may be of interest to you, to improve our products and services, to evaluate the success of our advertising and marketing campaigns, and to send you marketing communications.
+
+
+
+
+Analytics Information.
+We may collect analytics data or use third-party analytics tools such as Google Analytics to help us measure traffic and usage trends and the demographics of our users in order to improve our Services. You can learn more about Google's practices at http://www.google.com/policies/privacy/partners.
+
+
+
+
+Location Information.
+We collect information about your location for the purpose of providing the Services. For example, we use location information to customize content on our Apps, provide you with information about nearby Restaurants, show you relevant promotions, facilitate order and delivery services, detect and prevent fraud, and measure traffic and analytics related to the Service. We may collect location through GPS, WiFi, wireless network triangulation or other methods, or we may also approximate your location by your IP address. If you have previously opted into our collection and use of location-based information through our Apps, we may collect and store the precise location of your device when the app is running in the foreground or background of your device. You may opt-out by adjusting the settings on your mobile device. We also use the Google Maps API to gather information about your location.
+Google uses various technologies to determine your location, including IP address, GPS and other sensors that may, for example, provide Google with information on nearby devices, WiFi access points and cell towers (see Google Maps privacy policy and the https://maps.google.com/help/terms_maps/ to learn more).
+
+
+
+
+We typically collect the foregoing generated and/or automatically collected information through a variety of tracking technologies, including cookies, Flash objects, web beacons, embedded scripts, mobile SDKs, location-identifying technologies, and similar technology (collectively, “tracking technologies”), and we may use third-party partners or services to assist with this effort. Information we collect automatically about you or your device may be combined with other personal information we collect directly. For information about our and our third-party partners’ use of cookies and related technologies to collect information automatically and choices you may have in relation to its collection, please see our “THIRD-PARTY TRACKING AND ONLINE ADVERTISING” further below.
+
+
+We, or the third-party partners we use, may use the data collected automatically through tracking technologies to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Apps; (b) provide custom, personalized content and information; (c) provide and monitor the effectiveness of our Services; (e) perform analytics and detect usage patterns on our Services; (f) diagnose or fix technology problems; (g) detect or prevent fraud or other harmful activities, and (h) otherwise plan for and enhance our Services and for other internal purposes.
+
+
+
+1.3. Data From Other Sources:
+
+
+
+
+
+Information We Receive From Third-Party Sites You Connect to The Services.
+We may receive personal information about you from third parties and combine that with information we collect through the Services. For example, we may obtain information when you login through a third-party social network or authentication service, such as Facebook or Google. These services will authenticate your identity and provide you the option to share certain personal information with us, which could include your name, email address, gender, address book and contacts, or other information. The data we receive from these third-party sites is dependent upon that third party’s policies and your privacy settings on that third-party site.
+
+
+
+
+Information We Receive From Affiliates or Third Parties.
+From time to time, we may receive information about you from our Restaurant partners, from other Grubhub entities and affiliates, from co-marketing partners, service providers, and from other third parties. We may also collect information about you that is publicly available. We may receive additional information about you, such as fraud detection information, from third-party partners and combine it with other information that we have about you. We use this information from affiliates or third parties to create your User Accounts, to contact you, to send you advertising or promotional materials or to personalize our services, to protect against bot attacks and account takeovers, and to better understand the demographics and interests of our Users.
+
+
+We do not control, supervise or respond to how the third parties providing your information process your personal information, and any information request regarding the disclosure of your personal information to us should be directed to such third parties.
+
+
+
+
+
+2. How We Use Your Information
+
+2.1 Provide Services to The Restaurant and to You.
+We provide the Services to you on behalf of Restaurants; accordingly, we use your personal information to create LevelUp User Accounts, accept orders, process payments, and operate Loyalty Programs for Restaurants.
+
+
+2.2 Maintain and Improve The Apps and Services.
+We may use your personal information to provide, maintain, improve and develop the Apps and Services. Specifically, we use your personal information in order to (i) provide the Services to you on behalf of Restaurants, including, without limitation, processing charges, sending receipts, and tracking and notifying you of User Credit; (ii) providing custom and personalized content and information; (iii) to perform analytics, detect activity patterns and otherwise research usage; and (iv) to test and develop new features and functionality and otherwise enhance the Apps and Services.
+
+
+2.3 Maintain The Safety, Stability and Security Of The Services.
+For example, we may use your personal information to investigate and remedy fraudulent or allegedly fraudulent activity as well as diagnose or fix technology problems.
+
+
+2.4 Communications With You to Provide Support and Other Important Messages.
+We may use personal information to communicate important messages to you and/or to provide you with support. For example, we might send you service-related emails or messages (e.g., changes or updates to features of the Services, technical and security notices) and other communications from or about the Service.
+
+
+2.5 For Advertising and Marketing Purposes.
+For example, LevelUp or Restaurants may contact you, or engage a third-party to contact you, in relation to our Services as well as other promotions and offers that you have requested or we believe might interest you. We may permit you to refer us to your friends so that we may send them promotional offers.
+
+
+2.6 Legal and Regulatory Requirements and Proceedings.
+We may use the personal information in connection with legal proceedings and requirements. For example, we may need the personal information to enforce our corporate reporting obligations and our Terms of Use, or to comply with applicable laws.
+
+
+2.7 Enforce Our Rights.
+When you access or use our Apps and Services, you are bound by our User Terms of Service and this Privacy Policy. To ensure you comply with them, we may use your personal information to monitor, investigate, prevent and/or mitigate violations of these legal provisions, as well as enforce our agreements with third parties and business partners.
+
+
+2.8 Other Purposes Disclosed At The Time Of Collection.
+From time to time, we may use personal information for a specific purpose not contemplated by this Privacy Policy. In such an event, we will specifically disclose that use to you.
+
+
+
+3. Sharing Of Your Information
+
+We may share your personal information in the instances described below. For further information on your choices regarding your information, see the “Control Over Your Information” section below.
+
+
+
+We May Share Your Personal Information With:
+
+
+
+
+
+Restaurant.
+When we provide the Services on behalf of a Restaurant, we are collecting your personal information on behalf of that Restaurant. For example, we share all your personal information with the Restaurant, except for your full payment information (e.g. full credit card or debit card information) which is sent directly to our payment processors and not even stored by us. The Restaurant, and or the Restaurant’s other service providers or vendors, may use your information to contact you and may combine your information with other information that it collects from you directly.  The Restaurant’s use of your information may be subject to its own privacy policy. Please contact the Restaurant or review the Restaurant’s privacy policy to learn more.
+
+
+
+
+Third Parties At Your Direction or Request.
+For example, you may have the option to share your activities on the Service with your friends through email, text or on various social media sites.  In some cases, you may also elect to share your personal information with more than one Restaurant through the Services, either by granting the Restaurant’s express request for permissions in the mobile application or website, or by downloading and/or logging into a LevelUp mobile application or website with your LevelUp credentials, which grants the Restaurant access to your Personal Information, including the email address you use to log in, and certain of your User Account information.
+
+
+
+
+Third Parties At The Restaurant’s Request.
+We may share information with third parties at the direction of the Restaurant in accordance with our agreement with the Restaurant to provide the Services, which may include point of sale providers, customer service providers, advertising and marketing partners, email service providers, texting service providers, social networks, our affiliate Grubhub and its subsidiaries and affiliates.
+
+
+
+
+Third Parties Necessary to Complete Your Order or to Enable Your Use Of Our Apps and Services.
+In addition to Restaurants you order from, we disclose personal information to third parties as needed to fulfill your orders, including, without limitation, online ordering providers, point of sale providers, and payment processors.
+
+
+
+
+Service Providers and Contractors.
+These third parties perform Services on our behalf as needed to carry out their obligations to us. For example, our service providers may have access to personal information as needed to provide website hosting, data analysis, infrastructure provisioning, IT services, customer services, email delivery services, promotional prize fulfillment, marketing and other similar services.
+
+
+
+
+Analytics Providers.
+We work with third-party analytics providers to better understand the demographics of our Users and visitors, and to personalize, enhance and improve our Apps and Services.
+
+
+
+
+Business Transaction or Reorganization.
+We may take part in or be involved with a corporate business transaction, such as a merger, acquisition, joint venture, or financing or sale of all or a portion of company assets. We may disclose personal information to a third party during negotiation of, in connection with or as an asset in such a corporate business transaction. Personal information may also be disclosed in the event of insolvency, bankruptcy, or receivership.
+
+
+
+
+Legal Obligations and Rights.
+We may disclose personal information to third parties, such as legal advisors and law enforcement, as required by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) enforce our Terms of Use or to protect the security or integrity of our Services; (c) detect, suppress or prevent fraud or reduce credit risk and collect debts owed to us; and/or (d) exercise or protect the rights, property, or personal safety of Grubhub, our visitors, or others.
+
+
+
+
+Public.
+We may make available through the Apps and Services certain features which may enable you to post information and materials, for example, ratings and reviews.
+Please note that any information you provide in connection with such Services may be available to site visitors and to the general public. Please do not disclose your personal information in these public or interactive areas, and we urge you to exercise discretion and caution when deciding to disclose any other information and/or materials in these public or interactive areas on the Services.
+
+
+
+
+Consent.
+We may disclose personal information about you to other third parties with your consent.
+
+
+
+We may also use aggregate personal information for regulatory compliance, industry and market analysis, research, demographic profiling, marketing and advertising, and other business purposes as long as the end-product does not uniquely identify you or any other User of the Apps and Services.
+
+
+
+
+4. Control Over Your Information
+
+Profile and Data Sharing Settings.
+You may update your profile information in your User Account settings.
+
+
+Access to Your Device Information and Push Notifications.
+You may control access to your device information or opt out of push notifications through your “Settings” app on your device. For instance, you can withdraw permission for the app to access your location data through your device settings, though we may continue to approximate your location based on your IP address or through other means.
+
+
+How to Control Your Communications Preferences:
+You can stop receiving promotional email communications that we send on behalf of the Restaurant by clicking the “unsubscribe link” provided in such communications. This unsubscribe action applies only to promotional email communications that LevelUp sends on behalf of the Restaurant, and will have no effect on promotional email communications that LevelUp sends on behalf of other Restaurant customers or email communications that are sent by the Restaurant directly. You may not opt out of service-related communications (e.g., User Account verification, transactional communications, changes/updates to features of the Service, technical and security notices).
+
+
+Texting is also offered by some Restaurants. Once you have opted in through our Services, you will need to communicate directly with the Restaurant for instructions on how to opt out.
+
+
+Modifying or Deactivating Your Information:
+If you would like to review, modify, or deactivate your Account, including removal of your financial information from LevelUp’s data vault provider, you can go to the “Account” tab at https://www.thelevelup.com/login. Alternatively, you can contact us directly at support@thelevelup.com or 1-855-538-3542. We may not be able to modify or deactivate your information in all circumstances.
+
+
+Do Not Track.
+Although we do our best to honor the privacy preferences of our Users, we are unable to respond to Do Not Track signals set by your browser at this time.
+
+
+
+5. Third-Party Tracking and Online Advertising
+
+Interest Based Advertising.
+Depending on the features and functionality our Restaurant customers expressly request, the Services may engage in interest-based advertising and use third-party advertising companies to serve you targeted advertisements based on your browsing history. We may share, or we may permit third-party online advertising networks, social media companies and other third-party Services, to collect information about your use of our Service over time so that they may play or display ads on other devices you may use, and on other websites, apps or Service, including on social media sites. These third parties may collect information such as click stream information, browser type, time and date you visited the Service, mobile device identifiers, your use of third-party applications, and/or precise geolocation data and other information. This information is used to make the advertisements you see online more relevant to your interests, as well as to provide advertising-related Service such as reporting, attribution, analytics and market research.
+
+
+
+Your Choices:
+
+
+
+
+
+Cookies and Flash Cookies.
+Most browsers allow you to adjust your browser settings to: (i) notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject cookies.
+
+
+Blocking or deleting cookies may negatively impact your experience using the Services, as some features may not work properly. Depending on your mobile device and operating system, you may not be able to delete or block all cookies, you may not be able to block non-cookie technologies or the changes to your settings may have no effect. You may also set your email options to prevent the automatic downloading of images that may contain technologies that would allow us to know whether you have accessed our email and performed certain functions with it.
+
+
+Some of these opt-outs may not be effective unless your browser is set to accept cookies. If you delete cookies, change your browser settings, switch browsers or computers, or use another operating system, you will need to opt-out again.
+
+
+
+
+Interest-Based Advertising.
+To learn about interest-based advertising and how you may be able to opt-out of some of this advertising, you may wish to visit the Network Advertising Initiative’s online resources, at http://www.networkadvertising.org/choices, and/or the DAA’s resources at www.aboutads.info/choices. You may also be able to limit interest-based advertising through the settings on your mobile device by selecting “limit ad tracking” (iOS) or “opt-out of interest based ads” (Android).
+
+
+
+
+Google Analytics.
+We use Google Analytics to recognize you and link the devices you use when you visit our Service on your browser or mobile device, login to your User Account on our Service, or otherwise engage with us. We share a unique identifier, like a user ID or hashed email address, with Google to facilitate the service. Google Analytics allows us to better understand how our Users interact with our Service and to tailor our advertisements and content to you. For information on how Google Analytics collects and processes data, as well as how you can control information sent to Google, review Google's site “How Google uses data when you use our partners' sites or apps” located at
+http://www.google.com/policies/privacy/partners.
+You can learn about Google Analytics’ currently available opt-outs, including the Google Analytics Browser Ad-On here
+https://tools.google.com/dlpage/gaoptout/.
+
+
+
+6. Third Party LevelUp Apps and Links to Other Web Sites and Services
+
+The LevelUp platform enables any third party to develop applications, software, and websites that can access the LevelUp platform on your behalf, with your permission ("Third Party Apps"). You may also be offered services, products and promotions provided by third parties as part of your use of any Third Party App. Third Party Apps interfacing with the LevelUp platform are required to be operated in accordance with LevelUp's Terms of Service for Merchants,
+Terms of Service for Developers, and this Privacy Policy, but they are not under the control of LevelUp.
+
+
+LevelUp is not responsible for the content of any Third Party Apps or any other third-party websites, plug-ins and applications. You will be responsible for reviewing and understanding any additional terms and conditions associated with any of those third-party properties. Please remember that once you grant a third party or Restaurant permission to access your personal information in the LevelUp Apps, or you use a link to go from a LevelUp App or website to another website, LevelUp's Privacy Policy no longer restricts the use of such information by the third party, and you will then be subject to that Restaurant's or that website's own rules and policies. You should make whatever investigation you feel necessary or appropriate before proceeding with any transaction with any of these third parties or granting permissions for any Third Party App to access any of your personal information. LevelUp is not responsible for any claims, liabilities, losses, or damages suffered by you in connection with your use of a Third Party App or any other third-party websites, plug-ins and applications.
+
+
+
+7. How We Store and Protect Your Information
+
+Data Storage and Transfer.
+Your information collected through the Services is stored and processed in the United States.  If you create an account with the platform as a visitor from outside the United States, by using and/or accessing the platform or Services, you agree to this Privacy Policy and consent to the collection, transfer, storage, and processing of your information to and in the United States. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.
+
+
+Keeping Your Information Safe.
+We care about the security of your information and employ physical, administrative, and technological safeguards designed to preserve the integrity and security of all information collected through our Service. However, no security system is impenetrable and we cannot guarantee the security of our systems. Please recognize that protecting your personal information is also your responsibility. Accordingly, we strongly recommend that you choose unique passwords that are not reused across other apps or websites, and otherwise take precautions when communicating your personal information on the internet. If you know or have reason to believe that your User Account credentials have been lost, stolen, misappropriated, or otherwise compromised or in case of any actual or suspected unauthorized use of your User Account, please contact us following the instructions in the “Contact Us” section below.
+
+8. Children’s Privacy
+
+The Services are not directed to children under the age of 13; nor do we knowingly attempt to collect or solicit personal information from children under the age of 13. In the event that we are informed that we have inadvertently collected personal information from a child under age 13, we will disable the User Account and delete the provided information as quickly as possible. If you believe that we have any information from a child under 13, please contact us at support@thelevelup.com.
+
+9. Region Specific Disclosures
+
+We may choose or be required by law to provide different or additional disclosures relating to the processing of personal information about residents of certain countries, regions or states. Please refer below for disclosures that may be applicable to you:
+
+
+
+
+California.
+If you are a resident of the State of California in the United States, please click here
+for additional California-specific privacy disclosures.
+
+
+
+
+Nevada.
+If you are a resident of the State of Nevada, Chapter 603A of the Nevada Revised Statutes permits a Nevada resident to opt-out of future sales of certain covered information that a website operator has collected or will collect. To submit such a request, please contact us at support@thelevelup.com with the subject line “Nevada opt-out.”
+
+
+
+10. Changes to Our Privacy Policy
+
+We will update this Privacy Policy from time to time. When we make changes to this Privacy Policy, we will change the "Effective" date at the beginning of this Privacy Policy. If we make material changes to this Privacy Policy, we will notify you by email to your registered email address, by prominent posting on this website or our online Services, or through other appropriate communication channels. All changes shall be effective from the Effective Date unless otherwise provided. If you do not cancel your User Account before the date the revised Privacy Policy becomes effective, your continued access to or use of the platform and/or Services will be subject to the revised Privacy Policy.
+
+11. How to Contact Us
+
+If you have any questions or requests in connection with this Privacy Policy or other privacy-related matters, please send an email to
+support@thelevelup.com
+
+
+Please note that email communications will not necessarily be secure; accordingly, please do not include credit card information and/or other sensitive personal information in your email correspondence with us.
+
+
+
+
+Effective Date of this policy:
+February 11, 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appendix 0: User California Notice
+
+
+
+
+
+
+
+
+Grubhub | LevelUp - Privacy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LevelUp User CA Privacy Notice
+
+
+
+Effective: February 11, 2021
+
+
+
+This CA Privacy Notice (the “CA Notice”) supplements the information contained in our
+Privacy Policy
+and applies solely to individual residents of the State of California ("consumers" or
+"you").
+
+
+This CA Notice describes how we collect, use, disclose, and otherwise process personal
+information of individual residents of the State of California, either online or offline,
+within the scope of the California Consumer Privacy Act of 2018 (CCPA) when you create a
+LevelUp User Account or otherwise use the Apps and/or Services we provide on behalf of a Restaurant.
+
+
+
+Please note: Like our Privacy Policy, this CA Notice does not cover or address the privacy
+practices of Restaurants. Restaurants are independent third parties that may maintain their
+own business practices and policies outside of their relationship with LevelUp and their use
+of our Services. Accordingly, we are not responsible for the Restaurant’s independent
+collection, use or disclosure of your personal information outside of the Services we provide.
+For more information, please contact the Restaurant directly or refer to the Restaurant’s own
+privacy policy.
+
+
+
+Unless otherwise expressly stated, all terms in the CA Notice have the same meaning as
+defined in our Privacy Policy or as defined in the CCPA.
+
+
+
+
+Personal Information Definition
+
+
+When we use the term “personal information” in this CA Notice, we mean information that
+identifies, relates to, describes, is reasonably capable of being associated with, or could
+reasonably be linked, directly or indirectly, with a particular consumer or household. The
+term does not include information relating to job applicants, employees, contractors or
+other personnel of LevelUp; publicly available information from government records;
+deidentified, aggregated or anonymized information that is maintained in a form that is not
+capable of being associated with or linked to you; or any other information excluded from
+the CCPA’s scope (e.g. certain types of health or medical information).
+
+
+
+
+Collection and Use of Personal Information
+
+
+We collect personal information in connection with our Apps and Services for various
+purposes. For example, we use personal information to:
+
+
+
+Provide Services to the Restaurant and to you on behalf of the Restaurant (e.g. process your orders with the Restaurant)
+
+
+Communicate with you
+
+
+Inform marketing and advertising activities we undertake on behalf of the Restaurants
+
+
+Optimize and improve our Apps and Services and to develop new Apps and Services
+
+
+For other business, operational and commercial purposes described in our Privacy Policy.
+
+
+
+Please review the following sections of the
+Privacy Policy
+to learn more about the personal
+information we collect and the purposes for which we collect it: “Personal Information We
+Collect” and “How We Use Your Personal Information.”
+
+
+In the last 12 months, we have collected the following categories of personal information:
+
+
+
+
+
+
+
+Category of Personal Information Collected
+
+
+
+
+Collected
+
+
+
+
+Categories of Sources
+
+
+
+
+Identifiers,
+such as your name, address, phone number, email address or other similar identifiers.
+
+
+
+
+
+
+
+Directly from you
+
+
+Automatically generated or collected during your use of our Services (e.g. by
+your browser or device)
+
+
+Our affiliates and third parties, including third parties you direct to share
+information with us (e.g. social networks)'
+
+
+
+
+
+
+California Customer Records
+(Cal. Civ. Code § 1798.80(e)), such as your name, address, phone number, credit card
+number or other payment account number (including the three [3] or four [4] digit
+validation code for your credit card).
+
+
+
+
+
+
+
+Directly from you
+
+
+Automatically generated or collected during your use of our Services (e.g. by
+your browser or device)
+
+
+Our affiliates and third parties, including third parties you direct to share
+information with us (e.g. social networks)
+
+
+
+
+
+
+Protected Classification Characteristics,
+such as age, gender or demographic group.
+
+
+
+
+
+
+
+Directly from you
+
+
+
+
+
+
+Commercial Information,
+such as your ordering history, record of shopping or purchasing tendencies, and
+loyalty status or progress.
+
+
+
+
+
+
+
+Directly from you
+
+
+Automatically generated or collected during your use of our Services (e.g. by
+your browser or device)
+
+
+Our affiliates and third parties, including third parties you direct to share
+information with us (e.g. social networks)
+
+
+
+
+
+
+Internet/Network Information,
+such as your browsing history, search history, and information regarding your
+interaction with the Services.
+
+
+
+
+
+
+
+Automatically generated or collected during your use of our Services (e.g. by your
+browser or device)
+
+
+
+
+
+
+Geolocation Data,
+such as information about your physical location collected from geolocation features
+on your device, including your IP address and GPS (e.g. latitude and/or longitude).
+
+
+
+
+
+
+
+Automatically generated or collected during your use of our Services (e.g. by your
+browser or device)
+
+
+
+
+
+
+Sensory Information,
+such as photographs or recorded calls with our support teams.
+
+
+
+
+
+
+
+Directly from you
+
+
+
+
+
+
+Inferences,
+such as information generated from your use of the Services reflecting your preferences.
+
+
+
+
+
+
+
+Automatically generated or collected during your use of our Services (e.g.
+information generated or derived from your online browsing and usage activity)
+
+
+
+
+
+
+
+
+
+Sharing and Disclosure of Personal Information
+
+
+As further described in the section called “Sharing of Your Information” in our
+Privacy Policy, we share personal information with third parties for business purposes.
+
+
+The categories of third parties to whom we disclose your personal information for a
+business purpose include:
+
+
+
+Restaurant clients on whose behalf we provide the Services
+
+
+Third parties at your direction or request (e.g. posting your activity on social networks)
+
+
+Third parties at the Restaurant’s request (e.g. email or texting service providers, ad networks and advertising partners, social networks, point of sale providers, online ordering provider partners, and our affiliates)
+
+
+Third-party vendors and other service providers
+
+
+Our affiliates for operational or other business purposes
+
+
+Analytics providers
+
+
+
+We may also disclose personal information in connection with a corporate business
+transaction or to comply with legal or contractual obligations, as described in our Privacy
+Policy.
+
+
+In the last 12 months, we have disclosed for a business purpose all of the categories of
+personal information we collect, explained in the chart above.
+
+
+We do not sell your personal information to third parties. When directed to do so by a
+Restaurant, we permit third-party advertising networks, social media companies and other
+third-party businesses to collect and disclose your personal information (including
+Internet / Network Information, Geolocation Data, Commercial Information, and Inferences)
+directly from your browser or device through cookies or tracking technologies when you visit or
+interact with the applicable Restaurant Apps. Please review the
+Third-Party Tracking and Online Advertising
+section of the Privacy Policy for more information about how third parties
+collect information automatically on our websites and other online services and the
+choices you may have in relation to those practices.
+
+
+
+
+Your California Privacy Rights
+
+
+As a California resident, you may be able to exercise the following rights (collectively,
+the “California Privacy Rights”) in relation to the personal information about you that we
+have collected (subject to certain limitations at law):
+
+
+
+
+
+
+
+
+Right to Know
+
+
+
+You have the right to request any or all of the following information relating to your personal information we have collected and disclosed in the last 12 months, upon verification of your identity: 
+
+
+The specific pieces of personal information we have collected about you;
+
+
+The categories of personal information we have collected about you;
+
+
+The categories of sources of the personal information;
+
+
+The categories of personal information that we have disclosed to third parties for
+a business purpose, and the categories of recipients to whom this information was
+disclosed;
+
+
+The categories of personal information we have sold (as that term is defined by
+the CCPA) and the categories of third parties to whom the information was sold;
+and
+
+
+The business or commercial purposes for collecting or selling the personal
+information.
+
+
+
+
+
+
+
+Right  to Delete
+
+
+
+You have the right to request the deletion of personal information we have collected
+from you, subject to certain exceptions.
+
+
+
+
+
+Right to Opt-out
+
+
+
+You have the right to direct us not to sell (as that term is defined by the CCPA)
+personal information we have collected about you to third parties now or in the
+future.
+
+
+
+
+
+Right to Non-Discrimination
+
+
+
+If you choose to exercise your rights, we will not charge you different prices or
+provide different quality of services unless those differences are related to your
+personal information. That is, if the exercise of these rights limits our ability to process
+personal information (such as in the case of a deletion request), we may no longer be
+able to provide you our products and Services or engage with you in the same manner.
+
+
+
+
+
+“Shine the Light”
+
+
+
+California residents that have an established business relationship with us have the
+right to request and obtain from us once a year, free of charge, a list of the third
+parties to whom we have disclosed their personal information (if any) for such third
+party’s direct marketing purposes in the prior calendar year, as well as the type of
+personal information disclosed to those third parties under California’s “Shine the
+Light” law (Civ. Code §-1798.83).
+
+
+
+
+
+
+How to Exercise Your California Privacy Rights
+
+
+
+
+Exercise Your Right to Know or Right to Delete
+
+
+You may submit a request to exercise your California Privacy Rights through one of the mechanisms described below.
+We will need to verify your identity before processing your request, which may require us to request additional personal
+information from you or require you to log into your account. We will only use personal information provided in connection
+with a California Privacy Rights request to review and comply with your request. You may also designate an authorized agent
+to make requests on your behalf. In order to be able to act, authorized agents must submit a request using the email address
+below and provide sufficient evidence to demonstrate that the requestor is an authorized agent with written permission to
+act on your behalf.
+
+
+In certain circumstances, we may decline a request to exercise the Right to Know or Right to Delete described above,
+particularly where we are unable to verify your identity. If we are unable to comply with all or a portion of your
+request, we will explain the reasons for declining to comply with the request.
+
+
+
+Please note that LevelUp provides the Apps on behalf of Restaurants and will respond to your California Rights
+Request only as it relates to the specific Restaurant App from which you are making the request. You will need
+to make a separate request for each Restaurant App.
+
+
+
+
+LevelUp is only capable of addressing your California Privacy Rights with respect to the personal information
+we process through the LevelUp-powered Apps and Services. Our response to your request may not address the
+personal information practices of the Restaurant. As noted above, Restaurants are independent businesses that
+maintain their own business practices and policies outside of their relationship with LevelUp and their use of
+the LevelUp Services. You may wish to make a separate request directly with the applicable Restaurants.
+
+
+
+To exercise your Right to Know and/or your Right to Delete, please submit a request by following the instructions below:
+
+
+
+
+Right to Know: Obtain a report on what personal information we collect and how we use and share it
+
+
+
+You must be a California resident to download this report.
+
+
+
+
+Download data report
+
+
+
+
+Right to Know: Get a copy of the personal information we have collected about you in the last twelve (12) months
+
+
+
+You must be a California resident to submit this request.
+You must provide the specific restaurant name in the request.
+You must email us from the email address tied to your LevelUp-powered User Account.
+
+
+
+
+Request a copy of my data
+
+
+
+If you encounter any issues with the link above, please email
+
+privacyrequests@thelevelup.com
+
+with the subject line “California Privacy Rights Request.”
+
+
+
+
+Right to Delete: Delete your personal information
+
+
+
+You must be a California resident to submit this request.
+You must provide the specific restaurant name in the request.
+You must email us from the email address tied to your LevelUp-powered User Account.
+
+
+
+
+Request data deletion
+
+
+
+If you encounter any issues with the link above, please email
+
+privacyrequests@thelevelup.com
+
+with the subject line “California Privacy Rights Request.”
+
+
+Please note: All data associated with other LevelUp-powered User Accounts tied to your email address may also be deleted. Please review all the Accounts you have for LevelUp-powered Apps through the “Deactivate QR Codes” tab at
+thelevelup.com/login.
+Please contact
+
+privacyrequests@thelevelup.com
+
+for more information.
+
+
+In addition to the options above, to exercise your Right to Know and/or your Right to Delete, you may also:
+
+
+
+Email
+
+privacyrequests@thelevelup.com
+
+with the subject line “California Privacy Rights Request”, or
+
+Call 1-855-538-3542
+
+
+
+
+Exercise Your Right to Opt-out
+
+
+We do not sell your personal information to third parties.
+
+
+Below are your options for controlling your information and communication preferences in
+other ways.
+
+
+Exercising your right to opt out from receiving marketing messages.
+Please refer to the
+Control Over Your Information
+section of the Privacy Policy for your options.
+
+
+“Shine the Light” disclosures.
+California's "Shine the Light" law (Civil Code Section §1798.83) provides certain rights to
+California residents that have an established business relationship with us with regard to
+the disclosure of certain types of personal information to third parties for their direct
+marketing purposes. To make such a request, please send an email to
+
+privacyrequests@thelevelup.com
+
+or write us at: One Center Plaza, 6th Floor, Boston, MA 02108-1887.
+
+
+Third Party Tracking and Online Advertising.
+If a Restaurant enables online advertising and personalization services in the App, we permit
+certain third party ad networks, social media sites and other third parties to collect personal
+information about you through the Apps to serve relevant ads or personalize content, measure your
+engagement on the Service in order to improve your experience, or track referrals.  We do not
+control or have access to the personal information such companies collect on you, so we do
+not include those third parties in your opt- out options.  See our
+Third Party Tracking and Online
+Advertising section of our Privacy Policy for information about your choices with respect to
+these activities.
+
+
+Minors.
+We do not sell the personal information of consumers we know to be less than 16 years of age,
+unless we receive affirmative authorization (the "Right to Opt In") from either the minor who
+is between 13 and 16 years of age, or the parent or guardian of a minor less than 13 years of age.
+
+
+
+
+Loyalty and Rewards Programs
+
+
+We may offer Loyalty Programs on behalf of Restaurants to provide you with
+discounts, rewards and other incentives. Please refer to our
+Terms of Service
+to learn more about how these Loyalty Programs work. Your rights to participate in these
+programs will not be affected by your exercise of any of your California Consumer Rights.
+However, you may not be able to participate in such programs if you request to delete your
+information, as we will have no means of verifying your identity or tracking your rewards.
+
+
+
+
+Updates to This CA Notice
+
+
+We will update this CA Notice from time to time. When we make changes to this CA Notice, we
+will change the "Effective" date at the beginning of this notice. All changes shall be effective
+from the Effective Date unless otherwise provided in the notification. If you do not cancel your Account
+before the date the revised CA Notice becomes effective, you will be subject to the revised CA Notice.
+
+
+
+
+Contact Us
+
+
+If you have any questions or requests in connection with this CA Notice or other
+privacy-related matters, please send an email to
+
+privacyrequests@thelevelup.com.
+
+Alternatively, inquiries may be addressed to:
+SCVNGR, Inc. d/b/a LevelUp
+One Center Plaza, Sixth Floor,
+Boston, MA 02108-1887
+
+
+
+
+

@@ -1,0 +1,54 @@
+
+
+
+
+
+
+
+
+
+
+
+ Flashcards DeluxeMain Page
+
+
+
+
+
+Privacy Policy
+         Last updated: 6/3/2018 
+                 This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive         from users of Flashcards Deluxe.
+Information We Collect and How We Use It
+User Flashcard Data (including pictures and sounds)
+         Flashcards within the app are never exported outside the app without the user manually initiating an export or sync process.
+
+        Flashcards stored on our servers are not used by us in any way other than to provide them for download by users. We do not export or share these flashcards to any other entity.
+
+        Flashcards Deluxe has two server areas to store user flashcards:
+        1) App Server - Flashcards are stored here when a user either a) uploads through our website or b) exports to "App Server" from within the app. Data here is not associated with any account. Instead, the user identifies flashcards with a "deck code" (similar to a password).  A user can only download flashcards from this area using a valid "deck code".  Users should use a deck code that others will not guess or coincidentally use.
+        2) Shared Library - Flashcards exported to "Shared Library" are stored under the user's Shared Library account. In this case, when exporting the user can make the flashcards publicly viewable, or private.
+
+        Users can delete their flashcard data from our servers. For flashcards on "App Server", you can delete the deck by going to the following webpage: Delete Your Deck. Decks exported to Shared Library can be deleted from within the app by going to + (add deck), Shared Library, signing in, tap a group under "My Groups", tap deck, Remove from Library (if user owns deck).
+
+
+Microphone
+         We do not use recordings made by the user in any way other than to play back on the user's device when viewing flashcards.  Recordings are stored on the device as mp3 files and can be exported by the user.
+
+Email Addresses and Passwords
+         Flashcards Deluxe is generally login free, but exporting to Shared Library, or downloading private decks from Shared Library requires the user to create an account for the Shared Library.
+        An email address is optional, and is only used if the user requests a password reset.  We never give out account email addresses or use in any other manner.
+        Passwords from the Shared Library are only stored in hashed format, encrypted and unable to reverse to the original password.
+        
+        An email address from Dropbox or Google Drive may be collected, but is only stored on the device and never sent to our server, and is only used to show the user which account they logged in with.
+        We do not have access to passwords used to log in to Dropbox or Google Drive.
+        
+
+Contact 
+        Ernie Thomason 
+        email: et@orangeorapple.com 
+
+
+
+
+
+

@@ -1,0 +1,196 @@
+
+
+
+
+
+
+
+
+
+
+
+
+AntennaInternational.com is now Stqry
+Same company, great new platform and name!
+Looking for the My Tours Builder? Select My Tours from the LOGIN menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy Policy
+
+
+
+
+
+
+
+  
+
+
+
+
+SUMMARY
+At STQRY we take your, and your visitors, privacy seriously. We only store and use data to:
+
+Provide the STQRY service to you;
+Provide aggregated statistics on the use the service;
+Monitor the health of our systems;
+Communicate with you.
+
+PRIVACY STATEMENT
+
+
+Your privacy: OnCell Systems, Inc. (“STQRY”) is committed to ensuring the privacy of your information.
+
+
+Information: This Privacy Policy applies to:
+
+
+personal information submitted by you on this website and otherwise in the course of using any STQRY services related, associated with, or connected to, this website or any of STQRY applications (the “STQRY services”); and
+(b) any information automatically retrieved during visits to this website or by using a STQRY application.1.3 Your consent: By accessing and browsing this website and/or using the STQRY services or applications, you consent to the collection, use, disclosure, storage and processing of your information in accordance with this Privacy Policy.1.4 Changes to Privacy Policy: We may modify, alter or otherwise update this Privacy Policy from time to time, with or without notice to you. Such amendments will be effective immediately upon the posting of the amended Privacy Policy on this website. You agree to check this Privacy Policy and to be bound by the Privacy Policy that is in effect at the time you access this website.
+
+
+
+WHAT THIS PRIVACY POLICY COVERS
+
+This Privacy Policy covers the following:
+
+Collection, use and disclosure of personal information;
+Access to, editing and deleting personal information;
+Storage and processing of personal information;
+Cookies and automatically retrieved information;
+Account security; and Links to external websites.
+
+
+
+COLLECTION, USE AND DISCLOSURE OF PERSONAL INFORMATION
+
+Visitors: You may browse and access information contained on this website without providing personally identifiable information. However, some information is automatically retrieved while you visit this website or use a STQRY application. You agree that STQRY may collect information about you and/or your household (including information about the products and services that you and/or your household use) from time to time from you and from other services and by other means.
+Personal information: To register for certain services on this website, you may need to submit personal information such as your email address, name, physical address, and telephone number. You may be asked to submit further information via this website from time to time.
+Location Data: The STQRY applications use your location data to display relevant maps and tours to you.
+
+Your location data is neither transmitted to STQRY or stored on the STQRY servers.
+You may turn off the location features under the settings page of the app.
+
+
+Use of information: Your personal information will only be used to:
+
+provide the STQRY services to you;
+verify that you are entitled to register as a STQRY subscriber;
+communicate with you and/or your household in relation to this website, the STQRY services, and/or your subscription;
+keep you informed of and promote current or planned products and/or services of STQRY, and our selected business partners;
+conduct market research and generate and provide statistical analysis and rating information;
+respond to claims or complaints made by you or any member of your household;
+cooperate with Government, industry or regulatory authorities; and
+conduct credit control and debt collection activities (including logging overdue debts owed to STQRY with credit reference agencies).
+
+
+Disclosure of information: Unless you have authorised us to do so, STQRY will not rent or sell your personal information and will not disclose it to any third party except:
+
+where disclosure is connected to the purposes for which the information was collected as listed in clause 3.4;
+to our service providers, credit reference and debt collection agencies, and selected business partners;
+to relevant authorities, parties and/or applicable intellectual property rights holders (or their representatives) if we consider that you are in breach of STQRY’s rights; or
+where required, or permitted, by law.
+
+
+Mobile Apps: We do not require users to sign in to access app content and we do not store or transmit any personally identifiable data.
+
+ACCESS TO, EDITING AND DELETING PERSONAL INFORMATION
+
+Access: You may ask to see the personal information that STQRY holds about you at any time by contacting us or by viewing your details at your account page.
+Editing and deleting: You may also ask STQRY to correct, alter or delete any personal information that we hold about you by contacting us. Alternatively you are able to do this yourself at your account page.
+
+STORAGE AND PROCESSING OF PERSONAL INFORMATION
+
+Storage and processing: STQRY will store and process your personal information in the United States or in any other country in which STQRY or our selected business partners maintain facilities for doing so. Your personal information may therefore be transferred outside of your country.
+Retention: STQRY will hold your personal information both before and after the termination or cancellation of your STQRY subscription but only for as long as we are lawfully entitled to use that information.
+
+COOKIES AND AUTOMATICALLY RETRIEVED INFORMATION
+
+Cookies: When you enter this website your computer will automatically be issued with a cookie. These are text files that identify your computer to our server, so that when you visit the website again, the cookie will identify your computer to STQRY’s web server. This allows us to improve the speed and reliability of this website and provide you with a better service. Cookies in themselves do not identify individual users and are not used to collect or store personal information about you. Visitors have the ability to set their computers to notify them when a cookie is issued, or to reject any cookies, but the latter means that certain STQRY services will not be provided to the visitor.
+Automatically retrieved information: Some information may be automatically retrieved while you access and browse this website including:
+
+the features that you use, the pages that you visit and the actions that you take on this website;
+your IP address (i.e. the location of your computer on the internet);
+the domain name that you are accessing the internet from; and
+the browser and search engine (if any) that your computer uses.
+
+
+Purposes: The information automatically retrieved is used in statistical and aggregate formats to assess the effectiveness of and improve this website and the STQRY services, and to determine our visitors’ preferences and interests.
+
+ACCOUNT SECURITY
+
+STQRY security: To prevent unauthorised access, maintain data accuracy and ensure the appropriate use of any information supplied by you, STQRY has put in place physical, electronic and managerial processes to protect your information. Additionally, all user information stored on this website is protected from unauthorised access through the use of secure login information and other security procedures.
+Your security: You must keep any login, password or account information relating to your use of this website secure at all times.
+
+LINKS TO EXTERNAL WEBSITES
+
+Privacy: This website contains links to external websites. STQRY is not responsible for the privacy policies of any such external websites. This Privacy Policy applies solely to information collected by STQRY.
+
+
+
+
+
+
+
+
+
+
+Data Sharing
+
+STQRY uses a number of third party tools to run the STQRY service. These tools may store personal information and/or aggregate data to help us provide the STQRY service to you and to communicate with you.
+Services we use to manage your account
+We use the following services to help manage your account and to communicate with you. Information in these services may include names, email addresses, products and services used, and any communication we may have had with you.
+
+Mailchimp
+Zendesk
+Chargebee
+Dropbox
+Slack
+Google Apps
+
+Services we use to monitor our platform
+We use the following services to monitor the health of our system and provice statistics on the use of our webiste and apps.
+
+Raygun.io
+Sentry
+Pingdom
+
+Services we use to host our platform
+We use the following services to host our platform and provice the service to you.
+
+Amazon Web Services
+Zapier
+Webslice
+IMGIX
+Backblaze
+TransIP
+Github
+Encoding.com
+Auth SMTP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

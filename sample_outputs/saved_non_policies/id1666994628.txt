@@ -1,0 +1,154 @@
+
+
+
+
+
+
+
+
+Privacy Policy di www.purplesoft.io
+
+        Questo Sito Web raccoglie alcuni Dati Personali dei propri Utenti.
+      
+ 
+Dati Personali trattati per le seguenti finalità e utilizzando i seguenti servizi:
+
+
+
+
+
+Contattare l'Utente
+
+
+Modulo di contatto
+Dati Personali: cognome; email; nome; varie tipologie di Dati
+
+
+
+
+
+
+Gestione dei tag
+
+
+Google Tag Manager
+Dati Personali: Dati di utilizzo
+
+
+
+
+
+
+Hosting ed infrastruttura backend
+
+
+Microsoft Azure
+Dati Personali: varie tipologie di Dati secondo quanto specificato dalla privacy policy del servizio
+
+
+
+
+
+
+Interazione con social network e piattaforme esterne
+
+
+Buffer button and social widgets
+Dati Personali: Dati di utilizzo
+
+
+Pulsante e widget sociali di Linkedin
+Dati Personali: Dati di utilizzo; Strumenti di Tracciamento
+
+
+
+
+
+
+Protezione dallo SPAM
+
+
+Google reCAPTCHA
+Dati Personali: clic; Dati di utilizzo; eventi keypress; eventi relativi ai sensori di movimento; eventi touch; movimenti del mouse; posizione relativa allo scorrimento; risposte alle domande; Strumenti di Tracciamento
+
+
+
+
+
+
+Raccolta delle preferenze relative alla privacy
+
+
+Consent Solution di iubenda
+Dati Personali: Dati comunicati durante l'utilizzo del servizio; Strumenti di Tracciamento
+
+
+Cookie Solution di iubenda
+Dati Personali: Strumenti di Tracciamento
+
+
+
+
+
+
+Statistica
+
+
+Google Analytics 4
+Dati Personali: città; Dati di utilizzo; informazioni sul browser; informazioni sul dispositivo; latitudine (della città); longitudine (della città); numero di Utenti; statistiche delle sessioni; Strumenti di Tracciamento
+
+
+Google Analytics con IP anonimizzato e Google Analytics
+Dati Personali: Dati di utilizzo; Strumenti di Tracciamento
+
+
+
+
+
+
+Visualizzazione di contenuti da piattaforme esterne
+
+
+Font Awesome, Google Fonts e Widget Google Maps
+Dati Personali: Dati di utilizzo; Strumenti di Tracciamento
+
+
+Pulsante e widget sociali di GitHub
+Dati Personali: Dati di utilizzo
+
+
+
+
+
+
+
+Informazioni di contatto
+
+
+
+
+
+Titolare del Trattamento dei Dati
+PURPLESOFT S.R.L. 
+Via Dante Alighieri, 4 
+20822 Seveso (MB)
+Indirizzo email del Titolare: amministrazione@purplesoft.io
+
+
+
+
+
+
+
+    Ultima modifica: 17 maggio 2023   
+
+iubenda ospita questo contenuto e raccoglie solo  i Dati Personali strettamente necessari alla sua fornitura.
+  
+Visualizza la Privacy Policy Completa
+ 
+
+ 
+ 
+ 
+ 
+

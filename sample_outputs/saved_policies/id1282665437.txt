@@ -1,0 +1,296 @@
+
+
+
+Privacy Policy
+
+       Effective Date: February 1, 2023
+       Introduction
+
+        This Privacy Policy applies to the Community Brands’ hosted product platforms and websites owned and operated by         Community Brands, its subsidiaries or affiliates (collectively, “Community Brands”), including, but not limited         to www.core-apps.com. Throughout this document, this website and all         other Community Brands websites will be collectively referred to as the “Websites.” Services provided by or         enabled via the Websites will be referred to as the “Services.”       
+
+        At Community Brands (“CB”, “we”, “us”, “our”, or the “Company”), we are committed to protecting your privacy.
+        This Privacy Policy (“Privacy Policy”) describes the types of information we collect about users of our Company         websites, and users of websites hosted by the Company on behalf of our customers (“Customers”). This Privacy         Policy is designed to help you understand how we collect, use, and safeguard the information you provide to us         and to assist you in making informed decisions when using our Services.
+      
+
+        Community Brands provides services through our platforms for the purpose of fulfilling our Customer agreements         (individually, a “Customer Agreement”). Community Brands processes Customer data under the direction of its         Customers and has no direct relationship, control, or ownership of the personal data it processes under the         Customer Agreement. Customers are responsible for complying with any regulations or laws that require providing         notice, disclosure, and/or having a legal basis prior to transferring the data to Community Brands for         processing purposes. If you are a customer of a Community Brands Customer, you should review any additional         privacy policy and terms of use agreements before using a Community Brands Customer’s website. Community Brands         is not responsible for the content or privacy practices of non-Community Brands websites to which this website,         or any other Community Brands website, may link.
+      
+       View our Data Protection Agreement here.
+       Community Brands Platforms
+
+        In addition to the Websites, Community Brands operates cloud-based software for its Customers – associations,         nonprofits, and K-12 schools. The use of information collected through these platforms is strictly limited to         the purpose of meeting our contractual obligations to our Customers and providing the services requested by our         Customers, which are defined within our Customer Agreements.
+      
+Products Provided By Your Organization—Notice To End Users
+
+        If you use a Community Brands product with an account provided by an organization you are affiliated with, such         as your association or school account, that organization can:
+      
+
+
+          Control and administer your Community Brands product and product account, including controlling           privacy-related settings of the product or product account.
+        
+
+          Access and process your data, including the interaction data, diagnostic data, and the contents of your           communications and files associated with your Community Brands product and product accounts.
+        
+
+
+        Many Community Brands products are intended for use by organizations, such as businesses and schools. If your         organization provides you with access to Community Brands products, your use of the Community Brands products is         subject to your organization’s policies, if any. You should direct your privacy inquiries, including any         requests to exercise your data protection rights, to your organization’s administrator. Community Brands is not         responsible for the privacy or security practices of our Customers, which may differ from those set forth in         this privacy statement.
+      
+
+        When you use a Community Brands product provided by your organization, Community Brands’ processing of your         personal data in connection with that product is governed by a contract between Community Brands and your         organization. Community Brands processes your personal data to provide the product to your organization and you.
+        If you have questions about Community Brands’ processing of your personal data in connection with providing         products to your organization, please contact your organization.
+      
+Policy Regarding Children
+
+        Community Brands Websites and Services are not designed for use by children under the age of 16. As such,         Community Brands Websites are not directed at children under the age of 16 nor do we knowingly collect         information from children under the age of 16. With regard to our platforms, none of the Community Brands         products are intended to collect information from children but our Customers may collect information about         children. Through our agreements with our Customers, we require that our Customers comply with all laws with         regard to processing data about children.
+      
+A Note to Parents & Children
+
+        If you are a child under 16 in the European Union or UK or a child under 13 in the United States, you may access         the Service only to the extent that consent is given or authorized by the holder of parental responsibly over         you. Please speak with your parent or guardian about this Privacy Policy so you can better understand how we use         your personal data. We make reasonable efforts to verify that consent is given or authorized by the holder of         parental responsibility over you, and, if we learn or have reason to suspect that we have collected personal         data from you without parental consent, we will promptly delete it.
+      
+Parental Access
+
+        A parent who has already given Community Brands or our Customer permission to collect, use, and share their         child’s personal information can, at any time, do the following: (1) review, correct, or delete the child’s         personal information; and/or (2) discontinue further collection, use, or sharing of the child’s personal         information.
+      
+
+        Community Brands offers products that support schools and is a proud signatory of the Student Privacy Pledge         2020.
+      
+What Data Do We Collect
+
+        Depending upon the Community Brands Website or Service you are accessing or other method of contact, we may         collect the following information:
+      
+
+Contact details such as (for example) your full (i.e., first, and last) name, institutional affiliations,           phone number, email address, and postal address.
+Educational and professional background information
+Employment and application data
+Event registration information
+Tuition, admission, and financial aid information
+Payment Data
+Usernames and passwords that may be used on some of the Community Brands Websites
+Comments, feedback, posts, and other content you submit to the Community Brands Websites
+Information you provide to or post on message boards or chat rooms that are part of the Community Brands           Websites
+Interests and communication preferences.
+
+How Do We Collect and Use Data
+
+        Community Brands provides products such as platforms, websites, and apps to our Customers. Community Brands’         Customers are the owners of the personal information collected from their end-users. Our Customers decide what         data to collect (this typically includes information about their end-users customers, prospects, employees,         consultants or independent contractors, suppliers, and other individuals or third parties). We only collect this         information under the direction of our Customers and have no direct relationship with the individuals whose         personal information we process on behalf of our Customers.
+      
+
+        Community Brands accesses and collects information that you voluntarily give us via email, webform or other         direct contact from you. We will use your information to respond to you, regarding the reason you contacted us.
+        We will not sell or rent this information to anyone. We may disclose information to our corporate affiliates and         third parties to provide products and services to you or related to products or services you have purchased or         downloaded from Community Brands. Unless you ask us not to, we may contact you via email or text message in the         future to tell you about our services, new products, changes to this privacy policy or to provide you with         informational or educational newsletters.
+      
+
+        Community Brands may access Customer Data for the purposes of providing and enhancing a service, preventing or         addressing service or technical problems, responding to support issues, and responding to a Customer’s         instructions, or as may be required by law, in accordance with the relevant Agreement between the Customer and         Community Brands.
+      
+
+        Our information collection and use practices are described in more detail below.
+Product-Related Information Collection
+
+        Community Brands collects certain additional information in connection with your use of our Services, web-based         products and/or desktop products with online features. For instance:
+      
+
+Product Updates: Some products provide you with the ability to download and register product and/or           tax updates as they become available. During the download and registration process, we collect “Business           Information”, including customer ID number and product version, type, and serial number. This is collected so           that we can authorize your access, provide you with the appropriate update, and to update our records as to           the product and products updates you have downloaded or installed, so that we may provide the appropriate           support.
+Account Set-Up and Access: Upon subscribing to our services, Community Brands collects Business           Information, which may include information such as product serial number, customer ID and your customer           profile information. This allows us to identify you to authorize your access and use of the services, and to           provide you with your relevant account information. Certain products allow you to access your account to           obtain information such as your support plan status, service subscriptions, registrations, and order history.
+        
+Online Product /Account Application: Certain products and services are subject to an application and           enrollment process, which may be completed on paper or online. Information requested may include federal ID           numbers, bank account, payroll, credit card and contact information. This information is used to process your           enrollment request and, if approved, to set up and administer your account.
+Web-based Services: Some of our web-based Services collect certain additional information, including           IP address, browser, connection speed, domain, referring URL and other environment-related information. This           enables us to provide a secure environment for the use of the services, to pre-populate forms and calculate           aggregate statistical information about the customers using these services. We use this information to better           protect you and to provide a better user experience.
+
+
+Support. We offer certain support services. If you access our support services, you may be asked for         information such as customer ID, product name, product version, and other information to help us determine what         the technical issues are and how best to help you resolve them. In addition, certain products allow you to         submit support-related questions directly from the product. If you access online support services from a         product, information about your network, operating system, and other similar information will be automatically         pre-populated for submission to our customer support representatives to assist them in answering your questions.
+      
+
+Third-Party Products. Community Brands may use your Business Information to inform you of special         discounts or offers from other companies we have carefully selected and whose products and services may be of         interest to you.
+      
+
+Public Forums. Information (including personal and Business Information) that you submit, post, or         otherwise reveal in a public forum (such as comments to a blog or product discussion forum) is not subject to         this Privacy Policy, will be seen by third parties not related to Community Brands, and may be used by them or         Community Brands to contact you for any purpose.
+      
+
+Registrations. To access information (blogs, demos of our products, marketing materials etc.) on the         Websites, a user may be required to register with Community Brands. During registration a user is required to         give certain information (such as name, email address, job title). This information is used to contact you about         the products/services on our Website in which you have expressed interest.
+      
+
+Orders. We request information from you on our order forms. To buy from us, you must provide contact         information (like name and shipping address) and financial information (like credit card number, expiration         date). All payment data is stored by our payment processors, and you should review their Privacy Policies and         contact the payment processor directly to respond to your questions. Community Brands uses this information for         billing purposes and to fill your orders. If we have trouble processing an order, we’ll use this information to         contact you.
+      
+
+Surveys and Contests. From time-to-time, our Websites may request information via surveys or contests.
+        Participation in these surveys or contests is completely voluntary and you may choose whether or not to         participate and therefore disclose this information. Information requested may include contact information (such         as name and shipping address), and demographic information (such as zip code). Contact information will be used         to notify winners and award prizes, if applicable. Survey information will be used for purposes of monitoring or         improving the use and satisfaction of the Websites.
+      
+
+Email and Text Communication. Each email and/or text we send will contain instructions on how to         unsubscribe should you decide not to receive future promotional communication. If you choose to opt-out of         receiving promotional email and/or text communications from Community Brands, we may still periodically         communicate with you via email, mail, and telephone for non-promotional matters. Please allow up to 10 business         days to be removed from our promotional communication list.
+      
+
+        We send notification emails about the Website and Services from time to time as necessary. Generally, you may         not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them,         you have the option to deactivate your account.
+      
+
+Third-Party Email Promotions. If you access and/or use any of our third-party provider’s (our “Partners”)         services from a link on our Websites, a Community Brands/Partner co-branded site or by any other means, any         information you reveal in connection with such service is submitted to our Partner and is not subject to this         Privacy Policy. You should consult the privacy policy of any Partners or third-party site with respect to its         treatment of any information that you may reveal through such service.
+      
+
+Services and Product Data. Business Information collected by Community Brands does not include your         company’s data entered in the course of operating our products (“Product Data“) or data provided by you while         using our services (“Services Data“). Community Brands will not access your Product Data or Services Data except         in the following limited circumstances:
+      
+
+to provide you with technical support, solely at your request and with your permission           on a limited-access basis to install updates, produce regular backups or restore data from backups at your           request
+where the inherent purpose of the product or service requires Community Brands to provide the Product Data           or Services Data to a third party on your behalf (for example where Community Brands makes tax filings on your           behalf or initiates bank transfers on your behalf); and
+to utilize aggregate information derived from Product Data and Services Data to help us improve our products           and services and in developing additional offerings. Aggregate information is non-identifying information           about you that is provided to third parties for analysis. For example, we might inform third parties regarding           the number of users of this Website and the activities they conduct while on this Website to better understand           user experience. Third-parties who receive aggregate information cannot identify or contact you based on the           information they receive
+
+
+        Community Brands will not provide your Product Data or Services Data to any third-party or permit any         third-party to access your Product Data or Services Data, except with your permission or to comply with valid         legal requirements such as a law, regulation, search warrant, subpoena, or court order. In addition, if at any         time you decide to discontinue your use of the applicable service, your Services Data will be destroyed and         removed from all servers according to terms set forth in your Customer Agreement, subject to applicable back-up         and disaster recovery practices and procedures.
+      
+
+Employment Applications and Talent Management. As part of our recruitment and talent management process,         we collect personal information with respect to individuals who are interested in working for us. In this         context, we collect employment and application data, such as the following: contact information (e.g., name,         title, residential or postal address, telephone number, and personal email address); information in a curriculum         vitae, resumé, cover letter, or similar documentation; details regarding the type of employment sought,         willingness to relocate, job compensation and benefit preferences; health data (e.g., medical conditions);         information related to your background, education, criminal record, credit history and similar data; information         provided about or by your references or other third parties related to your employment history, skills,         qualifications, or education; and, information related to previous applications to us or previous employment         history with us. When permitted by law, we may collect information about your race and ethnicity to assist with         our diversity and inclusion programs. We use this information for the following purposes: to identify and         evaluate job applicants; to verify your information; to complete employment, education, background and reference         checks; to communicate with you about the recruitment process and your application; to comply with our legal,         judicial, regulatory, administrative, or other corporate requirements; to analyze and improve our application         and recruitment process; to accommodate individuals who may have specialized needs during the employment         process; and to protect the rights, interests, and property of our business, other job applicants, employees, or         the public, as required, or permitted, by law.
+      
+
+Cookies. Community Brands may place “cookies” on the browser of your computer. Cookies are small pieces         of information that are stored by your browser on your computer’s hard drive. Cookies may enhance the         convenience and use of the Websites. You may choose to decline cookies if your browser permits but doing so may         affect your ability to access or use certain features of the Website.
+      
+
+        Community Brands may also utilize web beacons on our Websites. A “web beacon,” also known as an Internet tag,         pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information         collected through cookies back to a web server. The information collected through these automated means may         include information that we gather and store about your visit to, and use of, the Websites, such as your IP         address, type of browser and operating system used, date and time you access the websites, pages you visit, and,         if you linked to the Websites from another website, the address of that website. This data does not include         Personal Information and is not treated as Personal Information under this Privacy Policy, but it may include         the IP address of your device. We may link an IP address to information that is personally identifiable.
+      
+
+        Most web browsers automatically accept cookies, but you can disable this function so that your browser will not         accept cookies. Please be aware that disabling this function may impact the quality and other aspects of your         use of this Website.
+      
+
+Third-Party Analytics. We may also allow certain third-party analytics service providers to include         cookies and web beacons within the pages of the Websites on our behalf and to retain and use the information         received from such cookies and web beacons themselves. Third-party service providers that collect this data on         our behalf may offer information about their data collection practices, and in some cases, 
+        an opt out on their respective websites which you can access here.
+
+
+Do Not Track. Currently, various browsers — including Microsoft Edge, Google Chrome, Internet Explorer,         Mozilla Firefox, and Apple Safari — offer a “do not track” or “DNT” option that relies on a technology known as         a DNT header, which sends a signal to Web sites’ visited by the user about the user’s browser DNT preference         setting. We do not currently commit to responding to browsers’ DNT signals with respect to the Company’s Web         sites, in part, because no common industry standard for DNT has been adopted by industry groups, technology         companies or regulators, including no consistent standard of interpreting user intent. We take privacy and         meaningful choice seriously and will make efforts to continue to monitor developments around DNT browser         technology and the implementation of a standard.
+      
+How Long Do We Keep Your Data
+
+        We may retain your information for a period of time consistent with the original purpose of collection. For         instance, we may retain your information during the time in which you have an account to use our Web sites or         Services and for a reasonable period of time afterward. We also may retain your information during the period of         time needed for us to pursue our legitimate business interests, conduct audits, comply with our legal         obligations, resolve disputes and enforce our agreements.
+      
+How Do We Protect Your Data
+
+        We take precautions to protect your information. When you submit sensitive information via the Websites, your         information is protected both online and offline. We use appropriate security measures to protect the security         of your data both online and offline. These measures vary based on the sensitivity of the information that we         collect, process, store, and the current state of technology. Please note, though, that no website or internet         transmission is completely secure, so while we strive to protect your data, we cannot guarantee that         unauthorized access, hacking, data loss or a data breach will never occur.
+      
+How We Share Data
+
+        Unless you give us your permission, we don’t share data we collect from you with third parties, except as         described below:
+      
+
+Third-party service providers or consultants. We may share data collected from you on Community Brands         Websites with third-party service providers or consultants who need access to the data to perform their work on         Community Brands’ behalf. These third-party service providers are limited to only accessing or using this data         to provide services to us and must provide reasonable assurances that they will appropriately safeguard the         data.
+      
+
+Compliance with Laws. We may disclose your data to a third party if (i) we believe that disclosure is         reasonably necessary to comply with any applicable law, regulation, legal process or government request         (including to meet national security or law enforcement requirements), (ii) to enforce our agreements and         policies, (iii) to protect the security or integrity of the Community Brands Website or our Services and         products, (iv) to protect ourselves, our other customers, or the public from harm or illegal activities, or (v)         to respond to an emergency which we believe in good faith requires us to disclose data to assist in preventing a         death or serious bodily injury. If Community Brands is required by law to disclose any of your data that         directly identifies you, then we will use reasonable efforts to provide you with notice of that disclosure         requirement, unless we are prohibited from doing so by statute, subpoena or court or administrative order.
+        Further, we object to requests that we do not believe were issued properly.
+      
+
+Business transfers. If we go through a corporate sale, merger, reorganization, dissolution or similar         event, data we gather from you through our Websites may be part of the assets transferred or shared in         connection with due diligence for any such transaction. Any acquirer or successor of Community Brands may         continue to use the data we collect from you through our Websites as described in this notice.
+      
+
+Aggregated or de-identified data. We might also share data collected from you from Community Brands         Websites with a third party if that data has been de-identified or aggregated in a way that does not directly         identify you.
+      
+
+        We do not share your data (including, but not limited to, the personal data of your end users) with third         parties for their direct marketing purposes, unless you give us your consent to do so.
+      
+
+Employers – Career Center Solutions. An Employer, in our Career Center Solution, is a recruiter, company         representative, agency or other individual who has contracted with Community Brands and is interested in         contacting potential candidates, or job-seekers, for job openings. Relevant job-seeker resumes are provided to         Employers, who may use that resume information to contact the job-seeker. This information is only made         available to employers with the consent of the job-seeker. Community Brands does not share your data (including,         but not limited to, the personal data of your end users) with third parties for their direct marketing purposes,         unless you give us your consent to do so.
+      
+Cross Border Transfers of Data
+
+        Community Brands’ headquarters are in the United States and as such, data may be transferred to the United         States from the European Economic Area (“EEA”), Switzerland, or another country that requires legal protections         for international data transfer. Personal data will be transferred to the United States or another country in         which Community Brands operates business (in certain scenarios, India and/or Philippines): to fulfill         contractual obligations to you; with your consent; or to fulfill a compelling legitimate interest of Community         Brands in a manner that does not impeach on your rights and freedoms. We make every effort to ensure the         security and protection of the data we transfer.
+      
+
+        We are committed to protecting the privacy of personal data and adherence to Global Data Protection laws.
+        Community Brands implements Standard Contractual Clauses to govern the international transfer of data.
+      
+
+
+          For EEA residents, you can find the contact details for your local data protection authority here.
+
+
+        View our Data Protection Agreement here.
+      
+Australia Privacy Rights
+
+Data Privacy Rights. The personal information collected, stored, used, and/or processed by Community         Brands, as described in this Privacy Policy, is collected, stored, used and/or processed in accordance with the         Australian Privacy Act 1988 (Commonwealth), as amended, and the Australia Privacy Principles (“APPs”).
+        Further information regarding the APPs is set out on the Australian Government website www.oaic.gov.au. If you         would like to update or access your personal information held by Community Brands, please contact us in         accordance with the “How to Contact Us” section listed below. If you believe that the personal information that         we hold about you is incorrect, incomplete, or inaccurate, then you may request we amend it and you may submit         such a request by contacting us in accordance with the “How to Contact Us” section listed below.
+      
+
+Complaint Process. Please notify us of any complaint you may have about our handling of your personal         information by contacting us in accordance with the “How to Contact Us” section listed below, and please set         forth the details of your complaint. We will undertake commercially reasonable efforts to reply to your         complaint within thirty (30) days and will, where necessary or appropriate, advise you of the general reasons         with respect to how we responded to your complaint. Notwithstanding the foregoing, you may submit a complaint at         any time to the Office of the Australian Information Commissioner.
+      
+Canada Privacy Rights
+
+        Personal data (as the term is defined in the Personal Data Protection and Electronic Documents Act of Canada         (“PIPEDA”)) may be collected, stored, used and/or processed by Community Brands in accordance with this         Privacy Policy and Community Brands’ obligations under PIPEDA and other applicable Canadian provincial laws.
+        Pursuant to Canadian law, you have a right to request access to your personal information and to request that         inaccurate personal information be corrected. If you have submitted personal information to us and would like to         have access to it, or have it corrected, please contact us in accordance with the “How to Contact Us” section         listed below. When requesting access to, or correction of, your personal information, we will require that you         verify our request via email and request specific data from you to enable us to confirm the authenticity of the         request and your identity, and to enable us to search our records and databases. To delete your name from our         electronic contact lists (text or email), please follow the applicable opt-out instructions included in each         SMS/Text Marketing communication or contact us in accordance with the “How to Contact Us” section listed below.
+        For more information about the Office of the Privacy Commissioner of Canada, please access its website.
+      
+Traduit en français
+Droits à la vie privée au Canada
+
+        Les données personnelles (tel que le terme est défini dans la Loi sur la protection des données personnelles et         les documents électroniques du Canada (« LPRPDE »)) peuvent être collectées, stockées, utilisées et/ou traitées         par Community Brands conformément à la présente politique de confidentialité et aux obligations de Community         Brands en vertu de la LPRPDE et d’autres lois provinciales canadiennes applicables. Conformément à la loi         canadienne, vous avez le droit de demander l’accès à vos renseignements personnels et de demander que les         renseignements personnels inexacts soient corrigés. Si vous nous avez soumis des informations personnelles et         souhaitez y avoir accès ou les faire corriger, veuillez nous contacter conformément à la section « Comment nous         contacter » ci-dessous. Lors d’une demande d’accès ou de correction de vos informations personnelles, nous vous         demanderons de vérifier notre demande par e-mail et de vous demander des données spécifiques pour nous permettre         de confirmer l’authenticité de la demande et votre identité, et pour nous permettre de rechercher notre dossiers         et bases de données. Pour supprimer votre nom de nos listes de contacts électroniques (texte ou e-mail),         veuillez suivre les instructions de désinscription applicables incluses dans chaque communication SMS/texte         marketing ou contactez-nous conformément à la section « Comment nous contacter » indiquée ci-dessous. Pour plus         d’informations sur le Commissariat à la protection de la vie privée du Canada, veuillez accéder à son site Web.
+      
+California Privacy Rights
+
+Data Privacy Rights. Pursuant to the California Consumer Privacy Act of 2018, as amended (“CCPA”),         California residents have additional data privacy rights, including (i) the right to be notified about what         personal information is collected about you, and our intended use and purpose for collecting your personal         information, (ii) the right to know and access personal information we have collected, used, disclosed, or sold         about you over the past twelve (12) months, including the categories of personal information we have collected,         used, disclosed, or sold about you, the categories of sources from which the personal information is collected,         the business or commercial purpose for which your personal information was collected, used, disclosed, or sold,         and the categories of third parties with whom we have shared your personal information, (iii) the right to         request Community Brands to transfer, to the extent feasible, personal information in certain forms and formats,         (iv) the right to request that we delete/erase your personal information under certain circumstances, and (v)         the right not to be subject to discrimination for asserting your rights under the CCPA. The personal information         we collect from you, the purposes for which it is used, the source of such personal information, and the parties         to whom we share your personal information is set forth in this Privacy Policy. To exercise any of the CCPA’s         data privacy rights set forth herein, please contact us in accordance with the “How to Contact Us” section         listed below. If you would prefer, you may designate an authorized agent to submit a CCPA privacy request on         your behalf. An authorized agent must be registered with the California Secretary of State to conduct business         in California.
+      
+
+Privacy Request Verification Process. If you (or your authorized agent) make any request related to your         personal information under the CCPA, Community Brands will ascertain your identity (and the identity of the         authorized agent, to the extent applicable) to the degree of certainty required or permitted under the law         before addressing your request. Community Brands will, to the extent required or permitted by law, require you         (or your authorized agent) to verify your request via email or other means and match at least two or three         pieces of personal information we have previously collected from you before granting you access to, or erasing,         specific pieces or categories of personal information, or otherwise responding to your request. We may require         written documentation that demonstrates a third party is authorized to serve as your agent for the purposes of         submitting the requests set forth herein, unless you have provided the authorized agent with power of attorney         pursuant to California Probate Code §§ 4121 to 4130. None of the CCPA’s rights are absolute and are subject to         legal and regulatory exceptions and exemptions. For more information about the CCPA, please         see: https://oag.ca.gov/privacy/ccpa.
+      
+
+Opt-Out Rights / Do Not Sell My Personal Information. California residents have the right to opt-out of         the sale of their personal information. Community Brands does not sell your personal information.
+      
+Privacy Rights
+
+        Community Brands is a service provider to our Customers and the data in our systems is owned by our Customers,         meaning, our Customers have jurisdiction over the data and any end-user data subject request should be submitted         directly to the Customer. Customer’s users may access, correct, and delete some information within the         Platforms. If you have additional requests, please contact our Customer’s directly. Community Brands supports         our Customers in all requests.
+      
+
+        In compliance with Global Data Protection laws, Community Brands provides its Customers with specific additional         rights such as the right to access, correction, and deletion as described below:
+      
+
+request access to categories and specific pieces of personal information about you;
+request that we correct inaccurate or incomplete personal information about you;
+request deletion of personal information about you;           request restrictions, temporarily or permanently, on our processing of some or all personal information about           you;
+request transfer of personal information to you or a third party where we process the data based on your           consent or a contract with you, and where our processing is automated; and
+opt-out or object to our use of personal information about you where either:
+          
+our use is based on your consent or our legitimate interests, or
+you do not want us to share with third parties.
+
+
+
+
+        Community Brands will utilize commercially reasonable security and confidentiality measures to securely maintain         Customer information, including but not limited to compliance with applicable data privacy legislation (meaning         all laws and regulations, now or hereafter in effect, in any country or jurisdiction of the world, which protect         the privacy rights of individuals submitting information to Community Brands Platforms, including without         limitation the Regulation (EU) 2016/679 (“GDPR”), GDPR as applicable as part of UK domestic law by virtue of         section 3 of the European Union (Withdrawal) Act 2018 and as amended by the Data Protection, Privacy and         Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (as amended), state and federal laws in         the United States, such as the California Consumer Privacy Act, the California Privacy Rights Act, the Virginia         Consumer Data Protection Act, the Utah Consumer Privacy Act, the Connecticut Act Concerning Personal Data         Privacy and Online Monitoring, and the Colorado Privacy Act).
+      
+
+        If you are a Community Brands Customer, you may exercise your rights by contacting Privacy@Communitybrands.com. All requests will be addressed         within the timeframe required based on the applicable regulation. If the collection of your personal data was         based on your consent, you have the right to revoke that consent at any time. Be aware that by revoking consent,         you may lose access to Services you previously opted to use.
+      
+
+        If you are not a Community Brands Customer and rather a user of our Services through an account you have with a         Community Brands Customer, please contact that Customer directly.
+      
+Changes to this Privacy Policy
+
+        We update this privacy statement when necessary to provide greater transparency or in response to:
+      
+
+Feedback from customers, regulators, industry, or other stakeholders
+Changes in our products
+Changes in applicable laws and/or regulations
+Changes in our data processing activities or policies
+
+
+        When we post changes to this statement, we will revise the “Effective Date” date at the top of the statement. If         there are material changes to the statement, such as a change to the purposes of processing of personal data         that is not consistent with the purpose for which it was originally collected, we will notify you either by         prominently posting a notice of such changes before they take effect or by directly sending you a notification.
+        We encourage you to periodically review this privacy statement to learn how Community Brands is protecting your         information.
+      
+How to Contact Us
+
+        Community Brands commits to resolve complaints about our collection or use of your personal information.
+        Community Brands takes its users’ privacy concerns seriously.
+      
+
+        If you believe that Community Brands has not complied with this Privacy Policy with respect to your personal         information, please email us at privacy@communitybrands.com or by writing to the Community Brands Privacy         Officer at the following address:
+      
+
+        Community Brands
+        Attn: Privacy Officer
+        9620 Executive Center Dr. N #200
+        St. Petersburg, FL 33702
+        USA
+
+
+In your letter, please include which Community Brands Platform you are inquiring about.
+The complete list of Community Brands platforms           can be found here.
+        Describe in as much detail as possible the ways in which you believe that the Privacy Policy has not been         complied with.
+        We will investigate your complaint promptly.
+      
+
+        Please note that Community Brands is not responsible for the content or privacy practices of non- Community         Brands websites to which this Website or any other Community Brands website may link. Also, Community Brands is         not responsible for the privacy practices of its Customer or users of its Customer’s websites. You should review         the additional privacy policy of the Customer site before using the site.
+      
+
+

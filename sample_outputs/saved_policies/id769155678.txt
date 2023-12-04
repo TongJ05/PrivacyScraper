@@ -1,0 +1,54 @@
+
+CARROT Fit Privacy Policy
+Privacy Policy
+ Grailr LLC takes the privacy of our customers ("Customer" or "you" or "your") seriously. This Privacy Policy is designed to tell you about our practices regarding the collection, use, and disclosure of information that Grailr LLC ("Grailr", "us" or "we") or its third party service providers collect through the CARROT Fit iPhone application ("CARROT Fit" or "Application"). Data collected through your use of the Application is governed by this Privacy Policy. Please be sure to read this entire Privacy Policy before using the Application.
+
+By accessing or using CARROT Fit, you consent to the terms and conditions of this Privacy Policy. We may modify or update this Privacy Policy at any time effective upon its posting on CARROT Fit. Your continued use of this Application constitutes your acceptance to this Privacy Policy and any modifications or updates thereto.
+
+Personal Information
+ Your use of CARROT Fit may cause certain information, including information you may consider personal to you ("Personal Information"), to be stored locally on your iPhone ("Device"). This data includes your birthdate, height and weight, gender, and specific details of the exercises you perform ("Fitness Data").
+
+By default, Fitness Data is stored locally on your Device. You may also opt to store Fitness Data with third party service providers such as Dropbox and Apple's Health App Database (see relevant sections below). If you have an iCloud account, CARROT Fit will also sync your current level to Apple's iCloud Database; no other Personal Information or Fitness Data is backed up to iCloud.
+
+We will treat your Personal Information and Fitness Data as confidential (see relevant sections below). We will not share your Personal Information or Fitness Data with third parties, such as third party service providers and/or advertisers, without your permission.
+
+Dropbox Integration
+ You may opt to sync and back up your Fitness Data with Dropbox. Authentication with Dropbox is carried out using Dropbox's official APIs using OAuth2; CARROT Fit does not store your Dropbox username or password. You can stop syncing data to Dropbox at any time by turning the Dropbox sync feature off in CARROT Fit's settings.
+
+CARROT Fit is in no way responsible for the protection of the Fitness Data and/or other information stored in your Dropbox account. You and Dropbox are solely responsible for the protection of such information in your Dropbox account. Please review Dropbox's applicable policies and procedures before syncing and backing up your Fitness Data and/or other information with Dropbox.
+
+Apple Health App Integration
+ You may opt to integrate CARROT Fit with Apple's Health App Database. If you grant CARROT Fit access to Apple's Health App Database, CARROT Fit will import your data from the Health App Database into the Application in certain circumstances, such as to aid you in the tracking of fitness goals. In addition, CARROT Fit may transfer data that you store locally on your Device, such as weight or workout information, to the Health App Database. CARROT Fit cannot read from or write to the Health App Database unless you grant access. Data accessed from the Health App Database will never be shared with third parties, such as third party service providers and/or advertisers, without your permission.
+
+CARROT Fit is in no way responsible for the protection of the Fitness Data and/or other information stored with Apple's Health App Database. You and Apple are solely responsible for the protection of such information in the Health App Database. Please review Apple's applicable policies and procedures before syncing and backing up your Fitness Data and/or other information with the Health App Database.
+
+Sharing Information
+ CARROT Fit allows you to share certain information, such as your weight and exercise goals, with social networks, including Facebook and Twitter. CARROT Fit will never automatically share your information to social networks and/or third parties without your consent.
+
+CARROT Fit is in no way responsible for the protection of any information that you choose to share with social networks. You and such social networks are solely responsible for the protection of such information. Please review any applicable policies and procedures of such social networks before sharing your information therein.
+
+Aggregated Data Collection
+ CARROT Fit may automatically collect anonymous information regarding your interaction with, and use of, CARROT Fit. Information we may collect includes, but is not limited to, device identifier and hardware information, IP address, system type, and other information about your interactions with the Application. This data is never linked to your Personal Information or Fitness Data, and we do not use it to identify you personally.
+
+Security
+ We take reasonable steps to protect information about you that is in our possession and control, such as your Personal Information and Fitness Data, from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Unfortunately, no Internet transmission is ever completely secure or error-free. In particular, email sent between you and us may not be secure, due, for instance, to the security practices that you, your email carrier, and/or Internet provider employ. You should therefore take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any personal data to us via the Internet.
+
+You are solely responsible for the protection of your Device, including any use of CARROT Fit or any storage of Personal Information or Fitness Data incident to the use of CARROT Fit on your Device. Please consult your Device's documentation on how to manage local storage and how to apply appropriate security controls to the Device for the protection of information such as passwords. You are entirely responsible for maintaining the confidentiality of your Device password.
+
+Personal Information or Fitness Data that is stored on your Device is your responsibility. In the event that your Device becomes lost or inoperable, your Fitness Data may not be recoverable (see relevant sections above).
+
+Privacy Policy Updates
+ At times it may be necessary for us to make changes to this Privacy Policy such as due to changes in the services we offer, Apple's policies and procedures, and/or the applicable laws of the United States. We reserve the right to update or modify this Privacy Policy at any time without prior notice. Please review this Privacy Policy periodically, especially before you provide any Personal Information or Fitness Data to CARROT Fit.
+
+This Privacy Policy was last updated on the date indicated below. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on CARROT Fit. As set forth above, your continued use of the Application after any changes or revisions to this Privacy Policy shall indicate your acceptance and agreement with the terms of such revised Privacy Policy.
+
+International Users
+ Grailr LLC is located in the United States and is subject to the applicable state and federal laws of the United States. If you use CARROT Fit, you consent to the use and disclosure of information in accordance with this Privacy Policy and subject to such laws.
+
+Use of Application by Minors
+ CARROT Fit is not intended for use by anyone under the age of 18.
+
+Contact Us
+ If you have questions about the policies described in this statement, please email us directly at support@meetCARROT.com.
+
+Last Updated: 9/9/2014

@@ -1,0 +1,32 @@
+
+
+
+EN
+         RU
+
+
+Privacy policy of “Money OK” service
+Last updated: June 5, 2018 
+
+This Privacy policy establishes main regulations of how OOO “Mobion” (hereinafter – Company) processes information received from the users of “Money OK” service (hereinafter – Service).
+
+
+The Service is intended for storing the uploaded information and synchronizing this information between the applications (hereinafter – Applications) and websites (hereinafter – Websites) connected to it.
+Mobile applications “Expenses OK”, “Income OK and “Money OK” belonging to the Company are among the Applications that can be connected to the Service. Among the Websites that can be connected to the Service is the website https://moneyok.site. In future the list of Applications and Websites can be extended. 
+The Service is intended for storing only anonymous information. Don’t use it for keeping personal information that can confirm your real identity. Personal information is name, surname, address, email and any other data under the operation of Personal Information Protection Acts adopted in the state of which you are a citizen.
+As soon as one of the Applications is connected to the Service, all the data stored in them is synchronized. 
+The servers of the Service storing the information are located in the Russian Federation.
+By registering in the Service you confirm that you are not going to store personal information in it. 
+Registration in the Service means creating an account consisting of login and password.
+You cannot use your email address, name or surname as login. You must use a combination of letters and numbers that cannot lead to establishing your real identity. This is necessary to guarantee you complete anonymity.
+You cannot restore your login and password. That is why if you forget your login and password you will not be able to access the information stored in the Service. You will still have access to the information stored in the Applications used by you.
+Data transmission between the Service and the Applications and the Websites is encrypted and performed via SSL protocol. 
+The information stored in the Service is not encrypted.
+The information stored in the Service can be used for quality improvement of the functioning of the Service, Applications, and Websites.
+The information stored in the Service is not given to third parties unless it is requested by law-enforcement authorities, if it is provided for by law.
+To delete the information stored in the Service, including the account, use the function of deleting the account in one of the Applications.
+If the account has not been used for over a year, this account and information associated with it can be deleted without noticing the user.
+The Company does its best to provide security and confidentiality of the information stored in the Service. However, the Company is not responsible for any damage caused as a result of the Service servers being hacked by third parties or any other illegal access to the information stored in the Service.
+The Company has the right to introduce changes to this Privacy policy without consent of the users.
+You can ask questions regarding this Privacy policy and the work of the Service via email money@mobion.biz.
+

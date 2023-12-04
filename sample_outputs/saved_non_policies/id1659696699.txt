@@ -1,0 +1,63 @@
+ Skip to main content         See and use suggested content in a document
+Want to get more out of Google Docs for work or school? Sign up for a Google Workspace trial at no charge.
+
+
+Find and add suggested content to documents in Google Docs. The suggested content is related to what’s in your document. You can also search your docs and the web from within a document.
+  Computer AndroidiPhone & iPad     MoreMore         Use Explore in Google Docs
+
+On your computer, open a document in Google Docs.
+At the bottom right, click Explore .
+You might see files, images, or information you can use to help finish your work, in these categories:
+    
+
+
+Topics: Search results for topics related to your document. To see a result, click the title.
+Related research: Research related to what’s in your document. To add a quote, point to the text and click Insert .
+
+
+
+
+
+
+
+
+
+Add images or info from other documents or the web
+
+On your computer, open a document in Google Docs.
+At the bottom right, click Explore .
+At the top, search for a document, presentation, image, chart, or webpage. Search results will show in categories:
+    
+Web: Info from the web related to your document.
+Images: Images from the web related to your document.
+
+Drive: Documents saved in your Google Drive.
+
+
+Add an item from your search:
+    
+Add an image or chart: Click the item you want to add. At the top, click Insert.
+Add a footnote: Point to your search result. Click Cite as footnote .
+Add a link: Point to your search result. Click Insert Link .
+
+
+
+
+Tip: To see more charts or images from a document, click "See more content" under the presentation or document.
+Related articles
+
+See and use suggested charts and analysis in a spreadsheet
+See and use suggested layouts in a presentation
+
+
+
+
+
+Give feedback about this article
+
+
+
+Choose a section to give feedback on      Need more help? Try these next steps:        Post to the help community   Get answers from community members        true    Tools1 of 11Use add-ons, Apps Script & AppSheet2 of 11Search and use find and replace3 of 11Check your spelling & grammar in Google Docs4 of 11Count the words in a document5 of 11Translate documents or write in a different language6 of 11Use equations in a document7 of 11See and use suggested content in a document8 of 11Keyboard shortcuts for Google Docs9 of 11Type with your voice10 of 11Use Google Keep in a document or presentation11 of 11Find what's changed in a file           Visit the Learning Center Using Google products, like Google Docs, at work or school? Try powerful tips, tutorials, and templates. Learn to work on Office files without installing Office, create dynamic project plans and team calendars, auto-organize your inbox, and more.             1942813874325137865               true       Search Help Center  true   true   true    Google HelpHelp CenterCommunityGoogle Docs EditorsPrivacy PolicyTerms of ServiceSubmit feedback      true true 35                false  What is the issue with this selection?Share additional info or suggestions​
+
+
+ ​Do not share any personal infoCancelSubmitBy continuing, you agree Google uses your answers, account & system info to improve services, per our Privacy & Terms.                          falseSearchClear searchClose searchMain menuGoogle apps 

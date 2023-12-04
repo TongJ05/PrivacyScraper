@@ -1,0 +1,504 @@
+
+
+
+
+
+
+
+
+Privacy Policy of DC Metro and Bus
+This Application collects some Personal Data from its Users.
+This document can be printed for reference by using the print command in the settings of any browser.
+ 
+
+
+Policy summary
+ 
+Personal Data processed for the following purposes and using the following services:
+
+
+
+
+
+Advertising
+
+
+AdMob
+Personal Data: Cookies; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); Usage Data
+
+
+Google AdSense
+Personal Data: Cookies; Usage Data
+
+
+
+
+
+
+Analytics
+
+
+Google Analytics and Parse Analytics
+Personal Data: Cookies; Usage Data
+
+
+
+
+
+
+Contacting the User
+
+
+Mailing List or Newsletter
+Personal Data: email address
+
+
+
+
+
+
+Device permissions for Personal Data access
+
+
+Device permissions for Personal Data access
+Personal Data: Approximate location permission (continuous); Precise location permission (continuous); Storage permission
+
+
+
+
+
+
+Hosting and backend infrastructure
+
+
+Firebase
+Personal Data: various types of Data as specified in the privacy policy of the service
+
+
+
+
+
+
+Information collection
+
+
+Data Collection
+
+
+
+
+
+
+Location-based interactions
+
+
+Geolocation
+Personal Data: geographic position
+
+
+
+
+
+
+Managing contacts and sending messages
+
+
+Mailchimp
+Personal Data: email address
+
+
+
+
+
+
+
+Information on opting out of interest-based advertising
+
+  In addition to any opt-out feature provided by any of the services listed in this document, Users may follow the instructions provided by   YourOnlineChoices (EU),   the Network Advertising Initiative (US) and   the Digital Advertising Alliance (US),   DAAC (Canada),   DDAI (Japan)   or other similar initiatives. Such initiatives allow Users to select their tracking preferences for most of the advertising tools. The Owner thus recommends that Users make use of these resources in addition to the information provided in this document.
+
+The Digital Advertising Alliance offers an application called AppChoices that helps Users to control interest-based advertising on mobile apps.
+Users may also opt out of certain advertising features through applicable device settings, such as the device advertising settings for mobile phones or ads settings in general.
+Further information about the processing of Personal Data
+
+
+
+
+
+BeaconsInSpace
+
+                        We share data we collect about you including unique identification numbers associated with mobile devices or through its API (including, for example, a Unique ID for Advertisers ("IDFA"), Unique ID for Vendors ("IDFV"), Google Ad ID, or Windows Advertising ID), mobile carrier, device type, model and manufacturer, mobile device operating system brand and model, battery life, and, depending on the user’s mobile device settings, the geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of the mobile device (“User Data”) with our third party partners, that enables us to provide you with information, advertisements, or offers specific to your location and interests.   By accepting our terms of service, you consent to the collection, storage and processing of your data by our third party partners for the purposes of: (i) providing or improving their services; (ii) enabling third parties to assist us and the retailer and venues (in which the beacons are located) in better serving and understanding our users; and (iii) sharing your data with third parties so they can provide or enable the provision of content, offers or other marketing solutions that may be of interest to you. You also consent to having your data transferred to and processed in the United States or any other jurisdiction in which our third party partners or their parent, subsidiaries, affiliates, service providers or partners maintain facilities. If you do not consent to the collection and transfer of the aforementioned data through the identification of your mobile device, we recommend that you: (a) delete our app or adjust the in-app settings of the app; or (b) opt out of sharing your mobile advertiser ID by limiting ad tracking on the device. For iOS, navigate to your Settings > Select Privacy > Select Advertising > Enable the “Limit Ad Tracking” setting. For Android, open your Google Settings app > Ads > Enable “Opt out of interest-based advertising. For more information on specific opt-out choices, please visit: http://www.networkadvertising.org/mobile-choices.
+                      
+
+
+
+
+X-Mode
+
+                        This mobile app may collect and pass to third parties precise geolocation information linked to your mobile device or advertising identifiers and may do when you use the app or when the app runs in the background on your device. That information may be used by third parties to customize ads in this app or in other apps: for instance, if your device is often located at or near music venues, you might receive offers for music tickets (even when you are not at a music venue). The information also may be used for market or other research regarding aggregated traffic patterns: for instance, a company that analyzes shopping trends might use the information to learn whether more or fewer devices are seen near malls or in other shopping districts.We automatically collect usage information that does not identify an individual user (“Usage Data”). For example, when you download and use the Services on a mobile device, we automatically collect information such as your device type, operating system version and type, certain device settings, device time zone, device carrier, current IP address, applications installed on the device, and platform-specific advertising identifiers. We may also collect location information, such as your device GPS coordinates, unless you configure your device operating system settings to prevent our collection of location information. Additionally, each time you use the Site we automatically collect the type of web browser you use, your operating system, your Internet Service Provider, your IP address, the pages you view, and the time and duration of your visits to the Site. We use this information to enhance the services we offer, provide targeted advertising, and to help us understand how people use the Site and Services. Aggregated device data, including location and usage data, is also measured for the purposes of market research by Placed, Inc. For further information, please see the PlacedTerms of Service and Privacy Policy.If you do not want this information to be linked to your device, you may go to your device “settings” (which are somewhat different for iOS and Android devices) and opt out of interest-based or personalized advertising. You may also prevent location from being collected by this or other apps, through your device settings (but this may affect the functionality of certain app features).
+                      
+
+
+
+
+
+Contact information
+
+
+
+
+
+Owner and Data Controller
+Dixon Mobility, LLC - PO Box 10463, Alexandria, VA 22310
+Owner contact email: info@dixonmobility.com
+
+
+
+
+
+ 
+
+Full policy
+ 
+
+
+    Owner and Data Controller   
+Dixon Mobility, LLC - PO Box 10463, Alexandria, VA 22310
+Owner contact email: info@dixonmobility.com
+
+
+
+    Types of Data collected   
+
+      Among the types of Personal Data that this Application collects, by itself or through third parties, there are:
+      Cookies; Usage Data; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); email address; geographic position; Storage permission; Approximate location permission (continuous); Precise location permission (continuous).
+    
+Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.Unless specified otherwise, all Data requested by this Application is mandatory and failure to provide this Data may make it impossible for this Application to provide its services. In cases where this Application specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.Any use of Cookies – or of other tracking tools — by this Application or by the owners of third-party services used by this Application serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document.
+Users are responsible for any third-party Personal Data obtained, published or shared through this Application.
+
+
+Mode and place of processing the Data
+
+    Methods of processing   
+The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Application (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.
+
+    Place   
+The Data is processed at the Owner's operating offices and in any other places where the parties involved in the processing are located.
+Depending on the User's location, data transfers may involve transferring the User's Data to a country other than their own. To find out more about the place of processing of such transferred Data, Users can check the section containing details about the processing of Personal Data.
+
+    Retention time   
+Unless specified otherwise in this document, Personal Data shall be processed and stored for as long as required by the purpose they have been collected for and may be retained for longer due to applicable legal obligation or based on the Users’ consent.
+
+
+The purposes of processing
+
+        The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following:
+        Advertising, Analytics, Contacting the User, Managing contacts and sending messages, Location-based interactions, Hosting and backend infrastructure, Device permissions for Personal Data access and Information collection.
+      
+For specific information about the Personal Data used for each purpose, the User may refer to the section “Detailed information on the processing of Personal Data”.
+
+
+Device permissions for Personal Data access
+Depending on the User's specific device, this Application may request certain  permissions that allow it to access the User's device Data as described below.
+By default, these permissions must be granted by the User before the respective information can be accessed. Once the permission has been given, it can be revoked by the User at any time. In order to revoke these permissions, Users may refer to the device settings or contact the Owner for support at the contact details provided in the present document.The exact procedure for controlling app permissions may be dependent on the User's device and software.
+Please note that the revoking of such permissions might impact the proper functioning of this Application.
+If User grants any of the permissions listed below, the respective Personal Data may be processed (i.e accessed to, modified or removed) by this Application.
+
+        Approximate location permission (continuous)       
+Used for accessing the User's approximate device location. This Application may collect, use, and share User location Data in order to provide location-based services.
+
+        Precise location permission (continuous)       
+Used for accessing the User's precise device location. This Application may collect, use, and share User location Data in order to provide location-based services.
+
+        Storage permission       
+Used for accessing shared external storage, including the reading and adding of any items.
+
+
+
+Detailed information on the processing of Personal Data
+Personal Data is collected for the following purposes and using the following services:
+
+
+
+
+                Advertising               
+
+This type of service allows User Data to be utilized for advertising communication purposes. These communications are displayed in the form of banners and other advertisements on this Application, possibly based on User interests.
+This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below. 
+Some of the services listed below may use Trackers to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside this Application. For more information, please check the privacy policies of the relevant services.
+Services of this kind usually offer the possibility to opt out of such tracking. In addition to any opt-out feature offered by any of the services below, Users may learn more on how to generally opt out of interest-based advertising within the dedicated section "How to opt-out of interest-based advertising" in this document.
+AdMob (AdMob Google Inc.)
+
+AdMob is an advertising service provided by AdMob Google Inc.
+In order to understand Google's use of Data, consult Google's partner policy.
+
+Personal Data processed: Cookies; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); Usage Data.
+Place of processing:  US –  Privacy Policy – Opt Out. 
+Google AdSense (Google Inc.)
+
+Google AdSense is an advertising service provided by Google LLC or by Google Ireland Limited, depending on how the Owner manages the Data processing. This service uses the “DoubleClick” Cookie, which tracks use of this Application and User behavior concerning ads, products and services offered.
+Users may decide to disable all the DoubleClick Cookies by going to: Google Ad Settings.
+In order to understand Google's use of data, consult Google's partner policy.
+
+Personal Data processed: Cookies; Usage Data.
+Place of processing:  US –  Privacy Policy – Opt Out. 
+
+
+
+
+
+
+                Analytics               
+
+The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
+Google Analytics (Google Inc.)
+
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
+
+Personal Data processed: Cookies; Usage Data.
+Place of processing:  US –  Privacy Policy – Opt Out. 
+Parse Analytics (Parse LLC.)
+
+Parse Analytics is an analytics service provided by Parse LLC.
+
+Personal Data processed: Cookies; Usage Data.
+Place of processing:  US –  Privacy Policy. 
+
+
+
+
+
+
+                Contacting the User               
+
+Mailing List or Newsletter (This Application)
+
+By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Application. Your email address might also be added to this list as a result of signing up to this Application or after making a purchase.
+
+Personal Data processed: email address.
+
+
+
+
+
+
+                Device permissions for Personal Data access               
+
+This Application requests certain permissions from Users that allow it to access the User's device Data as described below.
+Device permissions for Personal Data access (This Application)
+
+This Application requests certain permissions from Users that allow it to access the User's device Data as summarized here and described within this document.
+
+Personal Data processed: Approximate location permission (continuous); Precise location permission (continuous); Storage permission.
+
+
+
+
+
+
+                Hosting and backend infrastructure               
+
+This type of services has the purpose of hosting data and files that enable this Application to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of this Application.
+Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
+Firebase (Firebase, Inc.)
+
+Firebase is a hosting and backend service provided by Firebase, Inc.
+
+Personal Data processed: various types of Data as specified in the privacy policy of the service.
+Place of processing:  US –  Privacy Policy. 
+
+
+
+
+
+
+                Information collection               
+
+Data Collection 
+
+When you use Dixon Mobility apps or sites, your device may send us some or all of the following:GPS Coordinates. The GPS coordinates of a device. On many devices, enabling or disabling "Location Services" or a similar setting controls whether the device sends GPS coordinates.Internet Protocol (IP) Address. An IP Address is a number automatically assigned by Your Internet Service Provider (ISP). The IP address is the host computer a device uses to connect to the ISP's network to send information to Us or to our Providers and for a device to receive information back from Us or from our Providers.Device ID. A Device ID is a combination of letters and numbers that is unique to the device You are using. The Device ID identifies the device, regardless of who is using the device. On many devices, the Device ID is provided by the device manufacturer and stored permanently in the memory of the device. Depending on how the manufacturer configured the device, You may not be able to change it.Advertising ID (AAID) or ID for Advertising (IDFA). These are combinations of letters and numbers that are unique to the device You are using. However, these identifiers may not be permanent. Depending on Your device, You may be able to reset them through the settings of Your device or Your browser.Information about other devices that are near Your device. Your device commonly has several types of wireless communications methods, and each is enabled or disabled separately by You. If You are using a wireless or cellular connection, the device may log and transmit when it has come in contact or connected to other devices or components of the network the device is using. These include things such as:When You enable WiFi, a service set identifier (SSID) of a WiFi access point near the deviceWhen You enable a cellular connection, a cell tower near the deviceWhen You enable Bluetooth, a Bluetooth beacon near the deviceInformation from sensors on Your device. Many mobile devices include sensors that measure information about the surroundings of the device. These include things like gyroscopes, accelerometers and altimeters that measure things like rotation, speed direction and altitude. Some wearable devices also include sensors for body conditions like pulse and body temperature.Information about the performance of Your device. This may include information such as how much battery power the device is using, the operating system and version the device is using and the version of Our application the device is using.Pixel Tags, Web Beacons, Flash Shared Objects/HTML5 Local Storage/HTML5 Mini Databases. Many mobile devices use these technologies which allow for the storage of information on the mobile devices and, in effect, allow the enhancement of internet browsing The Flash Shared Objects, HTML5 Local Storage and HTML5 Mini Databases also allow the device to track a user's web browsing movements across the internet and not just on one particular website. You can learn more about how we use these technologies here.If you turn off "Location Services" or a similar setting that controls GPS functionality, the device still may automatically send or receive this other information as long as you have these other communications types enabled. You should read the instructions related to Your device, operating system or browser to learn about how to control the information Your device may transmit.We also may disclose information to unaffiliated third-party Providers. We deliver valuable information to You on Dixon Mobility Apps and Sites free of charge or at low rates. We can accomplish this by working with Providers. This Providers include AreaMetrics, Teemo, Reveal Mobile, Xmode, Beacons In Space/Fysical. We update this list from time to time, so You should review it from time to time. You also should visit the sites of these Providers and review their privacy terms and disclosures. 
+
+
+
+
+
+
+                Location-based interactions               
+
+Geolocation (This Application)
+
+This Application may collect, use, and share User location Data in order to provide location-based services.
+Most browsers and devices provide tools to opt out from this feature by default. If explicit authorization has been provided, the User’s location data may be tracked by this Application.
+
+Personal Data processed: geographic position.
+
+
+
+
+
+
+                Managing contacts and sending messages               
+
+This type of services makes it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User.
+These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.
+Mailchimp (The Rocket Science Group, LLC.)
+
+Mailchimp is an email address management and message sending service provided by Intuit Inc.
+
+Personal Data processed: email address.
+Place of processing:  US –  Privacy Policy. 
+
+
+
+
+
+
+Information on opting out of interest-based advertising
+
+  In addition to any opt-out feature provided by any of the services listed in this document, Users may follow the instructions provided by   YourOnlineChoices (EU),   the Network Advertising Initiative (US) and   the Digital Advertising Alliance (US),   DAAC (Canada),   DDAI (Japan)   or other similar initiatives. Such initiatives allow Users to select their tracking preferences for most of the advertising tools. The Owner thus recommends that Users make use of these resources in addition to the information provided in this document.
+
+The Digital Advertising Alliance offers an application called AppChoices that helps Users to control interest-based advertising on mobile apps.
+Users may also opt out of certain advertising features through applicable device settings, such as the device advertising settings for mobile phones or ads settings in general.
+
+
+
+Further information about the processing of Personal Data
+
+
+
+
+                BeaconsInSpace               
+
+We share data we collect about you including unique identification numbers associated with mobile devices or through its API (including, for example, a Unique ID for Advertisers ("IDFA"), Unique ID for Vendors ("IDFV"), Google Ad ID, or Windows Advertising ID), mobile carrier, device type, model and manufacturer, mobile device operating system brand and model, battery life, and, depending on the user’s mobile device settings, the geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of the mobile device (“User Data”) with our third party partners, that enables us to provide you with information, advertisements, or offers specific to your location and interests.   By accepting our terms of service, you consent to the collection, storage and processing of your data by our third party partners for the purposes of: (i) providing or improving their services; (ii) enabling third parties to assist us and the retailer and venues (in which the beacons are located) in better serving and understanding our users; and (iii) sharing your data with third parties so they can provide or enable the provision of content, offers or other marketing solutions that may be of interest to you. You also consent to having your data transferred to and processed in the United States or any other jurisdiction in which our third party partners or their parent, subsidiaries, affiliates, service providers or partners maintain facilities. If you do not consent to the collection and transfer of the aforementioned data through the identification of your mobile device, we recommend that you: (a) delete our app or adjust the in-app settings of the app; or (b) opt out of sharing your mobile advertiser ID by limiting ad tracking on the device. For iOS, navigate to your Settings > Select Privacy > Select Advertising > Enable the “Limit Ad Tracking” setting. For Android, open your Google Settings app > Ads > Enable “Opt out of interest-based advertising. For more information on specific opt-out choices, please visit: http://www.networkadvertising.org/mobile-choices.
+
+
+
+
+
+
+                X-Mode               
+
+This mobile app may collect and pass to third parties precise geolocation information linked to your mobile device or advertising identifiers and may do when you use the app or when the app runs in the background on your device. That information may be used by third parties to customize ads in this app or in other apps: for instance, if your device is often located at or near music venues, you might receive offers for music tickets (even when you are not at a music venue). The information also may be used for market or other research regarding aggregated traffic patterns: for instance, a company that analyzes shopping trends might use the information to learn whether more or fewer devices are seen near malls or in other shopping districts.We automatically collect usage information that does not identify an individual user (“Usage Data”). For example, when you download and use the Services on a mobile device, we automatically collect information such as your device type, operating system version and type, certain device settings, device time zone, device carrier, current IP address, applications installed on the device, and platform-specific advertising identifiers. We may also collect location information, such as your device GPS coordinates, unless you configure your device operating system settings to prevent our collection of location information. Additionally, each time you use the Site we automatically collect the type of web browser you use, your operating system, your Internet Service Provider, your IP address, the pages you view, and the time and duration of your visits to the Site. We use this information to enhance the services we offer, provide targeted advertising, and to help us understand how people use the Site and Services. Aggregated device data, including location and usage data, is also measured for the purposes of market research by Placed, Inc. For further information, please see the PlacedTerms of Service and Privacy Policy.If you do not want this information to be linked to your device, you may go to your device “settings” (which are somewhat different for iOS and Android devices) and opt out of interest-based or personalized advertising. You may also prevent location from being collected by this or other apps, through your device settings (but this may affect the functionality of certain app features).
+
+
+
+
+
+
+    Further Information for Users       
+
+  Legal basis of processing
+
+The Owner may process Personal Data relating to Users if one of the following applies:
+
+Users have given their consent for one or more specific purposes.
+provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligations thereof;
+processing is necessary for compliance with a legal obligation to which the Owner is subject;
+processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Owner;
+processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.
+
+In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract. 
+
+  Further information about retention time
+
+Unless specified otherwise in this document, Personal Data shall be processed and stored for as long as required by the purpose they have been collected for and may be retained for longer due to applicable legal obligation or based on the Users’ consent.
+Therefore:
+
+Personal Data collected for purposes related to the performance of a contract between the Owner and the User shall be retained until such contract has been fully performed.
+Personal Data collected for the purposes of the Owner’s legitimate interests shall be retained as long as needed to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the Owner within the relevant sections of  this document or by contacting the Owner.
+
+The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to such processing, as long as such consent is not withdrawn. Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to fulfil a legal obligation or upon order of an authority.
+Once the retention period expires, Personal Data shall be deleted. Therefore, the right of access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
+The rights of Users based on the General Data Protection Regulation (GDPR)
+Users may exercise certain rights regarding their Data processed by the Owner.
+In particular, Users have the right to do the following, to the extent permitted by law:
+
+Withdraw their consent at any time. Users have the right to withdraw consent where they have previously given their consent to the processing of their Personal Data.
+Object to processing of their Data. Users have the right to object to the processing of their Data if the processing is carried out on a legal basis other than consent.
+Access their Data. Users have the right to learn if Data is being processed by the Owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing processing.
+Verify and seek rectification. Users have the right to verify the accuracy of their Data and ask for it to be updated or corrected.
+Restrict the processing of their Data. Users have the right to restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other than storing it.
+
+Have their Personal Data deleted or otherwise removed. Users have the right to obtain the erasure of their Data from the Owner.
+Receive their Data and have it transferred to another controller. Users have the right to receive their Data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance.
+Lodge a complaint. Users have the right to bring a claim before their competent data protection authority.
+
+
+  Users are also entitled to learn about the legal basis for Data transfers abroad including to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data.
+
+
+  Details about the right to object to processing
+
+Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.
+Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time, free of charge and without providing any justification. Where the User objects to processing for direct marketing purposes, the Personal Data will no longer be processed for such purposes. To learn whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document. 
+
+  How to exercise these rights
+
+Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. Such requests are free of charge and will be answered by the Owner as early as possible and always within one month, providing Users with the information required by law. Any rectification or erasure of Personal Data or restriction of processing will be communicated by the Owner to each recipient, if any, to whom the Personal Data has been disclosed unless this proves impossible or involves disproportionate effort. At the Users’ request, the Owner will inform them about those recipients.
+
+
+
+Additional information about Data collection and processing
+
+    Legal action   
+The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Application or the related Services.The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.
+
+    Additional information about User's Personal Data   
+In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular Services or the collection and processing of Personal Data upon request.
+
+    System logs and maintenance   
+For operation and maintenance purposes, this Application and any third-party services may collect files that record interaction with this Application (System logs) or use other Personal Data (such as the IP Address) for this purpose.
+
+    Information not contained in this policy   
+More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document.
+
+    Changes to this privacy policy   
+The Owner reserves the right to make changes to this privacy policy at any time by notifying its Users on this page and possibly within this Application and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. 
+Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.
+
+
+
+
+      Definitions and legal references     
+
+Personal Data (or Data)
+Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person.
+Usage Data
+Information collected automatically through this Application (or third-party services employed in this Application), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
+User
+The individual using this Application who, unless otherwise specified, coincides with the Data Subject.
+Data Subject
+The natural person to whom the Personal Data refers.
+Data Processor (or Processor)
+The natural or legal person, public authority, agency or other body which processes Personal Data on behalf of the Controller, as described in this privacy policy.
+Data Controller (or Owner)
+The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of this Application. The Data Controller, unless otherwise specified, is the Owner of this Application.
+This Application
+The means by which the Personal Data of the User is collected and processed.
+Service
+The service provided by this Application as described in the relative terms (if available) and on this site/application.
+European Union (or EU)
+Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area.
+Cookie
+Cookies are Trackers consisting of small sets of data stored in the User's browser.
+Tracker
+Tracker indicates any technology - e.g Cookies, unique identifiers, web beacons, embedded scripts, e-tags and fingerprinting - that enables the tracking of Users, for example by accessing or storing information on the User’s device.
+
+Legal information
+This privacy policy relates solely to this Application, if not stated otherwise within this document.
+
+
+
+
+
+    Latest update: March 13, 2023   
+
+iubenda hosts this content and only collects the Personal Data strictly necessary for it to be provided.
+  
+ 
+
+ 
+ 
+ 
+ 
+

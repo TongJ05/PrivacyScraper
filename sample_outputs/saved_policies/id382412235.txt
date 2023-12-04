@@ -1,0 +1,44 @@
+
+
+
+
+
+
+
+Demodit GmbHSoftware DevelopmentIT Services
+
+CompanySoftwareiPhone / iPadMacContactDEENClassicWeatherBirthdaysProContactsProGroupsProSMS FilterProFunny SocksTrue or FalseContactPrivacy PolicyBirthdaysPro Privacy PolicyWe at Demodit GmbH respect your privacy. This Privacy Policy is designed to show you how your data is used by using iOS Apps BirthdaysPro Lite (w/o Premium) or BirthdaysPro.  We at Demodit GmbH don't use your data for any for our or others purposes. The data is only used in the context of your experience with the application. 
+
+Information we collect about you
+ We don't collect any of your data for our or others purposes. BirthdaysPro stores data which you allow access to, on its database on your mobile device. This for faster access (caching).
+If you create BirthdaysPro contacts, then their data is stored on BirthdaysPro's database or in its file system.
+This concerns following data:
+
+- Contacts data (what you see in the details of a contact)
+- Photos (when you add a photo to a BirthdaysPro contact)
+
+How we use your data
+ We use your data only in the context of your experience with the application. Some app usage information maybe be collected for statistics.
+
+How we display your data
+ The data is only displayed whithin the application. 
+
+How we share your data
+ We or the application don't share your data. 
+
+Transfer of your data
+ We or the application don't transfer your data, except to your personal iCloud. You can deactivate iCloud by deactivating iCloud drive or iCloud for BirthdysPro in the device settings. Some app usage information maybe be transferred for statistics.
+
+How you can delete BirthdaysPro data
+ You can delete BirthdaysPro contacts and their data by swaping from right to left in the contact list.
+When deleting BirthdaysPro app, all its data stored on your mobile device is deleted too. 
+
+Login to a social network account
+ When you login to a social network account (like VK or Odnoklassniki), please see their privacy policy how they treat your data.
+
+Updates to this Privacy Policy
+ This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our information processing practices or for any other purpose. The valid Privacy Policy is always included in the latest version of the application (see "More / Privacy Policy").
+
+Demodit GmbH, Software, 8305 Dietlikon ZH, Switzerland
+
+Loading...
