@@ -168,6 +168,10 @@ def download_text(url, app_id, output_path_policy, output_path_nonpolicy):
         links = soup.find_all('a')
         hrefs, anchor_texts = get_link_with_anchor(links)
 
+        # remove all whitespaces in anchor texts because GenAI tools' responses will not include whitespaces.
+        for i in range(len(anchor_texts)):
+            anchor_texts[i] = anchor_texts[i].strip()
+
         try:
             anchor_to_follow = get_policy_page_anchor(page_source)
             href_to_follow = hrefs[anchor_texts.index(anchor_to_follow)]
