@@ -12,6 +12,15 @@ import pdfminer.high_level
 from config import config
 
 
+def reformat(text):
+    # remove zero width spaces, replace multiple whitespaces with one
+    result = text.replace('‍', '\n')
+    result = result.replace(' ', ' ')
+    result = re.sub(r'\n+', '\n', result)
+    result = re.sub(r'[ \t]+', ' ', result)
+    return result
+
+
 def ask_chatgpt(prompt='', messages=None, retries=config['chatgpt_api_retries']):
     """
     This method passes the given input to ChatGPT API. Input can either be a text prompt or a complete message with
@@ -101,6 +110,68 @@ def get_policy_page_anchor(page_source):
     return ask_chatgpt(prompt=complete_prompt)
 
 
+def collect_page_text(driver, url=''):
+    page_source = driver.page_source
+    soup = BeautifulSoup(page_source, 'html.parser')
+
+    # remove headers and footers (if any)
+    header = soup.find('header')
+    head = soup.find('head')
+    footer = soup.find('footer')
+    foot = soup.find('foot')
+
+    if header:
+        header.extract()
+    if head:
+        head.extract()
+    if footer:
+        footer.extract()
+    if foot:
+        foot.extract()
+
+    # blocklist = [
+    #     'style',
+    #     'script',
+    #     'option',
+    #     'label'
+    #     # text in these labels will not be collected
+    # ]
+    #
+    # text_elements = [t for t in soup.find_all(string=True) if t.parent.name not in blocklist]
+    # text = ''
+    # for t in text_elements:
+    #     element_text = t.get_text()
+    #     # replaces every newline that is not preceded by a period or column by a space for a better format
+    #     element_text = re.sub(r'(?<=[^.:])\n(?=.)', ' ', element_text)
+    #     text += element_text
+    text = reformat(soup.get_text())
+
+    # check iframe
+    text_iframe = ""
+    if len(text) < 1000:  # probably contains an iframe with additional contents
+        iframe = soup.find('iframe')
+        if iframe:
+            try:
+                iframe_url = iframe['src']
+                driver.get(iframe_url)
+                driver.implicitly_wait(5)
+                iframe_source = driver.page_source
+                soup_iframe = BeautifulSoup(iframe_source, 'html.parser')
+                text_iframe = soup_iframe.get_text()
+            except Exception:
+                print("Error checking iframe for doc with URL:", url)
+    text += text_iframe
+
+    # check pdf
+    if len(text) == 0:
+        text = get_pdf_text(url)
+
+    if len(text) > 15000:
+        text = text[:15000]
+
+    return text
+
+
 def is_policy_page_cot(driver, url=''):
     """
         Given a web driver, decides if the current page contains a privacy policy or a beginning of a privacy policy(in
@@ -120,62 +191,8 @@ def is_policy_page_cot(driver, url=''):
     initial_prompt = config['if_policy_page_prompt_beginning']
     task_description = config['if_policy_page_prompt_ending']
 
-    page_source = driver.page_source
-    soup = BeautifulSoup(page_source, 'html.parser')
-
-    # remove headers and footers (if any)
-    header = soup.find('header')
-    head = soup.find('head')
-    footer = soup.find('footer')
-    foot = soup.find('foot')
-
-    if header:
-        header.extract()
-    if head:
-        head.extract()
-    if footer:
-        footer.extract()
-    if foot:
-        foot.extract()
-
-    blocklist = [
-        'style',
-        'script',
-        'option',
-        'label'
-        # text in these labels will not be collected
-    ]
-
-    text_elements = [t for t in soup.find_all(string=True) if t.parent.name not in blocklist]
-    text = ''
-    for t in text_elements:
-        element_text = t.get_text()
-        # replaces every newline that is not preceded by a period or column by a space for a better format
-        element_text = re.sub(r'(?<=[^.:])\n(?=.)', ' ', element_text)
-        text += element_text
-
-    # check iframe
-    text_iframe = ""
-    if len(text) < 1000:  # probably contains an iframe with additional contents
-        iframe = soup.find('iframe')
-        if iframe:
-            try:
-                iframe_url = iframe['src']
-                driver.get(iframe_url)
-                driver.implicitly_wait(5)
-                iframe_source = driver.page_source
-                soup_iframe = BeautifulSoup(iframe_source, 'html.parser')
-                text_iframe = soup_iframe.get_text()
-            except Exception:
-                print("Error checking iframe for doc ", id)
-    text += text_iframe
-
-    # check pdf
-    if len(text) == 0:
-        text = get_pdf_text(url)
-
-    if len(text) > 15000:
-        text = text[:15000]
+    # Collecting the text of the website
+    text = collect_page_text(driver, url)
 
     # Use Chain of Thought technique to decide if the content is a privacy policy
     complete_prompt = initial_prompt + text + task_description  # first prompt, asking for evidence
@@ -195,6 +212,28 @@ def is_policy_page_cot(driver, url=''):
     return cot_response
 
 
+def is_404_cot(driver, url=''):
+    initial_prompt = config['if_404_prompt_beginning']
+    task_description = config['if_404_prompt_ending']
+
+    # Collecting the text of the website
+    text = collect_page_text(driver, url)
+
+    complete_prompt = initial_prompt + text + task_description  # first prompt, asking for evidence
+    initial_response = ask_chatgpt(prompt=complete_prompt)
+    cot_prompt = config['if_404_prompt_extract_answer']  # prompt to extract answer
+
+    messages = [
+        {"role": "system",
+         "content": config['initial_prompt']},
+        {"role": "user", "content": complete_prompt},
+        {"role": "system", "content": initial_response},
+        {"role": "user", "content": cot_prompt}
+    ]
+
+    cot_response = ask_chatgpt(messages=messages).replace('.', '')
+    return cot_response
+
 def get_pdf_text(url):
     """
     Given a URL to a pdf document, return all its text.
@@ -204,7 +243,7 @@ def get_pdf_text(url):
     Return:
         All text in that pdf document
     """
-    text = None
+    text = ''
     try:
         response = urllib.request.urlopen(url)
         content = response.read()
