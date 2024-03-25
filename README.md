@@ -4,7 +4,7 @@
 *12/02/2023, Tong Jiao*
 
 ## Overview
-Given a CSV file containing URLs to privacy policy pages, this crawler can retrieve and save full privacy policy texts from the given URLs.
+Given a URL or a CSV file containing URLs to privacy policy pages, this crawler can retrieve and save full privacy policy texts from the given URLs.
 
 ## Objective of Designing This Crawler
 Though app developers are required to provide a URL to their privacy policy on the app store, the website's content from the given URL is not always the full privacy policy text. It may indirectly lead to the privacy policy or have links to other additional information. This software aims to get all information related to privacy from this given URL.  
@@ -16,15 +16,25 @@ Detailed design and analysis of this crawler, its performance on popular and ran
 - **config.py:** Configurations used throughout the crawler
 - **download_text_genai.py:** Functions for downloading text from URLs using generative AI tools
 - **get_websites.py:** Retrieves a list of websites to download from the provided CSV file
-- **main.py:** Executes the entire crawling process
+- **main.py:** Executes the entire extracting process, if you want to do not want to use the `download_text` or `download_text_save` method elsewhere.
 
-## Example Input and Output Files
-- **Example Input File:** `popular_apps.csv` (contains 100 URLs to privacy policies of popular apps on the iOS app store, accessed at 10/14/2023)
-- **Output Folders:**
+## Example Input, Output Files, and Usage
+- **Example input file:** `popular_apps.csv` (contains 100 URLs to privacy policies of popular apps on the iOS app store, accessed at 10/14/2023)
+- **Output folders:**
   - `saved_policies`: Contains texts from privacy policies
   - `saved_non_policies`: Contains texts from non-privacy policies
+- **Used as an API imported by another module:**
+```python
+from download_text_genai import download_text
+from config import config
 
-## Usage Instructions
+example_url = "http://pbskids.org/privacy"
+example_app_name = ''
+policy_text, is_policy_page = download_text(example_url)
+```
+     
+
+## Usage Instructions for using `main.py`
 1. **Prepare Input:**
    - Get a list of websites to crawl and save the app names and URLs in a CSV file.
 2. **Specify Configurations in `config.py`:**  
